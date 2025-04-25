@@ -22,4 +22,13 @@ Link: https://judge.nitro-ai.org/roai-2025/simulare-ojia-2
 
 - un model random forest cu 350 estimatori intra
 
-## Predicția prețului unei case
+## Predicția prețului unei case: 100p
+
+- subtask 1: adunare
+- subtask 2: impartire
+- subtask 3: operatii aritmetice elementare
+- subtask 4: se face media de pe df_train, apoi cu np.abs diferenta
+- subtask 5:
+
+  - se scot valorile inutile (expunerea solara, intensitatea campului magnetic, etc.)
+  - se foloseste un stacking ensemble dintre un gradient booster si ridge regression
