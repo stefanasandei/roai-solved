@@ -2,6 +2,16 @@
 
 Link: https://judge.nitro-ai.org/cram-school/cram-school-practice
 
-## Cybersecurity AI Challenge
+explicatii todo
 
-## Brain Anomaly Detection
+## Cybersecurity AI Challenge: 100p
+
+### subtask 1
+
+### subtask 2
+
+## Brain Anomaly Detection: 100p"
+
+### subtask 1
+
+### subtask 2
