@@ -1,4 +1,4 @@
-# Simulare OJIA 1
+# Simulare OJIA 3
 
 Link: https://judge.nitro-ai.org/roai-2025/simulare-ojia-3
 
