@@ -43,67 +43,6 @@ df["Timestamp"] = pd.to_datetime(df["Timestamp"])
 df["Is_AM"] = df["Timestamp"].dt.hour < 12
 ```
 
-Procesarea datelor:
-
-- filtrare: `df[df[col] > 3]`, `df[(corrs < 0.003) & (corrs > -0.003)]`
-- `.nunique()`: cate valori unice sunt
-- `.isna().sum()`: cate valori lipsesc per coloana
-- `.value_counts()`: frecventa fiecarei valori per coloana
-- `.sort_values()`: sortarea unei serii
-- `.map(lambda x: x)`: transformarea valorilor dintr-o serie, o mapare - se apeleaza de pe o serie
-- `.apply()`: aplicatii operatii (de sinteza) pe coloane - se apeleaza de pe un dataframe
-- `.groupby()`: grupeaza datele dupa o serie de valori, necesar ca aceasta serie sa aiba duplicate pentru a avea sens agregarea
-
-```py
->>> df = pd.DataFrame({'Animal': ['Falcon', 'Falcon',
-...                               'Parrot', 'Parrot'],
-...                    'Max Speed': [380., 370., 24., 26.]})
->>> df
-   Animal  Max Speed
-0  Falcon      380.0
-1  Falcon      370.0
-2  Parrot       24.0
-3  Parrot       26.0
->>> df.groupby(['Animal']).mean()
-        Max Speed
-Animal
-Falcon      375.0
-Parrot       25.0
-```
-
-- `.agg({})`: pentru groupby, pentru a face agregari complexe mixte
-
-```py
-df.groupby("Base Flavor").agg({'Flavor Rating': ['mean', 'max', 'sum']})
-```
-
-- pivot tables: cand vrem date agregate dupa mai multe date categorice (deci groupby dar grupam dupa mai multe)
-
-```py
-df.pivot_table(index='Year', columns='Team', values='Height', aggfunc=['mean'])
-# va rezulta un tabel cu Year pentru randuri, Team pentru coloane si valorile efective din tabel Height
-```
-
-Analiza datelor:
-
-- `np.select(cond_list, choice_list)`: returneaza un array cu elemente din choice list, pe baza conditiilor din cond_list
-
-```py
-conditions = [
-    test_df["GFR"] >= 90,
-    (60 <= test_df["GFR"]) & (test_df["GFR"] < 90)
-]
-
-choices = ["Normal", "Mildly Decreased"]
-subtask1 = np.select(conditions, choices)
-```
-
-- `np.quantile`: calculeaza quantile-ul
-
-```py
-q3 = np.quantile(series, 0.75)
-```
-
 ## 2. Machine Learning
 
 Linear Regression
