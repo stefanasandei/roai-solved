@@ -167,9 +167,47 @@ scores = analyzer.polarity_scores(text)
 sentiment = 1 if scores['pos'] > 0 else 0
 ```
 
+Stemming (reducere la forma de baza):
+
+```py
+from nltk.stem import PorterStemmer
+
+stemmer = PorterStmemer()
+
+stemmers.stem(word)
+```
+
+Integrare cu pandas:
+
+```py
+def preprocess_text(text):
+    tokens = word_tokenize(text)
+    tokens = [word.lower() for word in tokens]
+
+    filtered_tokens = [token for token in tokens if token not in stopwords.words('english')]
+
+    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]
+
+    return " ".join(lemmatized_tokens)
+
+df['processed_comments'] = df['clean_comments'].apply(preprocess_text)
+```
+
 # pillow
 
-TODO
+```py
+from PIL import Image
+
+img = Image.open("file.jpg")
+```
+
+Convertire gray-scale:
+
+```py
+img = img.convert("L")
+
+plt.imshow(img, cmap='gray')
+```
 
 # scikit-image
 
