@@ -1,12 +1,5 @@
-# Nitro Language Processing - 3rd Edition - Satire
+# Nitro Language Processing - 2nd Edition - Sexism
 
-Binary classification of Romanian news articles into satire / non-satire buckets
+Smashing Sexism: Overcoming Bias in a Cross-Domain 5-Point Classification Challenge
 
-## Rezolvare: 0.87183
-
-First attempt:
-
-- se unesc title si content
-- se foloseste un tfidf vectorizer cu ngram range default (1,1)
-- logistic regression
-- local un CV de 0.86659
+## Rezolvare:

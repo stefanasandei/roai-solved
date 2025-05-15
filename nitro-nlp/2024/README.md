@@ -1,24 +1,12 @@
-# Nitro NLP 2025
+# Nitro Language Processing - 3rd Edition - Satire
 
-Link: https://judge.nitro-ai.org/nitro-2025/nitro-nlp
+Binary classification of Romanian news articles into satire / non-satire buckets
 
-## Mickey și Donald: 77p
+## Rezolvare: 0.87183
 
-- s-au folosit modele diferite pentru cele doua subtask-uri
-- preprocesare text:
-  - totul in litere mici
-  - inlocuirea `$NE$` (devenit `$ne$`) cu un token specific unic (am ales `entitate_necunoscuta`), asta e deoarece ulterior vectorizer-ul va ignora `$`, astfel pastram structura
-  - inlocuim â din a cu â din i (si variantele mari)
-- se foloseste un Tfidf vectorizer cu range ngram de (1,3) si selectam structurile care apar in minim 2 documente si maxim 90%
-- scadem cu 1 toate clasele pentru antrenare, cand scriem submisia adaugam 1 la predictii
+First attempt:
 
-subtask 1:
-
-- mai intai facem un model MultinomialNB cu alpha 0.001 (s-au incercat manual valori - finetuning) - folosim si un model LinearSVC cu C de 50 (am incercat si mai mare, nu aduce improvements notabile)
-- in final facem un stacking ensemble din cele doua, notabil este ca urmarim nu doar un scor cat mai mare ci si o tendinta minima de overfitting (urmarire diferenta scor CV cu scorul normal)
-
-subtask 2:
-
-- folosind ce am aflat de la subtask 1, folosim un singur model MultinomialNB
-
-## Find the Ducks
+- se unesc title si content
+- se foloseste un tfidf vectorizer cu ngram range default (1,1)
+- logistic regression
+- local un CV de 0.86659
