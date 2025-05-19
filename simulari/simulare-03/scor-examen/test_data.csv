@@ -1,0 +1,1323 @@
+ID,Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender
+5286,20,71,Medium,Low,No,7,87,High,Yes,1,Medium,Medium,Public,Negative,5,No,High School,Near,Male
+5287,22,71,Medium,Low,Yes,7,98,Low,Yes,2,Low,High,Public,Neutral,2,No,High School,Moderate,Female
+5288,21,91,High,Medium,Yes,6,53,High,Yes,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Female
+5289,12,91,Medium,Low,Yes,8,81,Low,Yes,0,Low,Low,Public,Positive,4,No,High School,Moderate,Male
+5290,21,63,Low,High,Yes,8,95,Medium,Yes,2,High,Medium,Public,Neutral,5,No,High School,Near,Male
+5291,21,79,Low,Medium,Yes,7,84,Low,Yes,2,Medium,Medium,Private,Neutral,3,No,High School,Near,Male
+5292,37,73,Medium,High,Yes,6,71,Medium,Yes,0,High,High,Public,Positive,5,No,High School,Moderate,Male
+5293,24,84,Low,Medium,Yes,7,52,Medium,Yes,0,Low,High,Public,Neutral,3,No,High School,Near,Male
+5294,17,98,High,Low,Yes,10,71,Medium,Yes,0,Low,High,Private,Positive,3,No,Postgraduate,Moderate,Female
+5295,16,94,High,High,Yes,9,76,Medium,Yes,0,Low,High,Public,Neutral,2,No,High School,Near,Male
+5296,22,68,Medium,Medium,No,4,87,High,Yes,2,Medium,Medium,Public,Neutral,3,No,Postgraduate,Far,Female
+5297,24,96,Medium,High,Yes,5,69,Medium,Yes,1,Low,Medium,Public,Positive,4,No,High School,Near,Male
+5298,22,68,Medium,High,No,7,76,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Male
+5299,17,67,Medium,Medium,No,9,97,Medium,Yes,1,Medium,Low,Public,Neutral,3,No,Postgraduate,Moderate,Female
+5300,17,72,Low,Medium,Yes,5,66,Medium,Yes,2,High,High,Public,Negative,3,No,College,Near,Male
+5301,17,60,High,Medium,Yes,9,86,Medium,Yes,0,Low,High,Public,Positive,2,No,High School,Near,Male
+5302,22,60,Medium,Medium,No,6,92,Low,Yes,2,Low,High,Public,Negative,2,No,High School,Near,Male
+5303,25,97,Low,High,Yes,5,85,Medium,Yes,2,High,Medium,Public,Positive,2,No,,Near,Male
+5304,21,79,Medium,Low,No,5,86,Low,Yes,1,High,,Private,Positive,2,No,High School,Moderate,Female
+5305,11,82,High,High,No,7,97,Low,Yes,2,High,Medium,Public,Positive,3,No,College,Near,Male
+5306,18,69,High,Medium,Yes,7,100,Medium,Yes,3,Medium,High,Public,Negative,2,No,High School,Near,Male
+5307,20,98,Medium,Medium,No,6,80,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,College,Moderate,Male
+5308,19,65,Medium,Medium,Yes,10,66,Low,Yes,0,Low,Medium,Public,Positive,3,No,High School,Moderate,Male
+5309,14,78,Medium,Medium,No,4,62,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,,Male
+5310,13,86,Medium,Low,Yes,5,54,Medium,Yes,3,High,High,Public,Neutral,3,Yes,College,Near,Male
+5311,25,94,High,High,No,5,85,High,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Female
+5312,17,100,Medium,Medium,No,5,76,Low,Yes,3,Low,High,Private,Neutral,3,No,Postgraduate,Moderate,Female
+5313,24,74,High,High,No,4,95,High,Yes,1,High,Medium,Public,Neutral,4,No,Postgraduate,Moderate,Female
+5314,19,70,Medium,Low,No,7,54,High,Yes,0,Medium,Medium,Public,Positive,2,Yes,High School,Moderate,Male
+5315,30,98,Low,Medium,No,7,51,High,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male
+5316,21,95,Medium,Medium,No,7,63,Medium,Yes,1,Low,Medium,Private,Positive,4,No,Postgraduate,Near,Male
+5317,19,77,Low,Medium,No,5,90,Low,Yes,1,Low,High,Private,Neutral,3,No,College,Near,Female
+5318,23,77,High,High,Yes,7,51,Medium,Yes,1,Low,Low,Private,Positive,3,No,College,Moderate,Male
+5319,3,62,Medium,Low,No,6,67,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near,Male
+5320,16,79,Medium,Medium,No,8,82,Low,Yes,2,Low,Medium,Private,Neutral,3,Yes,Postgraduate,Moderate,Female
+5321,23,78,Medium,Medium,Yes,6,54,High,Yes,0,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Female
+5322,20,98,Low,High,Yes,8,67,Medium,Yes,0,High,Medium,Public,Positive,3,No,High School,Near,Female
+5323,13,97,High,High,Yes,5,87,Low,Yes,1,Medium,High,Public,Neutral,2,No,Postgraduate,,Female
+5324,14,86,Low,Medium,Yes,10,78,Medium,Yes,3,Medium,High,Private,Negative,4,Yes,High School,Near,Female
+5325,20,97,Medium,High,No,5,62,Medium,Yes,1,Medium,Medium,Private,Neutral,4,No,High School,Far,Male
+5326,20,61,Medium,High,No,9,81,Medium,Yes,0,High,High,Public,Neutral,2,Yes,High School,Near,Male
+5327,25,62,Medium,Medium,Yes,7,95,Low,Yes,1,High,Medium,Public,Neutral,4,Yes,College,Near,Male
+5328,20,73,High,High,No,5,70,High,Yes,1,Low,High,Public,Negative,2,No,High School,Moderate,Male
+5329,16,78,Medium,High,No,6,83,Medium,Yes,0,Low,Low,Public,Neutral,3,Yes,College,Near,Male
+5330,22,64,Medium,Medium,Yes,7,62,Medium,Yes,3,Low,Medium,Private,Neutral,4,No,Postgraduate,Moderate,Female
+5331,5,95,Medium,High,Yes,8,92,Low,Yes,1,Low,High,Private,Neutral,2,No,College,Near,Female
+5332,13,84,Low,Medium,No,10,71,Low,Yes,1,Medium,High,Public,Neutral,3,No,College,Moderate,Male
+5333,30,74,Medium,High,No,8,94,Low,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+5334,30,63,High,Low,No,5,97,High,Yes,2,Low,High,Public,Positive,2,Yes,College,Moderate,Female
+5335,39,75,Medium,High,Yes,6,82,High,Yes,1,High,Low,Public,Negative,3,No,College,Near,Male
+5336,8,60,High,Medium,Yes,9,93,High,Yes,0,Low,High,Public,Neutral,3,No,Postgraduate,Near,Female
+5337,20,85,Low,Medium,Yes,5,75,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Male
+5338,19,61,Medium,Medium,No,6,66,Medium,Yes,0,High,Medium,Public,Neutral,1,No,High School,Near,Male
+5339,16,100,High,Low,Yes,8,63,High,Yes,2,Low,Medium,Public,Negative,3,No,High School,Moderate,Male
+5340,31,70,Medium,High,Yes,7,66,Medium,Yes,1,High,Medium,Public,Negative,3,No,College,Near,Male
+5341,5,61,High,Medium,No,9,84,High,Yes,1,Medium,Medium,Public,Neutral,3,No,College,Near,Male
+5342,21,63,Medium,Medium,Yes,6,64,Low,Yes,1,High,High,Public,Negative,3,No,High School,Near,Male
+5343,23,85,Medium,Medium,Yes,6,91,Low,Yes,1,Low,High,Public,Neutral,3,No,High School,Far,Male
+5344,14,90,Medium,Medium,Yes,7,51,Medium,Yes,1,Medium,Medium,Public,Positive,4,Yes,High School,Near,Female
+5345,22,91,Medium,High,No,5,61,Medium,Yes,3,Low,High,Public,Neutral,2,No,Postgraduate,Far,Male
+5346,22,97,Medium,Medium,Yes,6,88,High,Yes,1,Low,Low,Private,Positive,4,No,College,Near,Male
+5347,25,91,Medium,High,No,7,92,Medium,Yes,3,Low,Medium,Public,Negative,5,No,High School,Near,Male
+5348,20,79,Medium,High,Yes,4,79,Low,Yes,0,Medium,High,Private,Neutral,4,No,High School,Moderate,Male
+5349,13,93,Medium,High,Yes,7,51,Low,Yes,1,Low,High,Private,Neutral,3,No,High School,Near,Female
+5350,18,72,Low,Low,Yes,5,61,Low,Yes,1,Medium,Medium,Private,Negative,4,No,College,Moderate,Male
+5351,22,70,Low,Medium,Yes,6,82,Medium,Yes,1,Low,High,Public,Neutral,3,No,High School,Near,Female
+5352,34,82,Medium,High,Yes,9,87,High,Yes,3,Low,Medium,Public,Positive,4,No,High School,Near,Female
+5353,30,70,Medium,Medium,No,9,57,Medium,Yes,1,Low,Medium,Public,Negative,4,No,College,Far,Female
+5354,19,70,Medium,High,Yes,10,92,Medium,Yes,1,Low,High,Public,Positive,4,No,High School,Near,Male
+5355,18,97,Medium,High,No,8,67,Medium,Yes,1,Medium,High,Public,Neutral,3,No,High School,Near,Male
+5356,13,67,Medium,Medium,Yes,6,80,High,Yes,1,Low,High,Public,Negative,2,No,High School,Moderate,Male
+5357,16,93,Medium,Low,Yes,7,81,Medium,Yes,2,Low,Medium,Private,Negative,3,Yes,Postgraduate,Moderate,Male
+5358,23,65,High,High,No,7,57,Low,No,1,High,Medium,Public,Neutral,4,No,High School,Near,Male
+5359,21,95,Medium,Low,No,5,87,Low,Yes,2,Medium,Medium,Private,Neutral,4,No,High School,Near,Male
+5360,28,87,Medium,Medium,No,8,95,Medium,Yes,2,Medium,Low,Private,Positive,3,No,Postgraduate,Near,Female
+5361,19,72,Low,High,Yes,5,96,Low,No,3,Low,Low,Public,Positive,2,No,High School,Moderate,Female
+5362,22,64,High,Low,No,7,59,High,Yes,0,Medium,High,Private,Positive,5,Yes,High School,Near,Female
+5363,27,69,Medium,Low,Yes,5,93,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,College,Moderate,Male
+5364,12,72,Medium,Medium,Yes,8,79,High,Yes,1,High,Medium,Public,Positive,3,No,College,Far,Male
+5365,30,67,Medium,Medium,No,7,97,High,Yes,2,High,Medium,Public,Neutral,3,Yes,,Near,Male
+5366,22,64,Low,Medium,No,7,98,Low,No,1,Medium,Medium,Public,Negative,3,No,High School,Near,Male
+5367,23,81,Medium,Low,Yes,7,74,Medium,Yes,0,Low,Medium,Public,Neutral,0,No,Postgraduate,Near,Female
+5368,22,98,Medium,Medium,Yes,6,93,Medium,Yes,4,Low,Medium,Public,Neutral,4,No,High School,Near,Female
+5369,16,99,Medium,High,Yes,7,60,Medium,Yes,2,Low,High,Private,Neutral,3,No,Postgraduate,Moderate,Male
+5370,19,96,Low,Medium,No,7,71,Medium,Yes,2,Low,High,Private,Positive,3,No,Postgraduate,Moderate,Male
+5371,14,61,Low,High,No,10,62,Medium,Yes,0,High,Medium,Public,Negative,4,No,College,Moderate,Female
+5372,12,70,Medium,Medium,Yes,7,93,Medium,Yes,1,Low,High,Public,Neutral,4,No,High School,Far,Female
+5373,15,88,High,High,Yes,6,95,Medium,Yes,2,Low,Medium,Public,Negative,4,No,High School,Near,Female
+5374,30,91,High,Medium,No,9,62,Low,Yes,3,Low,High,Public,Negative,4,No,Postgraduate,Near,Female
+5375,16,82,Medium,Medium,No,6,91,Medium,Yes,0,Low,Medium,Public,Positive,3,No,High School,Near,Female
+5376,20,90,Low,Medium,No,7,65,Low,No,4,Low,High,Public,Positive,4,No,College,Moderate,Female
+5377,3,83,High,Low,Yes,7,59,Low,Yes,2,Medium,High,Public,Positive,5,No,High School,Moderate,Male
+5378,25,95,Medium,Medium,Yes,7,77,High,No,0,Low,High,Public,Neutral,3,No,Postgraduate,Near,Male
+5379,28,95,Low,Medium,No,8,52,High,Yes,3,High,High,Public,Negative,4,No,College,Near,Male
+5380,15,78,Medium,Medium,Yes,7,81,Medium,Yes,0,Medium,Low,Public,Neutral,2,No,High School,Near,Male
+5381,20,86,Medium,Medium,No,6,97,Low,Yes,1,Low,Medium,Private,Neutral,2,No,High School,Moderate,Male
+5382,24,89,High,Medium,No,8,69,Low,No,3,High,Medium,Public,Neutral,2,No,College,Near,Male
+5383,21,94,Medium,Medium,No,7,71,Low,No,1,Low,High,Private,Neutral,2,No,Postgraduate,Near,Male
+5384,22,72,High,Medium,Yes,5,67,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,College,Near,Female
+5385,16,93,Medium,High,No,10,55,Medium,No,2,Low,Medium,Public,Neutral,2,No,College,Near,Male
+5386,29,96,Medium,High,Yes,8,95,Medium,Yes,0,High,Medium,Private,Positive,2,No,High School,Near,Female
+5387,25,72,Medium,High,Yes,7,89,Medium,Yes,2,Low,High,Public,Positive,3,No,Postgraduate,Near,Female
+5388,15,79,High,Medium,Yes,6,88,Medium,Yes,3,High,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male
+5389,18,97,High,Medium,Yes,4,75,Low,Yes,0,Low,Medium,Public,Positive,3,No,High School,Moderate,Male
+5390,20,79,High,High,Yes,7,85,Low,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Moderate,Male
+5391,23,73,Medium,High,No,10,85,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near,Male
+5392,27,74,Medium,High,No,6,51,High,Yes,2,Medium,Medium,Private,Positive,4,No,High School,Far,Male
+5393,31,86,High,High,Yes,6,66,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,College,Moderate,Male
+5394,23,92,Medium,High,No,9,100,Medium,Yes,1,High,High,Public,Neutral,2,Yes,College,Near,Male
+5395,26,79,Medium,Low,No,7,97,Medium,Yes,1,High,Medium,Private,Positive,2,No,High School,Near,Male
+5396,14,62,Medium,High,Yes,7,79,Low,Yes,2,Medium,Medium,Private,Positive,2,No,High School,Moderate,Female
+5397,14,70,Medium,Medium,Yes,9,88,Low,Yes,0,High,Medium,Private,Positive,4,No,College,Moderate,Female
+5398,18,91,Medium,Medium,No,7,63,Medium,Yes,1,Medium,Medium,Public,Negative,4,No,College,Near,Male
+5399,20,68,High,Medium,Yes,7,55,High,Yes,0,Low,Low,Public,Positive,3,Yes,High School,Near,Female
+5400,27,87,Medium,Medium,Yes,8,56,Medium,Yes,3,Medium,High,Public,Neutral,3,No,Postgraduate,Near,Male
+5401,23,77,Medium,Medium,Yes,5,72,Medium,Yes,2,High,High,Public,Negative,5,No,College,Moderate,Female
+5402,20,72,High,Low,Yes,7,90,Low,Yes,0,Low,High,Private,Negative,3,No,Postgraduate,Near,Female
+5403,22,82,Low,Medium,No,5,67,Low,Yes,1,Low,High,Private,Neutral,1,Yes,Postgraduate,Near,Female
+5404,30,70,Medium,High,Yes,9,83,Medium,Yes,1,High,Medium,Private,Neutral,2,No,Postgraduate,Near,Female
+5405,14,62,High,Medium,No,4,100,Low,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Male
+5406,27,86,Medium,Medium,No,6,74,Medium,Yes,2,High,High,Private,Neutral,3,No,High School,Near,Male
+5407,28,65,Medium,Medium,Yes,5,59,High,Yes,2,Low,Medium,Private,Neutral,5,No,High School,Near,Male
+5408,8,88,Medium,Medium,Yes,8,92,High,Yes,1,Low,Medium,Public,Negative,4,No,College,Near,Male
+5409,18,67,High,Low,No,4,73,Low,Yes,0,Medium,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Male
+5410,32,93,Medium,Medium,Yes,8,93,High,Yes,1,Medium,High,Public,Negative,3,No,Postgraduate,Far,Female
+5411,22,99,High,Low,No,7,65,Medium,Yes,3,Low,Low,Public,Neutral,3,No,Postgraduate,Near,Female
+5412,19,61,Medium,Medium,No,7,74,Low,Yes,2,High,Medium,Public,Negative,3,No,Postgraduate,Far,Male
+5413,26,68,Medium,High,No,6,98,Low,Yes,2,Medium,Medium,Private,Neutral,3,No,College,Far,Female
+5414,25,92,Low,High,No,5,72,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Female
+5415,23,95,High,Low,No,7,92,High,Yes,1,Low,Medium,Public,Positive,1,No,High School,Near,Female
+5416,38,86,High,Medium,No,6,88,High,Yes,1,Low,High,Public,Negative,4,No,High School,Moderate,Female
+5417,14,96,Medium,Low,Yes,9,69,High,Yes,0,Medium,Medium,Private,Negative,3,Yes,College,Near,Female
+5418,27,85,High,Medium,Yes,8,66,Medium,Yes,2,Low,High,Private,Neutral,4,Yes,High School,Moderate,Male
+5419,19,70,Medium,Medium,Yes,6,67,Medium,Yes,5,Medium,Low,Public,Positive,4,No,Postgraduate,Moderate,Female
+5420,16,73,High,Low,Yes,8,58,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Female
+5421,22,86,High,Medium,Yes,7,56,Medium,Yes,1,High,Medium,Private,Positive,4,No,High School,Moderate,Male
+5422,23,94,Low,Medium,No,8,58,High,Yes,5,Low,Low,Public,Neutral,6,No,High School,Near,Female
+5423,19,62,Medium,High,Yes,6,82,Medium,Yes,0,Low,High,Public,Negative,3,Yes,College,Moderate,Male
+5424,20,73,Medium,Low,Yes,8,93,High,Yes,1,Low,High,Public,Negative,4,No,High School,Far,Male
+5425,23,90,High,High,No,7,87,High,Yes,1,Low,Medium,Public,Neutral,2,No,High School,Near,Female
+5426,17,76,High,Medium,Yes,8,94,Medium,Yes,3,Medium,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5427,14,87,Medium,High,Yes,7,61,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Far,Male
+5428,6,84,Medium,Medium,Yes,6,88,Medium,Yes,1,Low,Medium,Private,Positive,5,No,Postgraduate,Moderate,Male
+5429,30,77,Medium,Low,Yes,9,70,Medium,Yes,0,Medium,High,Public,Neutral,1,No,High School,Moderate,Male
+5430,14,90,Medium,High,Yes,7,60,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male
+5431,20,81,Medium,Low,Yes,6,53,Low,Yes,0,Medium,Low,Public,Neutral,4,No,,Far,Female
+5432,25,72,Medium,Medium,Yes,8,52,Low,Yes,0,Medium,Medium,Private,Positive,2,No,Postgraduate,Near,Male
+5433,17,82,Medium,Medium,Yes,7,59,Medium,Yes,3,Medium,Medium,Public,Positive,4,No,College,Near,Male
+5434,14,83,Medium,Low,Yes,6,82,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Near,Female
+5435,15,64,Low,Low,Yes,9,84,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Far,Male
+5436,11,78,High,Medium,Yes,8,100,High,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male
+5437,25,65,Low,Medium,No,6,94,Medium,Yes,1,Low,High,Public,Negative,4,No,College,Near,Male
+5438,25,87,Medium,Low,Yes,7,74,Low,Yes,0,Medium,High,Public,Neutral,4,Yes,High School,Near,Male
+5439,20,62,Medium,Low,Yes,6,80,High,No,1,Medium,High,Public,Neutral,3,No,College,Moderate,Female
+5440,22,91,High,Medium,No,6,85,Low,Yes,2,Medium,Medium,Private,Positive,2,No,High School,Moderate,Female
+5441,19,70,Medium,Medium,Yes,6,90,Low,Yes,2,Low,Medium,Private,Positive,3,No,High School,Moderate,Male
+5442,26,64,High,Medium,No,8,91,High,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Male
+5443,11,68,High,Medium,Yes,5,87,Medium,Yes,1,Low,Medium,Public,Positive,4,Yes,High School,Far,Male
+5444,31,88,Medium,High,No,7,83,Medium,Yes,0,Low,Medium,Private,Neutral,2,No,High School,Near,Male
+5445,15,81,High,Medium,No,5,68,Low,No,0,Medium,High,Public,Positive,3,No,High School,Near,Female
+5446,14,92,Medium,High,Yes,9,58,High,Yes,1,High,Low,Public,Positive,2,No,High School,Near,Male
+5447,24,61,Low,Medium,No,5,94,Medium,Yes,3,Medium,High,Private,Neutral,2,Yes,College,Moderate,Female
+5448,14,66,High,Low,No,7,96,Medium,Yes,3,Low,High,Public,Negative,3,No,High School,Near,Male
+5449,19,65,Medium,High,Yes,9,60,Low,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male
+5450,17,78,Medium,Low,Yes,9,51,High,Yes,1,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male
+5451,21,75,High,High,No,7,70,High,Yes,1,Medium,High,Private,Neutral,3,No,Postgraduate,Near,Female
+5452,22,82,Medium,Low,No,5,54,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Moderate,Male
+5453,29,78,High,Medium,No,6,92,Medium,Yes,2,Low,Medium,Private,Negative,4,No,High School,Near,Male
+5454,23,80,Medium,Medium,Yes,7,91,Low,Yes,5,High,Medium,Public,Negative,1,No,High School,Near,Female
+5455,20,93,Medium,High,No,10,97,Medium,Yes,1,Low,Medium,Public,Neutral,2,No,Postgraduate,Moderate,Male
+5456,7,60,Medium,High,Yes,10,69,Low,Yes,0,Low,Medium,Private,Positive,3,No,College,Moderate,Female
+5457,20,83,Medium,Medium,No,6,51,Medium,Yes,2,Low,High,Public,Negative,4,No,Postgraduate,Near,Male
+5458,23,81,Medium,High,No,9,59,Low,Yes,2,Medium,High,Public,Neutral,2,No,College,Near,Male
+5459,27,67,Low,Medium,Yes,6,90,Medium,Yes,2,High,High,Private,Neutral,3,No,High School,Moderate,Male
+5460,23,64,Medium,High,Yes,8,68,Low,Yes,3,Low,High,Public,Neutral,3,No,High School,Near,Female
+5461,16,68,Medium,Medium,Yes,7,85,Medium,Yes,1,Medium,Medium,Public,Positive,2,No,College,Near,Female
+5462,23,71,Medium,Medium,Yes,5,50,Medium,Yes,1,Low,High,Public,Positive,1,No,College,Near,Female
+5463,20,72,Medium,Low,Yes,6,89,Low,Yes,1,Low,Medium,Private,Negative,3,No,High School,Far,Male
+5464,16,96,Medium,Medium,No,6,50,High,Yes,1,Medium,High,Public,Positive,3,No,College,Near,Male
+5465,19,79,Medium,Medium,No,4,76,High,Yes,1,Medium,Medium,Private,Neutral,3,No,,Near,Male
+5466,17,82,High,Medium,Yes,7,65,Medium,Yes,1,Medium,Medium,Public,Positive,5,No,High School,Near,Male
+5467,23,68,Medium,Medium,Yes,8,80,Medium,Yes,1,Medium,Low,Public,Neutral,1,No,High School,Near,Female
+5468,22,77,Medium,High,No,6,71,High,Yes,3,Low,Medium,Public,Negative,4,No,High School,Far,Female
+5469,11,89,Medium,Medium,Yes,5,63,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,College,Near,Female
+5470,28,74,Medium,Medium,Yes,9,96,Low,Yes,0,High,High,Private,Neutral,3,No,High School,Near,Female
+5471,17,85,High,Medium,Yes,7,87,Medium,Yes,1,Low,Medium,Private,Neutral,1,No,,Near,Female
+5472,8,84,Medium,Low,Yes,9,56,Low,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate,Male
+5473,20,87,Medium,Medium,No,8,89,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Male
+5474,37,79,Medium,High,No,6,95,High,Yes,1,High,Medium,Public,Negative,1,No,High School,Near,Male
+5475,20,74,High,High,No,7,69,Low,Yes,2,High,High,Private,Neutral,2,No,College,Near,Male
+5476,15,67,Low,Medium,Yes,5,59,Low,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Near,Male
+5477,24,77,Medium,Medium,Yes,6,64,Medium,Yes,2,High,Medium,Public,Positive,4,No,High School,Near,Male
+5478,18,76,Low,High,Yes,10,82,High,Yes,1,Medium,Medium,Private,Negative,4,No,College,Near,Male
+5479,13,73,Medium,Medium,Yes,7,51,Medium,Yes,1,Low,Medium,Public,Positive,4,No,Postgraduate,Near,Male
+5480,17,64,Medium,Medium,Yes,6,60,Medium,Yes,1,Medium,Medium,Private,Positive,2,Yes,High School,Near,Male
+5481,20,84,Medium,High,Yes,6,57,High,Yes,2,Medium,Medium,Public,Positive,4,No,High School,Far,Female
+5482,27,68,High,Medium,No,6,52,Medium,Yes,1,Medium,Low,Private,Neutral,5,No,Postgraduate,Far,Female
+5483,16,62,Medium,Medium,Yes,7,79,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5484,18,99,Medium,High,Yes,10,51,Medium,Yes,1,Medium,Low,Public,Neutral,4,No,Postgraduate,Near,Male
+5485,15,86,Medium,High,No,8,99,High,Yes,2,Medium,Medium,Public,Neutral,5,No,High School,Near,Male
+5486,15,78,Medium,High,Yes,9,63,Medium,No,2,Medium,Medium,Private,Positive,3,No,Postgraduate,Far,Female
+5487,18,75,Medium,Medium,Yes,9,87,Low,Yes,3,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+5488,12,68,Medium,High,No,7,98,Medium,Yes,1,Medium,High,Private,Neutral,4,No,High School,Near,Male
+5489,23,73,High,High,No,8,78,Low,Yes,0,High,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5490,21,77,Medium,High,Yes,6,70,Low,No,2,High,Medium,Private,Positive,2,No,College,Near,Male
+5491,11,97,Medium,Medium,Yes,8,83,Low,Yes,4,Medium,High,Private,Negative,2,No,High School,Far,Male
+5492,7,79,Low,High,Yes,9,85,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Near,Male
+5493,26,90,Low,High,Yes,6,81,Medium,Yes,1,Low,Medium,Private,Neutral,3,No,Postgraduate,Near,Male
+5494,16,89,High,Medium,No,9,96,Medium,Yes,2,Medium,Low,Public,Positive,3,No,College,Far,Male
+5495,17,89,Medium,Medium,Yes,6,82,Medium,Yes,3,Medium,Medium,Private,Positive,3,No,College,Near,Female
+5496,17,98,High,High,No,6,68,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+5497,7,62,High,Medium,Yes,8,51,Low,Yes,0,Medium,Low,Public,Positive,3,No,College,Moderate,Male
+5498,19,69,Medium,High,Yes,7,82,High,Yes,1,Low,Medium,Public,Negative,2,No,High School,Near,Male
+5499,36,96,Medium,Low,No,7,96,Medium,Yes,1,Low,High,Public,Positive,3,No,College,Moderate,Female
+5500,12,85,Medium,Medium,Yes,6,78,High,Yes,3,Medium,Medium,Public,Neutral,4,No,College,Near,Male
+5501,16,62,Low,Medium,No,8,74,Medium,Yes,2,High,High,Private,Neutral,3,No,High School,Moderate,Male
+5502,27,98,Medium,High,No,4,82,Medium,Yes,0,High,Medium,Public,Positive,3,No,High School,Near,Female
+5503,33,61,Low,Low,Yes,5,96,Medium,Yes,2,Medium,,Public,Negative,3,No,High School,Near,Male
+5504,16,94,Low,Medium,No,8,85,Medium,Yes,3,Low,High,Public,Neutral,2,No,High School,Near,Female
+5505,19,81,High,Medium,No,7,100,Medium,Yes,1,Low,Medium,Private,Negative,5,No,Postgraduate,Moderate,Female
+5506,19,73,Medium,Medium,Yes,7,85,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Far,Male
+5507,30,73,High,Medium,Yes,8,100,Medium,Yes,2,High,High,Public,Neutral,2,No,High School,Near,Female
+5508,11,94,High,Low,Yes,10,61,Medium,Yes,1,Medium,Low,Public,Neutral,3,No,College,Moderate,Male
+5509,27,91,Medium,Low,No,8,57,Medium,Yes,0,Low,Low,Private,Neutral,4,No,Postgraduate,Moderate,Male
+5510,20,78,High,Medium,No,7,80,High,Yes,2,High,Medium,Public,Positive,3,No,College,Near,Male
+5511,25,66,Medium,Medium,Yes,6,99,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,College,Near,Female
+5512,12,61,Low,Medium,Yes,8,92,Medium,Yes,2,High,Medium,Public,Neutral,4,Yes,High School,Moderate,Male
+5513,23,87,Medium,Medium,Yes,6,98,Medium,Yes,3,Medium,Medium,Public,Neutral,3,No,College,Near,Male
+5514,14,62,Medium,Medium,No,9,73,Medium,Yes,1,Low,Medium,Public,Neutral,6,No,High School,Near,Male
+5515,27,73,Low,Low,No,9,97,Medium,Yes,2,Medium,High,Public,Neutral,1,No,High School,Near,Female
+5516,16,72,Medium,High,No,6,58,Low,Yes,1,Medium,Medium,Public,Negative,2,No,High School,Far,Male
+5517,29,64,Medium,High,Yes,7,74,Medium,Yes,0,High,Medium,Public,Positive,2,No,Postgraduate,Near,Female
+5518,17,70,High,Medium,No,8,82,Low,Yes,2,High,High,Public,Negative,2,Yes,High School,Moderate,Female
+5519,13,96,Medium,Medium,No,10,51,Medium,Yes,1,Low,Low,Public,Positive,3,No,Postgraduate,Near,Female
+5520,34,92,High,Medium,No,7,68,Low,Yes,0,Medium,High,Public,Positive,5,No,College,Near,Female
+5521,24,95,High,Medium,No,7,66,Low,Yes,2,High,High,Public,Negative,3,No,High School,Near,Male
+5522,13,77,High,High,Yes,7,69,Medium,Yes,2,Low,High,Private,Neutral,5,No,College,Moderate,Male
+5523,17,87,High,High,Yes,6,94,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male
+5524,34,98,Medium,High,No,7,79,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,College,Near,Male
+5525,15,89,High,Low,No,9,73,High,Yes,2,Low,Low,Private,Neutral,2,No,High School,Near,Male
+5526,26,65,Low,Medium,No,7,53,Low,Yes,3,High,Medium,Public,Positive,2,No,High School,Near,Female
+5527,15,77,Medium,Medium,Yes,7,52,Medium,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Male
+5528,24,91,Low,Medium,Yes,8,52,Medium,Yes,1,Low,Medium,Public,Neutral,5,No,High School,Near,Male
+5529,13,73,Medium,High,Yes,7,60,High,Yes,0,High,High,Public,Neutral,3,No,College,Near,Female
+5530,20,81,Low,Medium,No,6,54,Low,Yes,0,Low,Low,Public,Positive,2,No,College,Moderate,Female
+5531,17,63,Medium,Medium,No,4,92,Medium,Yes,2,Low,Medium,Public,Negative,4,No,High School,Near,Female
+5532,25,73,High,Medium,No,6,54,High,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5533,19,89,Medium,Low,No,10,74,Medium,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate,Female
+5534,15,83,Medium,High,No,4,98,Low,Yes,3,Low,High,Public,Positive,3,No,High School,Moderate,Female
+5535,15,98,Medium,Medium,Yes,7,89,Low,No,2,Low,Low,Public,Neutral,3,No,College,Moderate,Male
+5536,28,73,Medium,High,Yes,6,96,Medium,Yes,1,Medium,Medium,Public,Negative,0,No,Postgraduate,Near,Female
+5537,14,89,High,High,Yes,4,73,Medium,Yes,2,Medium,High,Public,Negative,3,No,College,Near,Male
+5538,21,60,High,Low,No,8,78,Medium,Yes,2,Medium,High,Public,Positive,2,No,High School,Near,Female
+5539,23,68,Medium,High,No,5,91,Low,Yes,5,Low,Medium,Public,Neutral,1,No,College,Near,Female
+5540,14,94,Medium,High,Yes,7,71,Medium,Yes,0,Medium,Medium,Private,Negative,3,Yes,College,Moderate,Female
+5541,19,96,Low,Low,Yes,5,70,High,Yes,0,Low,Medium,Public,Positive,2,No,High School,Far,Male
+5542,23,91,Medium,Low,Yes,10,98,High,Yes,0,Low,High,Private,Negative,3,No,High School,Near,Female
+5543,18,98,Low,Medium,No,9,53,Medium,Yes,0,High,Medium,Public,Neutral,1,No,High School,Moderate,Male
+5544,24,89,High,Medium,Yes,7,99,Medium,Yes,2,Low,High,Private,Neutral,4,No,High School,Near,Female
+5545,15,83,Medium,Low,Yes,8,91,Medium,Yes,0,Low,Medium,Private,Neutral,3,No,College,Far,Male
+5546,26,93,High,Medium,No,5,85,Low,Yes,1,High,High,Public,Positive,3,No,College,Moderate,Female
+5547,22,79,Low,High,Yes,6,96,Medium,Yes,1,High,Medium,Public,Neutral,2,No,College,Moderate,Male
+5548,16,71,Medium,Medium,No,8,51,Medium,Yes,0,Low,Medium,Public,Negative,2,No,Postgraduate,Far,Female
+5549,26,71,Medium,Medium,Yes,7,91,Medium,No,2,Low,Medium,Private,Neutral,3,No,High School,Moderate,Female
+5550,21,74,Low,Medium,No,6,55,High,Yes,3,Low,Medium,Public,Positive,2,No,College,Near,Male
+5551,20,64,Medium,High,No,6,53,High,No,4,High,Medium,Private,Neutral,4,No,College,Moderate,Female
+5552,17,72,High,Medium,Yes,7,94,High,Yes,1,Low,Medium,Public,Neutral,5,No,High School,Moderate,Male
+5553,24,72,High,Medium,Yes,7,95,Medium,Yes,3,Low,Medium,Public,Negative,2,No,Postgraduate,Near,Male
+5554,23,74,Medium,Medium,No,4,67,Medium,Yes,3,High,Medium,Private,Negative,5,No,High School,Far,Male
+5555,22,83,Low,High,Yes,8,53,Medium,No,0,Low,Low,Public,Negative,2,No,Postgraduate,Near,Female
+5556,20,79,Medium,Medium,No,8,83,Medium,Yes,3,Low,Medium,Private,Neutral,4,No,College,Moderate,Male
+5557,20,99,Low,Medium,No,7,80,High,Yes,0,Medium,High,Public,Negative,3,No,Postgraduate,Near,Male
+5558,24,99,Medium,Medium,No,10,51,Low,Yes,1,Low,Medium,Public,Neutral,3,No,,Near,Male
+5559,29,66,High,High,No,6,66,Medium,Yes,0,Medium,Medium,Private,Negative,3,No,Postgraduate,Near,Male
+5560,23,60,High,Medium,Yes,9,56,Low,No,0,Low,Medium,Private,Negative,4,No,High School,Moderate,Female
+5561,20,89,High,Medium,Yes,6,70,Low,Yes,1,Low,Medium,Private,Positive,3,No,High School,Moderate,Female
+5562,12,67,Medium,High,Yes,8,77,Medium,Yes,2,Low,High,Private,Positive,3,No,College,Near,Male
+5563,18,86,Medium,Medium,Yes,6,88,Medium,Yes,2,Medium,High,Public,Neutral,2,No,College,Far,Male
+5564,17,86,Medium,High,No,5,97,High,Yes,3,High,Medium,Public,Neutral,3,No,College,Near,Male
+5565,30,62,Medium,High,Yes,6,63,Medium,Yes,2,Low,High,Public,Positive,4,No,High School,Moderate,Male
+5566,15,71,Low,Medium,No,8,60,High,No,5,Low,High,Public,Positive,4,No,High School,Far,Female
+5567,19,97,Low,High,No,9,78,Medium,Yes,0,Medium,Medium,Private,Negative,4,No,High School,Moderate,Female
+5568,20,99,Medium,Medium,No,8,75,Medium,Yes,2,Low,High,Private,Negative,2,No,Postgraduate,Far,Female
+5569,31,92,Medium,Medium,Yes,4,76,Medium,Yes,2,Medium,High,Public,Positive,4,Yes,High School,Far,Male
+5570,21,61,Medium,Medium,No,4,90,Low,Yes,2,Medium,Low,Public,Neutral,3,No,High School,Near,Male
+5571,12,79,Low,High,No,6,55,Medium,Yes,1,Low,High,Private,Neutral,4,No,College,Far,Female
+5572,11,82,Medium,Medium,Yes,8,88,Medium,No,1,Low,Medium,Private,Negative,2,No,Postgraduate,Moderate,Female
+5573,17,61,Low,High,Yes,7,75,Medium,No,2,Medium,High,Public,Negative,4,No,College,Near,Female
+5574,15,89,Medium,Low,No,6,55,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,Postgraduate,Moderate,Male
+5575,23,76,Medium,Medium,Yes,7,57,High,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Moderate,Female
+5576,20,81,High,Medium,Yes,6,51,High,No,3,Medium,Medium,Public,Neutral,4,Yes,High School,Near,Male
+5577,15,72,Medium,Low,Yes,9,80,Medium,Yes,4,Medium,High,Private,Neutral,4,No,College,Moderate,Female
+5578,8,95,Medium,Medium,No,7,73,Low,Yes,2,Medium,Medium,Private,Neutral,2,No,College,Near,Male
+5579,13,89,Low,High,Yes,6,98,Medium,Yes,0,Medium,Medium,Private,Negative,4,No,High School,Near,Male
+5580,29,62,Low,High,Yes,7,53,High,Yes,0,Low,Medium,Private,Positive,3,No,College,Moderate,Female
+5581,23,74,High,Low,No,6,100,Low,Yes,2,High,Low,Private,Positive,3,No,High School,Near,Male
+5582,27,95,Low,High,Yes,6,94,High,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Far,Female
+5583,17,72,Low,Medium,No,8,96,High,Yes,2,Low,High,Public,Neutral,3,No,High School,Near,Male
+5584,19,74,Medium,High,No,9,82,High,Yes,2,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male
+5585,23,68,Low,Low,Yes,7,92,Medium,No,3,Low,High,Private,Neutral,4,No,High School,Near,Male
+5586,20,99,Medium,Low,Yes,5,97,Low,Yes,4,High,Medium,Public,Neutral,3,No,College,Near,Female
+5587,20,61,High,Medium,No,8,99,Medium,Yes,0,Medium,High,Public,Neutral,4,No,College,Near,Male
+5588,23,87,High,Low,No,6,81,Low,Yes,5,Medium,High,Private,Neutral,2,No,High School,Far,Female
+5589,19,95,Low,Low,Yes,5,86,Medium,Yes,0,High,Medium,Public,Negative,4,No,High School,Moderate,Male
+5590,31,63,Medium,High,No,9,86,Low,Yes,0,High,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male
+5591,35,64,Medium,Low,No,6,85,High,Yes,2,Medium,High,Private,Neutral,2,No,High School,Moderate,Male
+5592,24,88,Medium,Medium,Yes,6,94,Medium,Yes,0,Low,Medium,Private,Negative,2,No,Postgraduate,Moderate,Male
+5593,26,69,High,High,Yes,6,90,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,College,Moderate,Female
+5594,13,98,Medium,High,Yes,6,71,Medium,Yes,1,Low,High,Private,Positive,1,No,College,Near,Female
+5595,26,95,Low,High,No,7,77,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Female
+5596,13,90,Medium,Medium,No,5,63,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5597,23,89,Low,Medium,No,5,85,Low,Yes,0,Low,Medium,Public,Positive,3,No,Postgraduate,Moderate,Male
+5598,15,74,High,High,No,8,60,Low,Yes,3,Low,Medium,Public,Positive,5,No,High School,Moderate,Male
+5599,18,74,Medium,Medium,No,6,78,High,Yes,0,High,Medium,Public,Positive,2,No,High School,Moderate,Female
+5600,10,96,Medium,Medium,No,4,99,Medium,Yes,1,Medium,Medium,Private,Negative,5,No,College,Near,Female
+5601,26,76,Medium,Medium,No,7,59,Low,Yes,0,Medium,Medium,Public,Neutral,1,Yes,Postgraduate,Near,Male
+5602,14,68,Medium,High,No,7,76,Medium,Yes,2,High,Medium,Public,Positive,3,No,High School,Near,Male
+5603,13,97,High,High,No,7,70,Medium,Yes,1,Low,High,Public,Neutral,4,No,Postgraduate,Near,Female
+5604,11,97,Medium,Medium,No,7,91,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Male
+5605,29,77,Medium,Low,Yes,7,68,High,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Far,Female
+5606,21,98,Medium,High,Yes,9,70,Medium,Yes,0,Low,High,Public,Positive,1,No,College,Near,Male
+5607,19,91,High,Low,No,6,52,Medium,Yes,2,Low,Medium,Public,Negative,4,Yes,High School,Moderate,Male
+5608,19,65,Medium,High,Yes,9,91,Medium,Yes,1,Medium,High,Public,Positive,4,No,College,Near,Male
+5609,2,98,Low,High,Yes,7,80,High,Yes,2,Low,High,Public,Neutral,1,No,High School,Near,Male
+5610,23,85,Medium,Medium,Yes,7,99,High,Yes,1,Low,High,Public,Neutral,5,No,College,Near,Female
+5611,23,81,Medium,Low,No,4,84,Medium,Yes,2,Medium,Medium,Public,Positive,5,No,High School,Near,Male
+5612,11,97,Medium,High,Yes,8,60,Medium,Yes,0,Medium,Low,Private,Positive,3,No,High School,Near,Male
+5613,20,95,Medium,Low,Yes,7,62,Low,Yes,2,Low,Medium,Public,Neutral,4,No,College,Moderate,Male
+5614,18,86,Low,Low,Yes,9,64,Low,Yes,3,Low,High,Public,Positive,3,No,High School,Near,Female
+5615,23,61,Medium,High,Yes,8,85,Medium,Yes,1,Medium,High,Private,Positive,0,No,High School,Near,Male
+5616,11,94,Medium,Low,Yes,8,66,High,No,1,High,Low,Public,Neutral,4,No,High School,Near,Female
+5617,26,66,High,High,Yes,5,82,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Female
+5618,28,73,Low,Medium,Yes,8,54,Medium,Yes,4,Medium,Medium,Private,Neutral,1,No,High School,Near,Female
+5619,28,89,Medium,Low,Yes,6,71,Low,Yes,2,Low,Medium,Private,Neutral,4,No,College,Moderate,Male
+5620,23,95,Medium,Medium,Yes,7,75,Medium,Yes,2,High,Medium,Public,Positive,2,No,College,Near,Male
+5621,20,79,Low,Medium,Yes,6,59,Medium,Yes,0,Low,Medium,Public,Positive,2,No,High School,Moderate,Male
+5622,3,99,Medium,Low,Yes,7,68,Medium,Yes,2,High,Medium,Private,Neutral,3,No,High School,Near,Female
+5623,22,95,High,Medium,No,7,59,Medium,Yes,2,Low,Medium,Public,Negative,3,Yes,High School,Near,Male
+5624,18,79,Medium,High,No,9,92,Low,Yes,1,Low,Medium,Private,Neutral,3,No,College,Near,Male
+5625,22,74,Medium,Low,No,5,61,Medium,Yes,1,Low,Medium,Public,Positive,3,No,Postgraduate,Near,Female
+5626,35,68,Low,High,Yes,5,64,Medium,Yes,0,High,Low,Public,Positive,4,Yes,High School,Near,Male
+5627,21,79,Medium,Low,Yes,7,81,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Male
+5628,13,70,Medium,Medium,No,5,59,Medium,Yes,0,Medium,High,Private,Positive,2,No,Postgraduate,Near,Female
+5629,19,65,High,High,Yes,5,74,Medium,Yes,1,Low,,Private,Positive,3,No,High School,Near,Female
+5630,29,86,Medium,High,No,10,84,Low,Yes,1,Low,High,Private,Positive,4,No,High School,Near,Female
+5631,17,67,Medium,Medium,Yes,4,71,Medium,Yes,3,Medium,High,Public,Negative,2,No,High School,Moderate,Female
+5632,14,94,High,High,Yes,8,83,Medium,Yes,4,Medium,Low,Public,Negative,5,Yes,Postgraduate,Near,Female
+5633,30,69,Medium,Medium,No,8,92,Medium,Yes,2,Medium,Low,Public,Neutral,3,No,High School,Near,Female
+5634,13,81,Low,Medium,Yes,6,85,Low,Yes,1,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male
+5635,26,98,Low,Medium,Yes,6,73,Medium,Yes,2,Low,Low,Public,Negative,3,No,High School,Near,Female
+5636,19,67,Medium,Medium,Yes,6,75,High,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near,Female
+5637,15,73,Medium,High,No,5,61,Low,No,1,Low,High,Private,Positive,2,No,Postgraduate,Moderate,Male
+5638,21,69,Medium,Medium,Yes,5,62,High,Yes,2,Low,Medium,Public,Positive,3,No,High School,Near,Male
+5639,18,64,Medium,Low,Yes,10,68,Low,Yes,1,Low,Medium,Public,Positive,5,No,High School,Near,Male
+5640,18,93,Low,High,Yes,6,80,Medium,Yes,1,Medium,Medium,Private,Negative,3,No,High School,Near,Male
+5641,20,89,High,Medium,Yes,9,82,Medium,Yes,2,High,High,Public,Neutral,3,No,College,Near,Female
+5642,18,79,Low,High,No,4,74,Low,Yes,2,Low,Medium,Public,Negative,1,No,High School,Near,Female
+5643,24,86,Medium,Medium,Yes,7,88,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Far,Male
+5644,17,66,Medium,Medium,Yes,7,89,Medium,Yes,0,Medium,Medium,Private,Negative,3,No,College,Near,Male
+5645,16,76,Low,Medium,Yes,5,79,Medium,Yes,0,Low,High,Public,Positive,4,No,Postgraduate,Moderate,Female
+5646,29,71,Medium,Medium,Yes,6,86,Medium,Yes,1,Low,Medium,Public,Positive,2,No,College,Near,Female
+5647,12,96,Low,Medium,Yes,7,71,High,Yes,2,Medium,Medium,Private,Positive,2,No,College,Near,Male
+5648,21,77,Low,Medium,Yes,7,65,Medium,Yes,2,Low,High,Public,Negative,2,No,High School,Moderate,Female
+5649,21,70,Medium,Medium,Yes,7,83,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Far,Male
+5650,18,96,High,High,No,7,75,High,Yes,2,Medium,High,Public,Negative,2,No,,Near,Male
+5651,18,73,Low,Medium,Yes,8,88,Low,Yes,3,Low,Medium,Public,Positive,4,No,College,Moderate,Male
+5652,24,64,Medium,High,Yes,6,85,High,Yes,0,High,Low,Private,Neutral,3,Yes,Postgraduate,,Male
+5653,19,98,Low,High,Yes,7,67,High,Yes,1,Medium,Medium,Private,Negative,4,No,High School,Moderate,Female
+5654,23,87,High,High,Yes,10,87,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,College,Near,Male
+5655,30,88,High,Medium,Yes,6,64,Medium,Yes,1,High,Medium,Public,Neutral,2,No,College,Near,Female
+5656,28,90,High,Low,Yes,8,75,Medium,Yes,1,Low,High,Public,Neutral,3,Yes,High School,Moderate,Male
+5657,28,83,Medium,Low,No,8,61,Medium,Yes,1,Low,Medium,Private,Negative,5,Yes,Postgraduate,Near,Male
+5658,9,78,Medium,Medium,No,7,98,Low,Yes,3,Low,Medium,Public,Positive,2,No,High School,Near,Male
+5659,27,77,Low,High,No,7,86,High,Yes,1,High,High,Public,Negative,3,No,College,Near,Male
+5660,23,99,Medium,High,No,7,89,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Female
+5661,14,73,High,Medium,Yes,6,57,High,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5662,22,95,Low,High,Yes,6,69,High,Yes,3,Medium,Medium,Public,Neutral,2,Yes,Postgraduate,Far,Male
+5663,17,79,High,High,Yes,8,78,Medium,Yes,2,High,Medium,Public,Positive,5,No,High School,Near,Female
+5664,20,64,Medium,High,No,8,82,Medium,Yes,3,Medium,Low,Public,Negative,3,No,High School,Moderate,Female
+5665,27,83,Medium,High,Yes,9,94,Medium,Yes,2,Low,High,Public,Positive,2,No,High School,,Male
+5666,25,65,High,Medium,Yes,4,84,High,Yes,1,High,Medium,Public,Positive,2,No,High School,Near,Male
+5667,18,65,Medium,High,No,6,83,Low,Yes,1,Medium,High,Private,Neutral,2,No,High School,Near,Male
+5668,8,99,Medium,Medium,No,9,54,Low,Yes,2,Low,Medium,Public,Neutral,5,No,Postgraduate,Near,Female
+5669,19,62,High,Medium,Yes,9,94,Medium,Yes,0,High,Low,Public,Neutral,4,No,Postgraduate,Near,Female
+5670,17,82,High,Low,No,9,56,Low,Yes,3,High,Medium,Public,Positive,2,No,High School,Near,Female
+5671,24,76,Low,High,No,8,83,Medium,Yes,1,High,Medium,Private,Positive,4,No,High School,Near,Female
+5672,25,73,Low,Low,No,8,69,Medium,Yes,3,Medium,Medium,Private,Positive,3,No,High School,Near,Female
+5673,12,69,High,Medium,Yes,7,92,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,College,Near,Female
+5674,22,72,Low,Medium,No,6,70,Low,Yes,1,High,Medium,Public,Neutral,3,No,Postgraduate,Far,Male
+5675,14,69,High,Medium,Yes,4,71,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,,Female
+5676,16,66,Low,Medium,Yes,8,87,High,Yes,3,Medium,Medium,Public,Positive,2,No,High School,Moderate,Female
+5677,26,77,Medium,Medium,Yes,8,61,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,Moderate,Male
+5678,20,90,High,Medium,No,7,74,Low,No,0,High,Low,Private,Positive,3,No,Postgraduate,Moderate,Female
+5679,25,88,Medium,Medium,Yes,8,95,Low,Yes,1,High,High,Public,Neutral,4,No,High School,Near,Female
+5680,21,75,Medium,Low,Yes,8,75,High,Yes,1,Medium,Medium,Private,Negative,2,No,High School,Moderate,Male
+5681,19,79,Medium,High,Yes,5,59,Medium,Yes,2,Low,Medium,Private,Neutral,2,No,Postgraduate,Far,Male
+5682,17,83,Low,Medium,No,9,80,Medium,Yes,4,Medium,High,Public,Negative,2,No,College,Near,Female
+5683,26,63,Medium,Medium,Yes,5,76,Medium,Yes,3,Medium,High,Public,Neutral,5,Yes,High School,Near,Female
+5684,36,76,Medium,Medium,No,6,96,Medium,Yes,1,Low,Medium,Private,Neutral,2,No,College,Near,Male
+5685,23,74,Medium,High,Yes,6,93,Medium,Yes,4,High,Medium,Private,Neutral,3,No,High School,Near,Female
+5686,18,96,Medium,High,Yes,6,92,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Far,Male
+5687,15,74,Low,Low,No,10,71,Medium,Yes,0,Low,High,Public,Negative,2,No,Postgraduate,Near,Male
+5688,15,96,Medium,Low,No,7,54,Low,Yes,0,Low,Medium,Public,Neutral,3,No,College,Near,Female
+5689,26,62,Medium,Medium,Yes,8,69,Medium,Yes,2,Medium,High,Public,Positive,3,No,College,Moderate,Female
+5690,20,92,Medium,Medium,Yes,9,93,Low,Yes,3,High,Medium,Public,Positive,2,No,College,Near,Female
+5691,30,99,Medium,Medium,Yes,5,70,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Female
+5692,16,98,Medium,Low,No,8,100,Low,Yes,2,Low,Medium,Public,Neutral,1,No,,Near,Male
+5693,19,79,Medium,High,Yes,7,66,Low,Yes,3,High,Medium,Public,Positive,3,Yes,High School,Near,Male
+5694,15,92,Low,Medium,No,8,69,Medium,Yes,1,High,Medium,Private,Neutral,4,No,Postgraduate,Near,Male
+5695,21,97,Medium,Medium,Yes,6,80,Low,Yes,2,Medium,Medium,Private,Positive,4,No,College,Near,Male
+5696,18,89,Medium,Medium,Yes,6,52,Medium,Yes,3,High,High,Public,Positive,3,No,High School,Moderate,Female
+5697,14,84,High,Medium,Yes,9,86,High,Yes,1,Low,Medium,Private,Positive,4,No,High School,Near,Female
+5698,13,76,Low,Medium,Yes,10,97,High,Yes,4,Low,Low,Public,Neutral,3,No,College,Moderate,Male
+5699,18,71,High,Medium,No,9,71,Medium,Yes,1,Medium,High,Public,Positive,3,No,High School,Moderate,Female
+5700,30,100,High,High,Yes,6,90,Low,Yes,0,Medium,Low,Public,Positive,2,Yes,High School,Near,Male
+5701,28,99,Medium,Medium,Yes,6,88,Medium,Yes,3,Low,Medium,Public,Positive,4,No,High School,Near,Female
+5702,25,85,High,High,No,5,59,Medium,Yes,3,Low,Medium,Public,Neutral,4,No,High School,Near,Female
+5703,23,91,High,Low,No,6,57,Medium,Yes,2,Low,Medium,Private,Positive,3,No,High School,Near,Male
+5704,26,99,Medium,Medium,No,6,94,High,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+5705,26,64,Medium,High,No,6,91,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,High School,Moderate,Male
+5706,11,76,Medium,Medium,Yes,7,71,Medium,No,1,Medium,Low,Public,Neutral,2,No,College,Near,Male
+5707,9,90,Medium,Medium,Yes,8,65,Medium,Yes,0,Medium,Medium,Private,Neutral,5,No,High School,Far,Male
+5708,13,88,Medium,Medium,Yes,4,68,High,Yes,1,High,Medium,Public,Positive,2,No,High School,Near,Female
+5709,18,78,Low,Medium,Yes,9,59,High,No,0,High,High,Private,Positive,1,No,High School,Moderate,Female
+5710,17,67,High,High,Yes,9,94,Medium,Yes,2,Low,Low,Private,Positive,3,No,High School,Near,Female
+5711,20,71,Medium,Medium,Yes,5,75,Low,Yes,0,Medium,Medium,Private,Positive,4,No,High School,Near,Male
+5712,17,78,Medium,High,No,7,64,Medium,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Near,Female
+5713,32,61,High,Medium,Yes,7,69,High,Yes,0,High,Medium,Public,Positive,3,No,High School,Moderate,Female
+5714,28,62,Low,High,No,8,85,Medium,Yes,2,Low,High,Public,Positive,3,No,High School,Moderate,Female
+5715,23,75,Low,High,No,6,71,Low,Yes,0,Medium,Medium,Public,Neutral,2,No,College,Near,Male
+5716,29,77,Low,High,No,6,85,Medium,Yes,1,Medium,Medium,Public,Positive,1,No,College,Near,Male
+5717,22,88,Medium,Medium,Yes,9,58,Low,Yes,3,Low,Medium,Private,Negative,2,No,College,Moderate,Male
+5718,17,86,Low,Medium,No,6,62,Low,Yes,2,Medium,High,Public,Positive,4,No,High School,Near,Female
+5719,31,96,Medium,Medium,Yes,8,93,Low,Yes,3,Low,Medium,Public,Positive,3,No,High School,Near,Male
+5720,28,70,Medium,Medium,Yes,4,96,Low,Yes,1,Medium,Medium,Private,Positive,2,No,,Moderate,Male
+5721,28,80,Medium,High,Yes,8,61,Low,Yes,1,Low,Medium,Private,Negative,3,No,College,Far,Female
+5722,30,84,High,Low,Yes,5,66,Low,Yes,0,Medium,Low,Public,Positive,2,No,Postgraduate,Near,Female
+5723,14,78,High,High,Yes,8,80,Low,Yes,1,Medium,Medium,Public,Neutral,1,No,High School,Near,Female
+5724,5,84,Medium,Medium,Yes,8,93,High,Yes,4,High,High,Public,Positive,3,No,College,Moderate,Male
+5725,11,100,High,High,Yes,8,58,High,Yes,1,Low,Medium,Private,Positive,3,No,College,Near,Female
+5726,27,76,High,High,Yes,9,55,Medium,Yes,3,Low,Medium,Private,Neutral,0,No,High School,Moderate,Female
+5727,21,83,High,Low,Yes,7,89,Low,No,0,Low,Low,Public,Neutral,2,No,College,Moderate,Female
+5728,20,78,Medium,Medium,No,6,77,Medium,Yes,3,Medium,Medium,Private,Positive,3,No,High School,Moderate,Male
+5729,23,99,Low,Low,Yes,6,68,High,Yes,1,Medium,Medium,Public,Neutral,3,Yes,College,Far,Male
+5730,24,80,Medium,High,Yes,7,99,Low,Yes,2,Medium,Medium,Public,Negative,2,No,High School,Moderate,Female
+5731,21,72,Medium,High,Yes,9,80,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Female
+5732,22,65,Medium,Medium,Yes,9,66,High,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Near,Male
+5733,11,81,Low,High,Yes,7,63,Medium,Yes,3,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near,Male
+5734,13,73,Medium,High,No,8,93,Medium,Yes,0,High,High,Public,Neutral,3,No,Postgraduate,,Female
+5735,22,64,Medium,Medium,No,6,73,High,Yes,3,Medium,Medium,Public,Positive,4,No,Postgraduate,Moderate,Female
+5736,16,71,Medium,High,No,9,69,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Female
+5737,21,66,Medium,Medium,No,9,62,Low,No,3,Medium,Medium,Private,Positive,2,No,High School,Near,Male
+5738,9,87,Low,Low,No,8,71,Low,No,0,Low,High,Public,Neutral,1,No,College,Moderate,Male
+5739,16,84,Medium,High,Yes,8,51,Low,Yes,0,Medium,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+5740,19,99,Low,Low,No,8,79,High,Yes,3,Medium,Medium,Private,Positive,4,No,High School,Near,Male
+5741,27,90,High,Medium,No,8,96,High,Yes,0,Medium,Medium,Public,Negative,4,No,High School,Moderate,Male
+5742,34,79,High,Low,Yes,7,79,Low,Yes,3,Medium,High,Private,Negative,2,Yes,High School,Moderate,Male
+5743,7,61,Low,High,Yes,4,76,High,Yes,1,Medium,Medium,Private,Positive,5,No,High School,Far,Female
+5744,17,85,Medium,Low,No,7,94,High,Yes,4,Low,Medium,Public,Positive,3,No,College,Near,Female
+5745,21,84,High,Low,Yes,8,87,Low,Yes,2,High,Medium,Public,Positive,1,No,Postgraduate,Far,Female
+5746,17,72,High,High,Yes,6,65,Low,Yes,3,Low,High,Public,Positive,2,No,Postgraduate,Far,Male
+5747,8,61,Medium,Medium,Yes,7,54,Medium,Yes,1,High,Medium,Public,Positive,3,No,College,Near,Male
+5748,31,84,Medium,Medium,Yes,9,87,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,College,Far,Male
+5749,20,86,Low,Medium,No,9,57,Medium,Yes,0,Medium,High,Public,Positive,4,No,High School,Moderate,Male
+5750,15,75,Medium,High,Yes,4,65,High,Yes,1,Low,Low,Private,Positive,4,No,Postgraduate,Moderate,Female
+5751,28,64,Medium,Medium,Yes,9,56,Medium,Yes,1,Low,Low,Public,Negative,2,No,College,Near,Male
+5752,13,72,Medium,High,No,8,56,Low,Yes,1,Low,High,Public,Positive,4,No,Postgraduate,Moderate,Female
+5753,34,91,Medium,Low,No,9,98,Medium,Yes,0,Medium,Medium,Public,Neutral,4,No,,Moderate,Male
+5754,26,67,Low,Medium,Yes,5,62,High,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Moderate,Male
+5755,20,91,High,High,Yes,5,61,Low,Yes,4,Low,Medium,Public,Positive,2,No,Postgraduate,Near,Male
+5756,11,70,Medium,Medium,No,6,98,Medium,Yes,3,High,Medium,Private,Neutral,4,No,Postgraduate,Near,Female
+5757,36,71,Medium,Medium,Yes,6,56,Medium,Yes,2,High,Medium,Public,Positive,2,No,High School,Far,Male
+5758,33,76,Medium,Medium,Yes,10,92,Low,Yes,1,High,Medium,Private,Positive,3,No,Postgraduate,Near,Female
+5759,23,68,Medium,High,No,7,53,High,Yes,3,High,Medium,Public,Neutral,3,No,High School,Moderate,Female
+5760,29,72,Medium,Medium,No,7,68,Low,Yes,0,Low,Medium,Public,Positive,3,No,College,Near,Female
+5761,20,72,Medium,Medium,No,9,90,Low,Yes,1,Medium,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Male
+5762,23,81,Medium,Low,Yes,7,67,Medium,Yes,0,Medium,High,Private,Positive,5,No,,Moderate,Female
+5763,14,98,High,High,No,7,51,Medium,Yes,0,Medium,Low,Public,Positive,1,Yes,High School,Near,Male
+5764,25,93,Medium,Medium,Yes,10,60,Low,Yes,1,Medium,Medium,Public,Positive,3,No,College,Moderate,Male
+5765,23,76,Low,High,Yes,7,93,Medium,Yes,2,Low,Medium,Public,Negative,2,No,College,Near,Male
+5766,18,86,High,Medium,No,8,60,Medium,Yes,2,Low,High,Private,Neutral,1,No,College,Near,Male
+5767,24,71,High,High,Yes,10,93,Low,Yes,2,Medium,Medium,Private,Positive,2,Yes,College,Near,Female
+5768,32,95,Medium,High,Yes,9,58,Medium,Yes,2,Medium,Medium,Private,Positive,4,No,High School,Near,Male
+5769,26,96,High,High,Yes,10,64,Low,Yes,2,Medium,Medium,Private,Neutral,3,Yes,High School,Near,Female
+5770,24,71,Medium,Medium,Yes,5,74,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,High School,Near,Male
+5771,30,90,High,Medium,No,10,67,High,Yes,2,Medium,Medium,Private,Neutral,6,No,High School,Near,Male
+5772,25,60,Medium,Low,No,6,71,Low,Yes,2,High,Medium,Public,Positive,2,No,High School,Near,Male
+5773,12,99,High,High,No,8,71,Medium,Yes,2,Medium,Low,Public,Neutral,2,No,College,Near,Female
+5774,16,62,Medium,Medium,No,7,73,Low,Yes,3,High,Medium,Public,Negative,3,No,High School,Near,Female
+5775,22,71,Low,Medium,Yes,7,65,Low,Yes,1,Medium,Low,Public,Positive,4,No,College,Moderate,Male
+5776,8,86,High,Low,Yes,8,98,Low,Yes,1,Low,Medium,Private,Neutral,1,No,College,Near,Male
+5777,18,97,High,Low,Yes,8,95,High,Yes,1,Medium,Medium,Public,Positive,2,No,Postgraduate,Moderate,Male
+5778,29,98,Medium,High,No,5,86,Low,Yes,2,Medium,Medium,Private,Negative,4,No,High School,Far,Male
+5779,14,67,Low,Low,Yes,7,66,Low,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Far,Female
+5780,24,75,Medium,High,Yes,9,75,High,Yes,0,Medium,High,Public,Positive,3,No,College,Far,Male
+5781,26,96,Medium,Medium,Yes,5,63,Medium,No,1,High,Medium,Private,Positive,2,No,Postgraduate,Near,Male
+5782,29,61,Medium,High,No,9,61,Medium,Yes,0,Low,Medium,Private,Negative,3,No,High School,Near,Male
+5783,27,81,Medium,Low,Yes,5,98,Medium,Yes,0,High,Medium,Public,Positive,3,No,High School,Near,Male
+5784,12,69,High,High,Yes,7,53,Low,Yes,2,Low,High,Public,Neutral,3,No,College,Near,Male
+5785,23,79,Medium,High,Yes,6,97,Medium,Yes,1,High,Low,Public,Neutral,4,No,High School,Moderate,Male
+5786,21,96,Medium,Medium,Yes,5,71,Medium,Yes,2,Low,High,Public,Negative,4,No,High School,Moderate,Male
+5787,21,82,Low,Low,Yes,6,54,High,Yes,3,Low,Medium,Public,Negative,2,No,College,Moderate,Male
+5788,18,79,Low,Medium,Yes,9,58,Medium,Yes,3,Medium,High,Public,Negative,3,No,High School,Near,Female
+5789,21,92,High,Low,No,6,76,Low,Yes,2,Low,Medium,Public,Positive,5,No,College,Near,Male
+5790,33,89,Low,Medium,No,8,99,Medium,Yes,2,High,High,Private,Positive,4,No,College,Moderate,Male
+5791,31,79,Medium,High,No,7,98,Medium,Yes,1,Medium,High,Public,Neutral,2,No,College,Moderate,Male
+5792,28,89,High,Low,Yes,4,90,High,Yes,3,Low,High,Public,Positive,2,Yes,Postgraduate,Moderate,Female
+5793,23,95,Low,Medium,Yes,7,80,High,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5794,13,86,Medium,Medium,No,7,80,Medium,Yes,0,Low,Medium,Private,Negative,5,No,College,Near,Male
+5795,19,84,High,Medium,Yes,7,67,Low,Yes,0,Medium,Low,Public,Positive,3,No,Postgraduate,Near,Female
+5796,18,69,Medium,Medium,Yes,6,84,Medium,Yes,2,Low,Medium,Public,Positive,4,No,High School,Near,Male
+5797,24,92,High,Medium,Yes,5,94,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near,Female
+5798,15,60,High,Medium,No,7,63,Low,Yes,0,Low,High,Public,Positive,1,Yes,High School,Far,Female
+5799,24,91,Low,High,Yes,6,56,Medium,Yes,1,Low,High,Public,Positive,2,No,College,Moderate,Male
+5800,23,97,Low,High,Yes,7,81,Low,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near,Male
+5801,16,87,Low,Medium,Yes,10,56,Low,Yes,2,Medium,High,Private,Neutral,0,No,Postgraduate,Moderate,Female
+5802,22,63,High,Low,No,6,63,Low,Yes,1,Medium,Low,Public,Negative,2,No,Postgraduate,Moderate,Male
+5803,22,72,Low,High,No,6,78,Low,No,1,Low,High,Public,Neutral,3,No,Postgraduate,Near,Male
+5804,23,96,Medium,High,No,6,70,Medium,Yes,1,Medium,Medium,Public,Neutral,2,No,High School,Near,Male
+5805,16,74,Medium,High,No,9,80,Low,Yes,0,Medium,Medium,Public,Negative,5,No,High School,Near,Male
+5806,22,85,High,Medium,Yes,6,96,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,,Moderate,Female
+5807,23,64,High,Medium,Yes,5,80,Low,Yes,3,Medium,High,Public,Negative,2,Yes,College,Moderate,Female
+5808,19,69,Medium,Medium,Yes,6,67,Medium,No,4,High,High,Private,Positive,4,No,Postgraduate,Moderate,Male
+5809,15,87,High,Low,Yes,4,80,High,Yes,0,Low,Medium,Private,Positive,3,No,College,Near,Male
+5810,31,84,Medium,Medium,No,5,87,High,Yes,0,Medium,Medium,Private,Positive,3,No,College,Moderate,Male
+5811,21,63,Medium,Low,No,8,74,Medium,Yes,0,Low,Medium,Public,Negative,3,No,High School,Near,Female
+5812,19,88,Medium,Medium,Yes,9,76,Low,Yes,1,Medium,High,Public,Positive,3,No,High School,Far,Male
+5813,10,76,Medium,Low,Yes,7,79,Low,Yes,3,Medium,Medium,Private,Neutral,4,No,High School,Far,Female
+5814,5,79,High,High,Yes,9,89,Low,Yes,3,Medium,Medium,Private,Neutral,3,No,College,Near,Female
+5815,11,69,Medium,Medium,No,5,93,Medium,Yes,0,Medium,High,Public,Negative,4,No,College,Near,Male
+5816,9,65,Low,Medium,Yes,7,89,Medium,Yes,2,Low,Medium,Public,Positive,4,No,High School,Moderate,Male
+5817,15,67,Medium,Medium,Yes,7,94,Low,Yes,0,High,Low,Private,Positive,2,No,Postgraduate,Moderate,Male
+5818,19,96,Medium,Medium,Yes,7,95,High,Yes,3,Medium,High,Private,Negative,3,No,College,Near,Female
+5819,28,76,Medium,Medium,Yes,10,99,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5820,26,70,Medium,Low,Yes,8,75,Medium,Yes,1,Medium,Low,Private,Neutral,4,Yes,High School,Far,Female
+5821,27,80,Low,Low,Yes,7,84,Low,Yes,4,Low,Medium,Public,Positive,3,No,College,Moderate,Male
+5822,22,63,Medium,High,Yes,7,85,Medium,Yes,4,High,High,Public,Negative,3,No,College,Near,Female
+5823,17,98,High,High,No,9,94,Low,Yes,0,High,Low,Public,Negative,3,No,College,Near,Male
+5824,13,67,Medium,Low,Yes,5,70,Medium,Yes,0,Low,High,Private,Negative,2,No,High School,Near,Male
+5825,22,88,Medium,Low,Yes,7,70,Medium,Yes,3,Low,Medium,Public,Positive,2,No,High School,Near,Female
+5826,12,68,High,Low,No,6,52,Low,Yes,5,High,High,Public,Neutral,3,No,College,Near,Male
+5827,18,83,High,Low,No,9,76,Medium,Yes,0,Medium,Low,Private,Neutral,4,No,High School,Near,Female
+5828,21,91,Medium,High,Yes,9,66,Low,Yes,3,Low,Medium,Public,Neutral,4,No,College,Moderate,Female
+5829,12,72,Medium,Medium,No,8,67,Low,Yes,4,Medium,Medium,Public,Neutral,4,No,High School,Near,Male
+5830,21,71,Medium,Medium,No,7,58,Low,Yes,3,Low,Medium,Public,Negative,5,No,College,Near,Female
+5831,21,62,High,Medium,No,6,86,Medium,Yes,2,Medium,High,Private,Positive,4,No,High School,Near,Female
+5832,13,79,High,High,No,5,92,Medium,Yes,3,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5833,16,66,High,Medium,Yes,7,79,High,Yes,0,High,High,Private,Neutral,3,No,College,Near,Female
+5834,12,67,High,High,No,6,76,High,Yes,1,Low,Medium,Public,Negative,2,No,High School,Moderate,Male
+5835,21,70,Medium,Low,Yes,7,90,Medium,No,1,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male
+5836,14,79,High,Medium,No,5,81,High,Yes,3,High,Medium,Public,Negative,3,No,High School,Near,Female
+5837,19,87,Low,Medium,No,9,54,Low,Yes,3,Low,High,Public,Positive,4,No,High School,Moderate,Female
+5838,17,73,High,High,Yes,7,92,Medium,Yes,2,High,Medium,Private,Negative,2,No,High School,Moderate,Male
+5839,19,78,Medium,Low,Yes,5,56,Low,Yes,3,High,Medium,Public,Neutral,4,No,College,Moderate,Female
+5840,26,74,High,Medium,No,6,62,Medium,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Near,Female
+5841,16,73,Medium,Medium,Yes,6,75,High,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Moderate,Female
+5842,13,78,Medium,High,Yes,8,88,High,Yes,0,High,Low,Public,Neutral,3,No,College,Near,Male
+5843,14,74,Low,Medium,Yes,7,66,Medium,Yes,0,Medium,High,Private,Negative,3,No,Postgraduate,Near,Male
+5844,15,69,Low,Medium,Yes,9,52,Medium,Yes,0,High,Medium,Public,Neutral,3,No,College,Near,Female
+5845,16,95,Medium,Low,No,8,68,Low,No,2,Medium,High,Public,Neutral,4,No,High School,Near,Female
+5846,27,75,Low,Medium,No,10,86,Medium,No,3,Medium,Medium,Private,Positive,6,No,Postgraduate,Near,Female
+5847,13,73,Medium,Low,No,9,59,Medium,Yes,0,Medium,High,Public,Neutral,4,No,Postgraduate,Near,Male
+5848,17,75,Medium,Low,No,5,73,High,Yes,0,Low,Medium,Private,Neutral,4,No,High School,Near,Female
+5849,10,78,Medium,High,Yes,8,74,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,Postgraduate,Near,Male
+5850,15,77,Low,Medium,Yes,8,63,Medium,Yes,0,Medium,Medium,Public,Neutral,1,No,High School,Near,Female
+5851,19,79,High,Medium,Yes,7,68,Medium,Yes,2,High,High,Public,Negative,1,No,College,Near,Female
+5852,15,73,Low,High,Yes,8,93,Medium,Yes,1,Low,High,Public,Positive,4,No,College,Far,Male
+5853,17,94,Medium,High,No,6,80,High,Yes,0,Medium,Low,Private,Neutral,1,No,College,Near,Male
+5854,26,91,High,Medium,Yes,8,65,Low,Yes,0,Medium,High,Public,Neutral,2,No,High School,Moderate,Male
+5855,22,75,High,Medium,Yes,8,84,Low,Yes,3,High,Medium,Public,Negative,3,No,College,Near,Male
+5856,20,69,Medium,High,No,6,63,Low,Yes,0,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Male
+5857,23,75,Medium,Low,Yes,8,66,Medium,Yes,5,Medium,Low,Public,Neutral,3,No,High School,Near,Male
+5858,21,98,High,Medium,Yes,10,95,Medium,Yes,0,Medium,Medium,Public,Neutral,1,No,High School,,Male
+5859,28,98,Medium,High,Yes,7,72,Medium,Yes,1,Low,High,Private,Positive,2,No,College,Near,Male
+5860,27,90,Medium,Medium,No,7,82,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,College,Moderate,Female
+5861,24,94,Low,Medium,No,8,60,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5862,28,91,High,Medium,No,7,98,Low,Yes,2,Low,Medium,Private,Positive,5,No,Postgraduate,Near,Male
+5863,21,84,High,High,Yes,6,61,Low,Yes,1,Medium,High,Private,Negative,4,No,High School,Moderate,Female
+5864,22,76,High,Medium,Yes,6,84,High,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near,Male
+5865,18,79,Medium,Medium,Yes,4,69,Medium,Yes,2,High,Low,Private,Positive,3,No,College,Near,Male
+5866,22,63,Low,Low,Yes,7,94,Medium,Yes,0,Medium,,Public,Negative,3,Yes,High School,Far,Male
+5867,24,86,High,Medium,No,7,89,Low,Yes,2,Low,Medium,Public,Negative,3,No,Postgraduate,Far,Female
+5868,16,66,Low,High,Yes,7,99,Medium,Yes,1,Low,Medium,Public,Positive,3,No,College,Near,Female
+5869,11,85,Medium,Medium,No,7,79,Low,Yes,2,High,Low,Public,Positive,3,No,High School,Near,Male
+5870,25,74,Low,Medium,Yes,6,65,High,Yes,0,High,Medium,Public,Neutral,1,No,High School,Moderate,Male
+5871,24,78,High,High,Yes,8,87,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5872,25,77,High,Medium,Yes,7,98,Low,Yes,0,High,Medium,Public,Positive,2,No,High School,Near,Male
+5873,20,93,Medium,Medium,Yes,6,82,Low,No,1,Medium,High,Public,Positive,3,Yes,High School,Moderate,Female
+5874,17,90,High,Medium,No,8,82,Medium,Yes,0,Medium,High,Public,Neutral,4,No,College,Near,Male
+5875,20,90,Medium,Medium,Yes,4,83,High,Yes,1,Low,Low,Public,Positive,3,No,College,Near,Male
+5876,20,67,Medium,Medium,No,6,93,Low,No,1,Low,Medium,Public,Negative,3,Yes,College,Near,Male
+5877,7,77,Low,Medium,Yes,7,53,High,Yes,4,Low,Medium,Private,Positive,2,No,College,Moderate,Female
+5878,24,84,Medium,Medium,Yes,6,74,Medium,Yes,2,Medium,High,Public,Positive,2,No,High School,Far,Male
+5879,25,60,Medium,High,Yes,8,67,Medium,Yes,1,Medium,High,Public,Neutral,2,No,College,Near,Female
+5880,24,60,Medium,Medium,No,6,85,Low,Yes,1,High,Medium,Public,Neutral,2,No,Postgraduate,Moderate,Male
+5881,23,76,High,Medium,No,8,81,Medium,Yes,3,Low,High,Public,Positive,2,No,High School,Near,Female
+5882,12,62,Medium,High,Yes,7,63,High,Yes,1,High,Medium,Public,Neutral,4,No,High School,Near,Female
+5883,15,95,Low,Low,Yes,6,88,Low,Yes,1,Low,Medium,Public,Negative,5,No,High School,Near,Male
+5884,17,64,Medium,Medium,No,9,50,Medium,Yes,2,Low,High,Public,Positive,4,No,High School,Moderate,Female
+5885,23,69,Medium,Medium,Yes,6,58,High,Yes,0,Medium,Medium,Public,Neutral,1,No,Postgraduate,Near,Female
+5886,32,94,Medium,High,Yes,9,55,High,Yes,4,Medium,Medium,Private,Positive,2,Yes,High School,Near,Male
+5887,19,64,High,Low,Yes,8,86,Low,Yes,3,High,Medium,Private,Neutral,3,No,Postgraduate,Near,Female
+5888,18,65,Medium,High,Yes,6,91,Medium,No,5,Low,Medium,Private,Neutral,3,No,College,Near,Male
+5889,28,97,Medium,Medium,Yes,7,88,High,Yes,2,Medium,Medium,Public,Neutral,2,No,High School,Moderate,Male
+5890,23,63,Medium,Medium,No,7,73,Low,Yes,1,Low,Medium,Public,Neutral,3,No,College,Moderate,Male
+5891,11,68,Low,High,Yes,8,50,Low,Yes,2,Low,High,Private,Positive,4,No,High School,Near,Female
+5892,15,95,High,Low,No,8,70,Medium,Yes,2,High,High,Public,Neutral,3,Yes,High School,Near,Female
+5893,29,80,Low,Medium,Yes,10,91,High,No,1,High,Medium,Public,Positive,3,No,College,Moderate,Male
+5894,26,73,Medium,Medium,No,6,55,Medium,Yes,1,Medium,Low,Public,Positive,4,No,Postgraduate,Near,Male
+5895,15,95,Medium,Medium,No,7,93,Medium,Yes,2,Low,Medium,Public,Positive,4,No,College,Moderate,Male
+5896,18,81,Medium,Medium,No,8,65,Low,Yes,2,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Male
+5897,17,76,High,Medium,No,8,100,Low,No,0,High,Medium,Private,Neutral,4,No,High School,Moderate,Male
+5898,34,75,Low,Medium,Yes,5,66,Medium,Yes,0,Low,Medium,Private,Positive,3,No,High School,Near,Male
+5899,28,88,High,Medium,No,8,79,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Far,Male
+5900,17,90,Medium,Medium,No,7,83,Low,Yes,5,Medium,High,Public,Negative,3,Yes,High School,Near,Male
+5901,19,89,Medium,High,No,9,92,High,Yes,5,Medium,Medium,Private,Positive,3,No,Postgraduate,Near,Male
+5902,19,80,Low,Low,No,8,82,Medium,Yes,5,Low,Low,Public,Positive,3,No,College,Near,Male
+5903,14,84,Medium,Medium,No,7,81,Medium,Yes,0,High,Medium,Public,Neutral,2,No,College,Near,Female
+5904,12,74,Low,High,Yes,6,55,High,Yes,0,Medium,Low,Public,Positive,3,No,Postgraduate,Near,Male
+5905,22,72,High,Medium,Yes,9,64,Low,Yes,1,Medium,Medium,Public,Negative,2,No,College,Near,Female
+5906,26,68,Medium,Medium,Yes,10,62,High,Yes,4,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near,Female
+5907,20,68,Low,Medium,Yes,6,80,Low,Yes,4,Low,Medium,Private,Neutral,4,No,College,Near,Female
+5908,25,74,Low,Medium,Yes,6,92,Low,Yes,4,Medium,Medium,Private,Positive,3,No,Postgraduate,Near,Male
+5909,13,96,Medium,Medium,No,5,69,Medium,Yes,2,Medium,Low,Public,Positive,3,No,High School,Near,Male
+5910,15,93,Medium,Medium,Yes,7,78,Low,Yes,0,Medium,Medium,Public,Negative,4,No,High School,Moderate,Male
+5911,12,80,Medium,Low,No,6,75,Medium,Yes,1,Low,High,Public,Negative,4,No,High School,Moderate,Male
+5912,36,82,Low,Low,Yes,7,63,Medium,Yes,0,Medium,Medium,Private,Positive,3,No,High School,Near,Male
+5913,24,63,Medium,Low,Yes,6,57,Medium,Yes,1,Low,High,Private,Neutral,5,No,College,Near,Female
+5914,25,93,Medium,Medium,No,5,62,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Far,Male
+5915,20,99,High,Low,Yes,9,76,High,Yes,2,Low,Medium,Public,Neutral,5,No,College,Far,Male
+5916,22,89,Medium,High,No,5,59,High,Yes,5,Medium,Medium,Private,Positive,4,Yes,High School,Near,Male
+5917,12,79,Medium,Low,No,9,80,Low,Yes,1,High,Medium,Public,Positive,2,No,College,Moderate,Male
+5918,17,94,Medium,Low,Yes,7,98,Low,Yes,1,Medium,High,Public,Negative,2,No,High School,Near,Male
+5919,22,63,Low,High,Yes,4,86,Low,Yes,0,Low,High,Public,Neutral,4,No,College,Near,Female
+5920,16,64,High,Medium,Yes,7,79,Medium,Yes,3,Medium,Medium,Private,Positive,4,Yes,Postgraduate,Near,Female
+5921,21,96,Medium,High,Yes,9,53,Medium,Yes,0,Low,High,Public,Neutral,3,No,College,Near,Male
+5922,21,93,Medium,Medium,Yes,8,78,Medium,No,0,Low,Medium,Private,Neutral,3,No,High School,Near,Male
+5923,20,94,High,Medium,Yes,8,93,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,College,Moderate,Female
+5924,11,73,Medium,High,Yes,9,79,Medium,Yes,1,Low,High,Public,Neutral,2,No,High School,Near,Male
+5925,21,91,Medium,Medium,No,5,66,Low,Yes,1,High,Medium,Public,Positive,3,No,College,Near,Female
+5926,20,61,Medium,High,No,5,89,Medium,Yes,1,Medium,Medium,Public,Neutral,2,No,Postgraduate,Far,Female
+5927,15,91,High,Medium,No,6,80,Medium,Yes,0,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Male
+5928,22,82,Low,High,No,6,78,Medium,Yes,3,Medium,High,Public,Neutral,3,No,High School,Moderate,Male
+5929,18,90,Medium,Medium,No,7,65,Low,Yes,4,Medium,Medium,Public,Positive,3,No,College,Near,Female
+5930,26,61,High,Low,Yes,7,95,Low,No,0,Medium,High,Public,Neutral,3,No,Postgraduate,Moderate,Male
+5931,16,61,Medium,Medium,No,9,86,Low,Yes,2,Low,High,Public,Positive,2,No,High School,Near,Male
+5932,16,66,Medium,Medium,Yes,7,95,Low,Yes,1,Medium,Medium,Public,Positive,4,No,College,Near,Male
+5933,20,100,Medium,Medium,Yes,8,91,Medium,Yes,3,Low,Medium,Public,Positive,3,No,High School,Near,Male
+5934,28,95,High,Medium,No,9,67,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5935,27,91,Low,High,No,4,67,Medium,Yes,1,High,High,Private,Neutral,2,No,High School,Moderate,Female
+5936,16,66,High,High,No,5,68,High,No,2,Low,Medium,Public,Positive,5,No,Postgraduate,Moderate,Male
+5937,28,72,Low,Medium,Yes,7,60,Medium,Yes,4,High,Medium,Public,Neutral,3,No,Postgraduate,Near,Male
+5938,23,87,High,High,Yes,9,96,High,Yes,1,Medium,Medium,Private,Positive,1,No,College,Near,Female
+5939,23,79,Medium,High,No,9,77,Medium,Yes,1,Low,High,Public,Neutral,3,No,High School,Near,Male
+5940,16,86,Low,Low,Yes,5,82,Low,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female
+5941,19,62,Medium,Medium,No,7,91,Low,Yes,1,Low,Medium,Public,Positive,3,No,College,Near,Male
+5942,30,84,High,Medium,Yes,7,72,Medium,Yes,3,Medium,Medium,Public,Positive,2,No,High School,Near,Male
+5943,24,71,High,Medium,No,8,65,Medium,Yes,1,Low,Medium,Private,Negative,2,No,High School,Near,Male
+5944,26,62,Low,Medium,No,6,79,Medium,Yes,1,Low,Medium,Public,Positive,3,Yes,College,Near,Female
+5945,20,79,High,Medium,No,7,66,Low,Yes,3,High,Medium,Public,Negative,3,No,College,Near,Female
+5946,27,86,High,Medium,Yes,8,67,High,Yes,5,High,High,Public,Positive,2,Yes,Postgraduate,Near,Female
+5947,23,90,Low,Low,No,9,50,Low,Yes,4,Medium,Medium,Private,Neutral,3,No,High School,Moderate,Male
+5948,20,88,Medium,High,Yes,5,50,Medium,No,2,Low,Medium,Public,Neutral,5,No,High School,Moderate,Male
+5949,11,81,Medium,Medium,Yes,6,82,High,Yes,3,Medium,High,Public,Neutral,4,No,High School,Near,Male
+5950,28,73,High,Medium,Yes,6,71,Medium,Yes,0,Medium,High,Private,Positive,2,No,College,Moderate,Female
+5951,18,91,Low,High,Yes,9,81,High,Yes,4,High,Medium,Public,Neutral,5,No,High School,Moderate,Male
+5952,9,96,Medium,Medium,Yes,4,82,High,No,0,Low,Medium,Public,Positive,4,No,College,Near,Male
+5953,22,97,Medium,Medium,Yes,6,54,Medium,No,2,High,Medium,Public,Neutral,2,No,College,Near,Male
+5954,19,97,Medium,High,No,7,53,Medium,Yes,2,Low,Low,Private,Neutral,3,No,College,Moderate,Male
+5955,28,66,Medium,High,Yes,8,97,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Near,Male
+5956,16,72,Low,Medium,No,9,52,Medium,Yes,1,Medium,High,Public,Negative,1,Yes,College,Moderate,Female
+5957,19,64,Medium,Medium,Yes,8,81,High,Yes,1,Medium,Medium,Public,Negative,3,Yes,High School,Moderate,Male
+5958,14,85,High,High,Yes,5,77,Medium,Yes,2,Low,High,Public,Positive,3,No,High School,Near,Male
+5959,32,100,Low,High,Yes,5,67,Medium,No,4,Medium,Medium,Public,Positive,3,No,High School,Far,Male
+5960,21,77,High,Medium,No,10,87,Low,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near,Male
+5961,19,71,Medium,High,Yes,9,94,High,Yes,1,High,Medium,Private,Positive,4,No,High School,Near,Male
+5962,20,69,High,Medium,No,7,63,Low,Yes,2,Low,Medium,Private,Negative,2,No,,Moderate,Female
+5963,7,64,High,High,No,6,81,Medium,Yes,2,Low,Low,Private,Positive,3,No,Postgraduate,Moderate,Female
+5964,29,84,High,Medium,Yes,6,90,Medium,Yes,0,Medium,High,Public,Positive,3,No,Postgraduate,Far,Male
+5965,21,65,Medium,Medium,Yes,8,67,Medium,Yes,1,Low,Medium,Public,Positive,2,No,College,Moderate,Male
+5966,15,78,High,High,Yes,10,89,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5967,17,68,Medium,Medium,Yes,7,63,Medium,No,0,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male
+5968,9,97,High,Medium,No,6,68,Low,Yes,5,Medium,Medium,Private,Neutral,3,No,College,Near,Male
+5969,22,61,High,Low,Yes,6,74,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near,Male
+5970,12,97,Low,Medium,Yes,6,79,Medium,No,1,Medium,Medium,Public,Negative,2,No,High School,Near,Male
+5971,27,75,Medium,Low,Yes,10,57,Medium,Yes,3,High,Low,Public,Negative,3,No,High School,Near,Male
+5972,22,65,Low,Low,Yes,10,81,Medium,Yes,1,Low,,Private,Neutral,3,No,Postgraduate,Near,Male
+5973,22,83,Medium,Low,Yes,7,66,Medium,Yes,2,Medium,Medium,Private,Neutral,3,No,High School,Near,Female
+5974,18,66,Medium,Medium,Yes,7,90,Medium,Yes,0,Medium,Medium,Public,Negative,4,No,Postgraduate,Near,Male
+5975,18,88,High,Low,Yes,6,84,Medium,Yes,1,Medium,High,Public,Positive,3,No,Postgraduate,Moderate,Female
+5976,16,82,Medium,Low,Yes,8,75,Medium,Yes,2,Medium,Medium,Public,Positive,2,No,College,Near,Female
+5977,25,92,Medium,Medium,No,4,77,Medium,Yes,0,Low,Medium,Public,Positive,3,No,High School,Near,Male
+5978,29,87,Medium,High,Yes,10,93,High,Yes,1,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male
+5979,20,90,High,Medium,No,8,70,Medium,Yes,0,Medium,Medium,Private,Neutral,3,No,High School,Moderate,Female
+5980,20,86,Medium,Low,Yes,7,53,Medium,Yes,1,Low,High,Public,Negative,2,No,High School,Near,Male
+5981,17,92,Low,Low,Yes,6,57,Medium,Yes,2,Medium,Medium,Private,Positive,2,Yes,High School,Moderate,Female
+5982,25,97,Low,Medium,Yes,8,78,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+5983,15,68,Low,Medium,No,6,72,Low,Yes,3,High,Low,Public,Neutral,3,No,High School,Near,Female
+5984,13,60,Low,High,Yes,7,95,Medium,Yes,1,Low,Medium,Private,Positive,1,No,High School,Near,Female
+5985,23,91,Medium,High,Yes,10,62,Low,Yes,1,Medium,High,Private,Negative,3,No,College,Near,Male
+5986,29,96,Medium,Medium,Yes,9,55,Low,No,0,Medium,Medium,Public,Neutral,2,No,Postgraduate,Far,Female
+5987,20,86,Low,Low,No,8,94,Low,Yes,2,Low,Medium,Private,Negative,2,No,High School,Far,Female
+5988,12,94,Medium,Medium,Yes,10,78,Medium,Yes,1,Medium,High,Public,Neutral,2,No,High School,Near,Female
+5989,23,71,Medium,Medium,Yes,6,63,Low,Yes,1,Low,High,Public,Positive,5,No,,Moderate,Male
+5990,28,90,Low,Medium,Yes,9,91,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,College,Moderate,Female
+5991,31,93,High,Low,Yes,5,96,Medium,Yes,2,Low,Medium,Public,Positive,2,No,High School,Near,Male
+5992,16,72,Medium,High,No,5,53,Medium,Yes,1,High,High,Public,Positive,3,No,College,Near,Male
+5993,17,77,Medium,Medium,Yes,6,67,Low,Yes,1,Low,Medium,Public,Positive,1,No,College,Near,Male
+5994,26,77,Medium,Medium,Yes,7,98,Low,Yes,0,High,Medium,Public,Neutral,1,No,Postgraduate,,Male
+5995,23,99,Low,Medium,No,9,73,Medium,Yes,0,Low,Medium,Public,Negative,4,No,College,Near,Male
+5996,15,78,Medium,High,No,8,94,High,Yes,0,Low,Medium,Private,Positive,4,No,Postgraduate,Moderate,Male
+5997,18,93,Low,High,No,7,75,High,Yes,1,High,Medium,Private,Positive,1,No,College,Moderate,Female
+5998,27,89,Medium,Medium,No,7,65,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Female
+5999,29,98,Medium,High,Yes,5,88,Low,Yes,3,Low,Medium,Public,Neutral,2,No,College,Near,Male
+6000,25,96,Medium,High,Yes,5,69,Low,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male
+6001,23,94,Medium,High,No,8,76,Low,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male
+6002,12,81,Low,Medium,Yes,5,68,High,Yes,0,Low,High,Private,Negative,2,No,High School,Near,Male
+6003,13,96,Medium,High,Yes,7,100,Medium,No,4,Medium,High,Public,Negative,3,No,High School,Near,Male
+6004,22,74,High,High,Yes,5,99,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,College,Near,Female
+6005,19,91,High,Low,No,6,59,Medium,Yes,5,Medium,High,Public,Neutral,4,No,College,Moderate,Male
+6006,18,99,Medium,High,Yes,7,81,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near,Male
+6007,25,99,Medium,Medium,Yes,7,77,Medium,Yes,0,High,High,Public,Neutral,3,No,High School,Near,Male
+6008,15,63,Medium,Medium,Yes,6,86,Low,Yes,4,High,Medium,Public,Positive,5,No,High School,Near,Male
+6009,22,77,Medium,Medium,Yes,7,72,Medium,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near,Male
+6010,24,72,Low,Medium,Yes,8,73,Low,Yes,1,Low,Medium,Public,Positive,2,No,College,Moderate,Female
+6011,19,89,High,Medium,Yes,7,95,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+6012,15,87,Medium,Medium,No,10,83,Medium,Yes,1,High,High,Private,Positive,3,No,High School,Near,Male
+6013,19,85,High,Medium,Yes,9,71,Low,Yes,1,Medium,High,Public,Positive,2,No,Postgraduate,Moderate,Female
+6014,24,75,Low,Medium,Yes,10,89,Low,Yes,0,Medium,High,Private,Positive,3,No,College,Near,Female
+6015,18,92,Low,Medium,Yes,8,54,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+6016,20,97,High,High,Yes,4,81,Medium,Yes,1,Medium,Medium,Public,Positive,2,Yes,High School,,Male
+6017,21,70,High,High,Yes,8,72,Low,Yes,3,Medium,Low,Public,Neutral,1,No,Postgraduate,Moderate,Female
+6018,5,89,Medium,Medium,Yes,4,76,High,Yes,2,Medium,Medium,Public,Neutral,3,No,College,Near,Male
+6019,16,73,High,Medium,Yes,8,52,Medium,Yes,2,Medium,High,Public,Positive,4,No,College,Near,Female
+6020,10,64,Medium,High,No,8,96,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Male
+6021,24,97,High,Medium,Yes,8,51,Medium,Yes,3,Low,,Public,Neutral,2,No,Postgraduate,Near,Female
+6022,15,87,Medium,High,Yes,10,52,Medium,Yes,2,Low,High,Private,Positive,3,No,College,Near,Male
+6023,22,99,High,High,Yes,7,51,Medium,Yes,2,High,High,Public,Negative,4,Yes,High School,Moderate,Male
+6024,9,80,High,Low,No,5,60,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,High School,Near,Male
+6025,9,83,High,Low,Yes,7,86,Medium,Yes,0,Low,Medium,Public,Negative,1,No,College,Far,Female
+6026,19,93,High,High,No,7,84,Medium,Yes,5,Low,High,Public,Negative,3,No,High School,Near,Female
+6027,15,86,High,High,Yes,10,68,Medium,Yes,0,High,Medium,Public,Neutral,5,No,College,Near,Male
+6028,11,99,Medium,Medium,No,10,60,Medium,Yes,1,High,Medium,Public,Positive,1,No,College,Near,Female
+6029,22,83,Medium,Medium,Yes,5,73,High,No,0,Low,Medium,Public,Positive,3,No,High School,Near,Male
+6030,17,90,Medium,High,No,8,84,Medium,Yes,1,Low,Low,Public,Negative,4,No,High School,Far,Female
+6031,12,80,Medium,High,Yes,6,61,Medium,Yes,0,High,High,Private,Neutral,2,No,High School,Near,Male
+6032,23,75,High,High,Yes,6,93,Medium,No,2,Medium,Low,Public,Neutral,3,No,Postgraduate,Moderate,Female
+6033,16,76,Low,High,Yes,8,56,Medium,No,1,Low,Medium,Public,Positive,1,No,High School,Near,Male
+6034,24,93,Low,Medium,Yes,5,62,High,Yes,1,High,Medium,Private,Negative,3,No,College,Moderate,Female
+6035,9,87,Low,Medium,Yes,6,64,Medium,Yes,1,High,Medium,Public,Neutral,2,No,High School,Near,Female
+6036,32,97,High,Medium,Yes,8,73,Medium,Yes,0,High,Medium,Public,Negative,3,No,College,Near,Female
+6037,25,88,High,High,Yes,9,58,Low,Yes,0,Low,Medium,Public,Negative,4,No,Postgraduate,Near,Male
+6038,30,91,High,Low,Yes,6,69,Medium,Yes,2,Medium,High,Public,Negative,4,No,High School,Moderate,Female
+6039,12,90,Medium,High,Yes,9,77,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Male
+6040,24,76,Low,Medium,No,5,78,High,Yes,1,Medium,Medium,Private,Neutral,4,Yes,High School,Moderate,Male
+6041,21,86,Medium,Low,No,6,56,Medium,Yes,1,Low,High,Private,Negative,2,No,College,Near,Female
+6042,18,91,Medium,Low,No,6,83,Medium,Yes,2,Low,Medium,Private,Neutral,4,No,High School,Near,Male
+6043,29,96,Low,Low,No,4,89,Medium,Yes,2,Low,High,Public,Neutral,2,No,High School,Far,Female
+6044,23,73,High,Medium,No,8,57,Medium,Yes,3,Medium,Medium,Public,Positive,2,No,College,Near,Male
+6045,18,94,Medium,Medium,Yes,7,70,Medium,No,2,Medium,High,Public,Negative,3,No,College,Near,Female
+6046,12,73,High,Medium,No,5,60,Medium,Yes,1,Low,Medium,Public,Negative,4,No,High School,Moderate,Male
+6047,12,63,Medium,High,Yes,5,69,Low,Yes,0,Medium,High,Public,Negative,2,No,College,Moderate,Female
+6048,18,72,Low,Medium,Yes,8,79,Medium,Yes,1,Medium,High,Public,Positive,4,No,High School,Moderate,Male
+6049,23,66,Medium,High,No,6,90,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,High School,Near,Male
+6050,11,79,Medium,Medium,Yes,8,98,Medium,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Near,Female
+6051,27,61,Medium,Medium,Yes,9,70,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,,Male
+6052,29,90,High,Low,Yes,7,76,Low,Yes,1,Medium,Low,Public,Positive,3,No,High School,Moderate,Female
+6053,25,85,Medium,Low,Yes,8,94,Medium,Yes,3,Medium,High,Public,Positive,3,No,High School,Moderate,Male
+6054,20,90,Medium,Low,Yes,8,97,Low,Yes,1,Medium,Low,Private,Neutral,2,No,High School,Near,Female
+6055,25,69,Medium,Medium,Yes,7,70,Low,No,1,High,High,Public,Positive,4,No,High School,Far,Female
+6056,26,94,Low,Medium,No,6,59,High,Yes,4,Low,Medium,Public,Neutral,3,No,High School,Near,Female
+6057,11,62,Low,High,Yes,7,87,High,No,3,Low,High,Public,Positive,3,No,High School,Far,Female
+6058,25,65,High,Low,Yes,8,85,Medium,Yes,2,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+6059,15,95,Medium,Medium,No,7,77,High,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Near,Female
+6060,17,79,Medium,High,Yes,8,84,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Moderate,Male
+6061,12,98,Low,Medium,No,9,59,Low,Yes,1,High,Medium,Public,Neutral,2,No,Postgraduate,Near,Female
+6062,26,84,Medium,High,Yes,7,71,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Near,Female
+6063,17,81,High,Medium,No,9,64,Medium,Yes,0,High,Medium,Public,Positive,3,Yes,High School,Far,Male
+6064,22,84,High,Medium,No,7,81,Medium,Yes,1,Medium,Low,Private,Positive,3,No,High School,Moderate,Male
+6065,16,70,Medium,Medium,Yes,8,98,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male
+6066,21,78,High,Medium,Yes,6,97,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Near,Female
+6067,20,84,High,Medium,Yes,6,79,Medium,Yes,3,Medium,Medium,Public,Negative,3,No,College,Moderate,Male
+6068,22,76,High,Low,Yes,7,66,Low,Yes,1,Low,High,Private,Positive,4,No,Postgraduate,Near,Male
+6069,26,98,High,Low,No,8,90,Low,Yes,1,High,Low,Public,Positive,2,Yes,Postgraduate,Moderate,Female
+6070,27,94,Medium,High,No,9,63,High,Yes,0,Low,Medium,Public,Neutral,4,No,College,Near,Female
+6071,33,77,Low,High,Yes,5,85,Medium,Yes,0,Low,Medium,Private,Neutral,5,No,High School,Far,Female
+6072,19,75,Medium,Medium,Yes,5,90,High,Yes,0,Medium,,Private,Negative,3,No,Postgraduate,Near,Female
+6073,18,94,Low,Low,Yes,7,53,Low,Yes,3,Medium,High,Private,Neutral,2,No,High School,Near,Female
+6074,29,63,Low,Low,Yes,9,97,High,No,3,Medium,High,Public,Negative,3,No,High School,Near,Male
+6075,17,79,Low,Low,Yes,10,88,Low,Yes,3,Medium,High,Private,Neutral,3,No,High School,Moderate,Female
+6076,20,97,High,Medium,Yes,6,81,High,Yes,2,Low,Low,Public,Neutral,3,No,High School,Moderate,Male
+6077,17,94,Medium,Medium,No,10,92,Low,Yes,2,Low,Medium,Private,Negative,2,No,High School,Near,Male
+6078,21,70,Medium,High,Yes,5,62,Medium,Yes,2,Low,High,Public,Neutral,2,No,,Near,Female
+6079,21,96,Medium,High,No,8,100,Medium,Yes,1,High,Medium,Private,Positive,2,No,College,Near,Female
+6080,21,67,Medium,Medium,No,7,96,Low,Yes,3,Low,Medium,Public,Neutral,2,No,High School,Far,Female
+6081,21,84,High,High,No,4,90,Medium,Yes,2,Medium,Low,Public,Neutral,3,No,High School,Far,Male
+6082,7,96,Medium,High,No,9,91,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,College,Near,Male
+6083,23,75,High,Medium,No,8,87,Low,Yes,1,Medium,High,Public,Positive,2,No,College,Near,Female
+6084,13,70,Medium,High,Yes,6,66,Medium,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near,Male
+6085,14,83,Low,Low,Yes,9,79,Medium,Yes,1,Medium,Low,Public,Positive,3,No,High School,Near,Male
+6086,19,71,Medium,Medium,Yes,7,91,Medium,Yes,3,High,Medium,Public,Negative,1,No,High School,Moderate,Female
+6087,14,83,Medium,Medium,Yes,7,90,Medium,Yes,0,Low,Low,Public,Negative,3,No,College,Near,Female
+6088,19,60,High,High,Yes,6,60,High,Yes,1,Low,Medium,Public,Positive,2,No,College,Near,Male
+6089,17,87,Medium,High,Yes,7,79,Medium,Yes,3,Low,Medium,Public,Neutral,4,Yes,High School,Near,Female
+6090,24,91,Medium,Medium,No,7,52,Low,Yes,0,High,High,Public,Neutral,4,No,College,Near,Male
+6091,21,84,Medium,Medium,Yes,6,52,Low,Yes,1,Medium,High,Public,Neutral,2,Yes,College,Far,Female
+6092,19,77,Low,Medium,Yes,4,55,Medium,Yes,0,Medium,Low,Public,Positive,4,No,College,Moderate,Male
+6093,16,67,Medium,High,No,8,90,High,Yes,1,High,Low,Public,Neutral,4,No,High School,Near,Male
+6094,18,97,Medium,High,Yes,7,93,Medium,Yes,5,High,Medium,Public,Positive,4,No,College,Near,Female
+6095,16,64,High,Medium,Yes,7,51,High,Yes,4,High,High,Public,Neutral,3,No,College,Near,Male
+6096,13,99,Medium,Medium,Yes,7,58,Medium,Yes,1,Low,Medium,Public,Neutral,2,No,High School,Near,Male
+6097,20,87,Low,Medium,Yes,7,75,High,Yes,1,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Male
+6098,24,74,Low,Low,Yes,9,54,Medium,Yes,1,Low,,Public,Neutral,3,No,,Near,Female
+6099,23,99,Low,Low,No,6,59,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Far,Male
+6100,9,64,Medium,Low,Yes,10,68,Low,Yes,0,Medium,Medium,Private,Negative,3,No,High School,Near,Male
+6101,22,70,Medium,High,Yes,5,90,High,Yes,1,Medium,High,Public,Neutral,3,No,College,Far,Female
+6102,12,75,Medium,High,Yes,7,58,Medium,Yes,3,Medium,Medium,Private,Positive,4,No,College,Near,Male
+6103,16,81,Medium,High,Yes,6,79,Medium,Yes,2,Low,High,Public,Positive,3,No,College,Moderate,Female
+6104,26,91,High,Medium,Yes,7,57,Low,Yes,3,Medium,Medium,Public,Negative,3,No,College,Near,Male
+6105,21,80,High,Low,Yes,6,52,Medium,Yes,1,Low,Medium,Public,Negative,4,No,High School,Near,Male
+6106,23,68,High,Medium,No,6,60,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Female
+6107,14,64,High,High,Yes,6,90,Low,Yes,0,Low,High,Private,Negative,2,No,High School,Near,Female
+6108,29,95,High,Medium,Yes,7,91,Low,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Moderate,Female
+6109,13,96,Medium,Medium,No,6,70,Medium,Yes,1,Low,High,Public,Neutral,3,No,College,Near,Female
+6110,13,87,High,Low,Yes,4,72,Medium,Yes,2,Medium,High,Public,Neutral,3,No,High School,Moderate,Female
+6111,32,80,High,Medium,No,6,77,Low,Yes,0,Medium,Medium,Public,Neutral,5,No,College,Near,Male
+6112,27,78,High,Low,Yes,5,77,Medium,Yes,0,Medium,Low,Private,Neutral,3,No,Postgraduate,Near,Male
+6113,23,74,High,High,No,7,76,Medium,Yes,1,Medium,Low,Public,Neutral,2,No,College,Moderate,Female
+6114,18,68,High,Medium,No,7,72,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near,Male
+6115,28,72,High,Medium,Yes,8,92,Low,Yes,1,Medium,Medium,Public,Negative,2,No,High School,Near,Female
+6116,25,84,Medium,Medium,Yes,5,64,Medium,Yes,0,Low,Medium,Public,Negative,3,No,College,Moderate,Female
+6117,26,93,Medium,High,Yes,9,89,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,College,Moderate,Male
+6118,25,79,Medium,Low,Yes,9,54,Medium,Yes,1,Low,Medium,Private,Positive,2,No,Postgraduate,Far,Male
+6119,14,80,High,Medium,No,10,56,Low,Yes,1,Low,Medium,Public,Positive,3,No,Postgraduate,Moderate,Female
+6120,23,96,Medium,Medium,No,7,81,Medium,Yes,1,Low,Medium,Private,Positive,2,No,Postgraduate,Moderate,Male
+6121,16,98,Medium,Low,Yes,6,60,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,High School,Far,Male
+6122,17,65,Medium,High,Yes,8,66,Medium,Yes,1,High,High,Public,Neutral,4,Yes,Postgraduate,Moderate,Female
+6123,28,76,Medium,Medium,Yes,6,75,Low,Yes,0,Medium,High,Public,Positive,2,No,High School,Near,Female
+6124,21,65,Medium,High,Yes,6,91,High,Yes,1,Medium,High,Public,Positive,3,No,High School,Moderate,Male
+6125,18,98,High,Medium,No,7,57,Low,Yes,0,High,Medium,Private,Neutral,1,No,Postgraduate,Moderate,Male
+6126,20,83,Medium,Low,No,6,51,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Moderate,Female
+6127,19,93,High,Medium,Yes,8,68,Medium,Yes,1,High,High,Public,Positive,3,No,Postgraduate,Near,Female
+6128,17,91,Medium,Medium,Yes,8,66,Medium,Yes,3,Medium,Low,Public,Positive,2,No,College,Near,Male
+6129,15,71,Medium,High,No,8,50,Low,Yes,1,Medium,Medium,Public,Neutral,2,Yes,Postgraduate,Near,Female
+6130,21,89,Low,Low,Yes,8,65,Medium,Yes,2,Low,Low,Public,Neutral,3,No,College,Near,Female
+6131,25,87,High,Low,No,6,51,Low,Yes,3,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near,Male
+6132,22,98,Medium,Medium,No,7,58,Medium,Yes,0,Medium,,Private,Neutral,3,No,,Near,Male
+6133,19,70,High,High,No,4,63,Medium,Yes,1,Low,Medium,Private,Neutral,3,No,College,Far,Female
+6134,2,96,Low,High,Yes,9,77,Medium,Yes,3,Medium,,Public,Neutral,2,No,High School,Far,Female
+6135,23,94,Medium,Low,Yes,10,91,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+6136,20,92,Medium,High,No,8,80,High,Yes,0,Medium,Medium,Private,Neutral,3,No,College,Near,Male
+6137,35,86,Low,Medium,No,8,59,Medium,Yes,2,Low,Low,Public,Positive,2,No,College,Moderate,Female
+6138,18,91,High,High,Yes,7,71,High,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+6139,18,71,Medium,High,Yes,6,81,Medium,Yes,1,Low,High,Public,Positive,3,No,High School,Near,Male
+6140,18,81,Low,Medium,Yes,6,64,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Moderate,Female
+6141,25,74,Low,High,Yes,8,94,High,Yes,0,Low,Medium,Public,Positive,4,No,High School,Moderate,Female
+6142,12,71,Medium,High,Yes,8,78,Low,Yes,2,Medium,Medium,Public,Negative,2,No,Postgraduate,Near,Female
+6143,12,82,Low,Medium,No,5,98,Medium,Yes,0,Low,High,Public,Neutral,1,No,High School,Moderate,Male
+6144,24,95,Medium,Low,Yes,6,73,Medium,No,3,Low,Medium,Public,Positive,2,No,High School,Moderate,Male
+6145,26,90,Medium,Medium,Yes,8,98,Medium,Yes,0,Low,Low,Private,Negative,3,Yes,Postgraduate,Moderate,Female
+6146,16,85,Low,Medium,No,7,85,High,Yes,1,Medium,High,Public,Neutral,2,No,High School,Near,Male
+6147,23,94,High,Medium,No,5,55,High,Yes,2,Medium,Medium,Public,Positive,2,Yes,High School,Near,Male
+6148,24,90,High,High,No,8,99,High,Yes,0,Low,Medium,Public,Neutral,3,No,College,Moderate,Female
+6149,22,64,Medium,High,No,6,66,Low,Yes,1,Medium,Medium,Public,Neutral,4,No,College,Near,Male
+6150,20,92,Medium,Low,No,7,67,Low,Yes,1,Medium,Medium,Public,Positive,5,No,High School,Near,Male
+6151,17,62,High,Low,Yes,6,54,Low,Yes,2,Medium,High,Public,Neutral,3,No,College,Near,Male
+6152,15,78,High,High,No,7,85,Medium,No,1,High,Medium,Public,Negative,1,No,High School,Far,Male
+6153,15,97,Medium,High,No,6,90,High,Yes,2,High,High,Private,Neutral,0,No,High School,Near,Male
+6154,20,93,Low,High,Yes,7,83,Medium,Yes,0,Medium,Medium,Private,Negative,2,Yes,High School,Near,Male
+6155,19,92,Low,High,Yes,6,68,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,High School,Near,Female
+6156,23,85,Medium,High,No,7,66,Low,No,0,High,High,Public,Neutral,2,No,College,Near,Male
+6157,16,85,Medium,Medium,Yes,5,86,Low,No,3,Medium,Medium,Public,Positive,2,No,High School,Near,Male
+6158,18,73,Medium,Low,Yes,5,88,Medium,Yes,1,Medium,Medium,Public,Positive,5,No,College,Near,Female
+6159,17,73,High,Medium,No,5,90,High,Yes,1,Low,Medium,Private,Positive,4,No,High School,Near,Male
+6160,21,68,Medium,Medium,No,9,79,Low,Yes,1,High,High,Private,Negative,4,No,Postgraduate,Moderate,Female
+6161,8,67,High,Medium,Yes,8,58,Low,Yes,2,Medium,Medium,Public,Positive,1,No,Postgraduate,Moderate,Female
+6162,10,85,High,Medium,Yes,8,64,Low,Yes,2,High,Medium,Public,Neutral,3,No,Postgraduate,Near,Female
+6163,12,67,High,Medium,No,7,58,Medium,Yes,0,High,Medium,Public,Neutral,2,Yes,High School,Far,Male
+6164,17,68,Low,High,Yes,6,87,High,Yes,0,Low,Medium,Private,Positive,4,Yes,College,Near,Male
+6165,15,84,Medium,High,Yes,6,75,Medium,Yes,2,Medium,Medium,Private,Positive,4,Yes,Postgraduate,,Female
+6166,23,62,Medium,High,No,10,93,High,Yes,2,Low,,Public,Positive,4,No,College,Near,Female
+6167,21,96,Medium,High,No,7,63,Medium,Yes,1,Medium,Medium,Private,Negative,2,No,Postgraduate,Far,Female
+6168,9,96,Medium,High,Yes,9,63,Medium,Yes,1,High,Medium,Private,Neutral,1,No,High School,Near,Male
+6169,17,98,Medium,High,Yes,7,68,Medium,Yes,1,Low,Medium,Public,Positive,4,No,College,Moderate,Male
+6170,14,79,Medium,Medium,No,9,74,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Male
+6171,20,61,Low,Medium,No,6,52,Medium,Yes,2,Low,Low,Private,Negative,2,No,Postgraduate,Near,Male
+6172,21,65,High,High,No,7,88,Low,Yes,2,Low,Medium,Private,Neutral,1,No,,Near,Male
+6173,12,97,High,Low,Yes,6,96,Medium,Yes,2,Low,High,Public,Positive,2,No,Postgraduate,Near,Female
+6174,13,94,Medium,Medium,Yes,7,91,Low,Yes,3,Low,Medium,Public,Neutral,3,No,High School,Near,Male
+6175,26,84,Medium,Medium,No,8,76,Medium,Yes,5,Medium,High,Public,Neutral,2,No,High School,Moderate,Male
+6176,16,81,Medium,Medium,Yes,8,57,High,Yes,1,Medium,Medium,Private,Positive,2,No,High School,Near,Male
+6177,11,79,Medium,Medium,No,8,71,Low,Yes,1,Medium,Medium,Private,Positive,2,No,College,Moderate,Female
+6178,19,60,Medium,High,Yes,7,72,High,Yes,3,Low,High,Public,Positive,3,No,High School,Moderate,Female
+6179,22,92,High,High,No,8,65,Medium,Yes,0,Medium,High,Private,Positive,2,No,High School,Moderate,Male
+6180,22,61,Low,High,Yes,7,76,Medium,Yes,1,High,Medium,Public,Positive,3,No,College,Near,Female
+6181,11,96,Medium,High,No,5,66,High,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male
+6182,22,64,Medium,Medium,No,8,65,Low,Yes,2,Medium,Medium,Private,Neutral,4,No,Postgraduate,Near,Female
+6183,20,67,High,High,No,6,59,Low,Yes,1,Medium,Medium,Private,Negative,4,No,College,Near,Female
+6184,9,75,High,Low,No,8,61,High,Yes,3,Medium,,Public,Neutral,3,No,High School,Near,Male
+6185,28,66,High,Medium,Yes,9,73,Medium,Yes,2,Low,Medium,Public,Positive,2,No,College,Near,Male
+6186,17,96,High,High,No,7,61,Low,Yes,1,Low,High,Public,Positive,1,No,College,Moderate,Female
+6187,17,69,Medium,Medium,Yes,7,54,High,Yes,1,High,Low,Public,Neutral,2,No,High School,Near,Male
+6188,24,98,Low,Medium,Yes,6,53,Medium,Yes,1,Medium,Low,Public,Neutral,2,No,High School,Near,Female
+6189,26,73,High,High,No,7,75,Low,Yes,3,Low,Medium,Public,Positive,5,No,College,Near,Male
+6190,16,91,Medium,Medium,No,8,63,High,Yes,2,Medium,High,Public,Neutral,3,No,College,Near,Female
+6191,20,83,High,Low,Yes,8,66,Medium,Yes,1,High,Medium,Private,Neutral,3,Yes,College,Near,Female
+6192,23,72,Low,Medium,Yes,4,66,Low,No,3,Low,Medium,Private,Positive,4,No,Postgraduate,Near,Female
+6193,26,93,Medium,Medium,No,8,88,Medium,Yes,1,Medium,High,Public,Neutral,4,Yes,College,Near,Male
+6194,20,89,High,Medium,Yes,8,71,Medium,Yes,1,Medium,Medium,Public,Negative,1,No,Postgraduate,Far,Male
+6195,23,89,Low,Medium,No,9,88,High,Yes,1,High,Medium,Public,Neutral,5,No,Postgraduate,,Male
+6196,22,65,Medium,Low,Yes,7,88,Low,No,2,Medium,Medium,Public,Positive,4,No,College,Near,Male
+6197,16,74,Medium,Low,Yes,7,87,Medium,Yes,0,Low,Low,Public,Positive,3,No,College,Near,Female
+6198,23,87,High,High,No,8,56,Medium,Yes,1,Medium,High,Public,Positive,3,No,Postgraduate,Moderate,Male
+6199,26,88,Low,Low,No,10,67,Low,Yes,0,Low,Low,Private,Positive,3,No,High School,Far,Male
+6200,22,76,Medium,Medium,No,9,82,High,Yes,0,Medium,High,Private,Neutral,4,No,High School,Near,Male
+6201,17,96,High,Medium,Yes,7,60,Low,Yes,0,Low,Medium,Private,Neutral,2,Yes,College,Near,Male
+6202,22,90,Medium,Low,Yes,6,72,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,College,Near,Male
+6203,14,81,Medium,Medium,Yes,5,58,High,Yes,3,Low,High,Public,Negative,4,No,Postgraduate,Moderate,Male
+6204,34,74,High,Low,Yes,7,76,Medium,Yes,2,Low,High,Public,Positive,2,No,College,Near,Female
+6205,18,83,High,Medium,No,5,80,High,Yes,1,High,High,Public,Positive,2,No,College,Near,Male
+6206,12,76,Medium,Low,Yes,4,51,Medium,Yes,0,Low,Medium,Private,Neutral,1,No,High School,Near,Female
+6207,24,71,Medium,Medium,Yes,7,96,Medium,Yes,2,Low,,Public,Negative,2,No,High School,Near,Male
+6208,13,89,High,High,No,8,59,Low,Yes,0,Low,High,Public,Neutral,2,No,Postgraduate,Moderate,Male
+6209,9,89,Low,High,Yes,7,91,Medium,Yes,1,High,Low,Public,Neutral,3,No,Postgraduate,Near,Male
+6210,27,73,Low,Medium,No,7,91,Medium,Yes,2,High,Medium,Public,Neutral,4,No,College,Far,Female
+6211,19,67,Medium,Low,No,7,61,High,Yes,1,Medium,,Private,Neutral,4,No,College,Moderate,Female
+6212,13,93,Low,Medium,No,6,96,High,Yes,2,High,Medium,Private,Negative,3,No,High School,Near,Female
+6213,14,94,Low,Medium,Yes,6,76,Medium,No,0,Low,Low,Public,Neutral,3,No,High School,Near,Male
+6214,23,78,High,High,No,7,80,Medium,Yes,0,Low,Medium,Private,Neutral,2,No,High School,Near,Female
+6215,29,76,Medium,High,Yes,8,93,Low,No,0,Medium,High,Public,Positive,4,No,College,Moderate,Male
+6216,39,95,Medium,High,Yes,9,54,High,Yes,2,Medium,Medium,Private,Positive,3,No,High School,Moderate,Male
+6217,11,92,High,Medium,Yes,8,82,High,Yes,4,Medium,Medium,Private,Negative,2,No,Postgraduate,Near,Female
+6218,7,94,Medium,Low,Yes,9,57,High,Yes,2,Medium,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+6219,22,82,High,Medium,No,7,68,High,Yes,2,Low,Medium,Private,Neutral,4,No,Postgraduate,Near,Male
+6220,7,75,Medium,High,Yes,7,76,Medium,Yes,0,Medium,Low,Private,Positive,4,No,College,Moderate,Female
+6221,16,81,High,Medium,Yes,7,66,Medium,Yes,3,High,High,Private,Positive,4,No,High School,Near,Male
+6222,19,69,Medium,Medium,Yes,7,55,Low,Yes,1,Low,Medium,Public,Positive,4,No,College,Near,Female
+6223,23,82,Low,Medium,Yes,6,86,Medium,Yes,0,High,Medium,Public,Neutral,4,No,High School,Near,Male
+6224,19,75,Medium,High,Yes,8,83,High,Yes,2,High,Medium,Public,Neutral,2,No,High School,Near,Male
+6225,18,84,High,High,No,6,94,Medium,Yes,3,High,Medium,Public,Neutral,4,No,High School,Near,Male
+6226,14,62,Medium,High,Yes,7,63,Medium,Yes,2,Low,Medium,Public,Positive,2,No,College,Moderate,Female
+6227,19,70,High,Low,No,7,66,Medium,Yes,1,High,Low,Private,Neutral,4,No,College,Moderate,Male
+6228,26,61,Low,High,Yes,9,91,Medium,No,0,High,High,Private,Positive,4,No,College,Near,Female
+6229,28,89,Low,High,Yes,9,79,High,Yes,0,Low,Medium,Private,Positive,1,No,College,Moderate,Female
+6230,22,78,Medium,Medium,Yes,5,96,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male
+6231,18,61,Medium,Low,Yes,6,91,High,Yes,3,Medium,High,Public,Positive,3,No,College,Moderate,Female
+6232,18,96,High,Medium,Yes,10,65,Low,Yes,3,Medium,Medium,Public,Positive,2,No,College,Moderate,Female
+6233,21,87,Low,Low,Yes,6,82,Medium,Yes,0,Medium,High,Public,Neutral,5,No,Postgraduate,Near,Female
+6234,23,81,High,Low,Yes,10,94,High,Yes,1,Medium,High,Public,Neutral,2,No,College,Near,Female
+6235,15,77,High,Medium,Yes,5,65,Low,No,2,Low,Medium,Public,Positive,4,Yes,Postgraduate,Near,Male
+6236,15,64,High,Medium,No,5,78,Medium,Yes,2,Low,Medium,Public,Positive,2,No,High School,Moderate,Male
+6237,14,86,Low,Low,Yes,8,90,Low,Yes,0,Low,Medium,Private,Neutral,1,No,High School,Near,Male
+6238,20,75,Low,Medium,No,7,76,Medium,Yes,3,High,High,Private,Negative,3,No,College,Near,Female
+6239,24,80,Medium,High,No,6,66,High,Yes,1,Medium,Medium,Public,Neutral,3,No,College,Moderate,Male
+6240,30,64,Medium,Medium,No,7,86,Low,Yes,1,Medium,Medium,Private,Positive,3,No,Postgraduate,Far,Female
+6241,19,97,High,Medium,Yes,9,60,High,Yes,3,Medium,Medium,Public,Negative,4,No,Postgraduate,Moderate,Female
+6242,20,70,Medium,Medium,No,8,70,Medium,Yes,0,Low,Medium,Public,Neutral,5,No,Postgraduate,Near,Female
+6243,13,98,High,Low,Yes,7,81,Medium,Yes,1,Medium,Low,Private,Negative,3,No,Postgraduate,Near,Male
+6244,24,84,Low,High,Yes,6,93,High,Yes,2,Low,Medium,Public,Neutral,1,No,High School,Near,Female
+6245,22,71,High,Medium,Yes,8,63,Medium,Yes,2,Medium,High,Public,Negative,2,No,High School,Moderate,Male
+6246,14,89,Medium,Medium,Yes,8,59,High,Yes,1,Low,Medium,Private,Neutral,3,No,College,Near,Male
+6247,19,71,Medium,Medium,No,8,57,Medium,Yes,2,Medium,High,Public,Positive,4,No,High School,Moderate,Male
+6248,11,84,High,Medium,Yes,6,76,High,Yes,3,Low,High,Public,Negative,3,No,High School,Moderate,Female
+6249,10,85,Low,Low,Yes,6,53,High,Yes,1,Low,Medium,Private,Neutral,3,Yes,High School,Moderate,Male
+6250,17,83,Medium,Medium,Yes,6,89,High,Yes,0,Low,Medium,Public,Positive,4,No,Postgraduate,Near,Male
+6251,15,77,Low,Medium,Yes,7,95,Low,Yes,4,Low,Medium,Public,Positive,4,No,High School,Moderate,Male
+6252,27,91,Low,High,Yes,9,82,Medium,Yes,0,Low,Low,Public,Neutral,1,No,High School,Far,Male
+6253,19,87,Medium,Medium,Yes,7,75,Medium,Yes,2,Low,Low,Public,Negative,3,No,High School,Moderate,Female
+6254,19,90,High,High,No,8,85,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,College,Near,Male
+6255,29,97,High,Medium,No,7,86,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,College,Near,Female
+6256,21,83,Medium,High,Yes,6,61,High,Yes,2,Low,High,Public,Positive,3,No,Postgraduate,Near,Male
+6257,27,74,Medium,Medium,Yes,6,74,Medium,Yes,2,Medium,High,Public,Neutral,2,No,College,Far,Male
+6258,21,97,Medium,Low,No,7,99,Medium,Yes,1,High,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+6259,17,76,Medium,High,No,9,71,Medium,Yes,0,Medium,High,Public,Neutral,3,No,Postgraduate,Near,Male
+6260,20,83,Medium,Medium,Yes,7,68,High,Yes,1,Medium,Medium,Public,Positive,1,No,High School,Near,Female
+6261,23,100,High,Low,Yes,4,69,Low,Yes,0,Low,High,Public,Positive,4,No,Postgraduate,Near,Female
+6262,10,75,Medium,High,Yes,8,90,Medium,Yes,2,Low,Medium,Public,Positive,2,No,Postgraduate,Moderate,Male
+6263,26,67,Medium,Low,Yes,10,71,High,Yes,3,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Male
+6264,16,95,High,Low,Yes,6,86,Medium,Yes,0,Low,High,Private,Neutral,3,No,High School,Near,Male
+6265,14,97,Medium,Low,No,7,72,High,Yes,1,Low,Low,Public,Neutral,3,No,High School,Near,Female
+6266,18,92,High,Medium,Yes,7,70,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male
+6267,26,88,Low,High,No,6,81,Medium,Yes,1,High,Medium,Public,Positive,2,No,High School,Near,Male
+6268,28,61,Low,Medium,Yes,7,80,Low,Yes,2,Medium,Medium,Public,Positive,4,No,Postgraduate,Near,Female
+6269,8,87,High,High,No,9,97,Low,Yes,2,Low,Medium,Public,Positive,3,No,High School,Near,Male
+6270,16,82,Medium,High,Yes,10,69,Medium,Yes,2,Low,Medium,Public,Positive,4,No,College,Near,Male
+6271,10,71,Medium,Low,No,10,53,Low,Yes,4,High,Medium,Private,Positive,3,No,High School,Near,Female
+6272,20,67,Medium,High,No,10,53,High,Yes,1,Low,Medium,Private,Positive,2,No,Postgraduate,Near,Male
+6273,21,99,Medium,High,No,7,51,High,Yes,2,Medium,Low,Private,Neutral,2,No,Postgraduate,Near,Female
+6274,22,79,Medium,Medium,Yes,7,98,High,Yes,0,High,Medium,Public,Neutral,3,No,High School,Near,Male
+6275,23,81,High,High,No,5,91,Low,Yes,0,High,High,Public,Positive,3,Yes,High School,Near,Female
+6276,13,67,Low,Medium,Yes,8,90,Medium,Yes,2,Low,Medium,Private,Negative,2,No,High School,Near,Male
+6277,22,91,Medium,Low,Yes,7,76,Medium,Yes,1,Low,High,Public,Neutral,3,No,College,Moderate,Female
+6278,20,65,High,Medium,Yes,8,71,Low,Yes,2,Low,Medium,Private,Neutral,3,Yes,College,Near,Female
+6279,12,92,High,Low,Yes,7,89,Medium,Yes,1,Medium,High,Private,Neutral,2,No,Postgraduate,Moderate,Male
+6280,26,92,Low,Medium,Yes,8,98,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male
+6281,11,89,Low,High,No,9,69,Low,Yes,1,Low,Low,Public,Neutral,3,No,High School,Near,Male
+6282,17,85,High,High,Yes,6,66,Medium,Yes,0,Medium,High,Public,Neutral,2,No,College,Moderate,Female
+6283,11,77,Low,Low,Yes,6,92,Low,Yes,0,Low,Medium,Public,Neutral,5,No,High School,Near,Male
+6284,23,73,Low,High,No,5,60,High,Yes,1,Medium,Medium,Private,Positive,2,No,Postgraduate,Near,Female
+6285,25,69,High,Medium,No,7,76,Medium,Yes,1,High,Medium,Public,Positive,2,No,High School,Near,Female
+6286,25,89,Medium,Medium,Yes,7,81,High,Yes,3,Medium,Medium,Public,Negative,0,No,College,Near,Male
+6287,23,62,High,High,Yes,7,67,Low,Yes,1,Low,Medium,Public,Negative,4,No,Postgraduate,Moderate,Female
+6288,25,92,High,Medium,No,4,93,High,Yes,3,High,Medium,Public,Neutral,2,No,High School,Near,Female
+6289,23,92,Low,Medium,No,8,54,Medium,Yes,0,High,Low,Public,Positive,1,No,Postgraduate,Near,Female
+6290,18,61,High,Low,Yes,5,71,Low,Yes,3,High,High,Private,Neutral,3,No,College,Near,Male
+6291,21,69,Medium,Medium,No,7,66,High,Yes,1,Medium,Medium,Private,Neutral,4,No,High School,Far,Female
+6292,28,99,High,Low,No,5,100,Medium,Yes,6,Medium,Medium,Private,Neutral,5,No,High School,Moderate,Female
+6293,13,74,High,High,Yes,7,61,Medium,Yes,2,Low,Medium,Public,Positive,3,No,High School,Moderate,Male
+6294,17,84,Low,High,No,7,85,High,Yes,0,Medium,Medium,Private,Positive,2,No,College,Moderate,Male
+6295,20,66,Low,Medium,Yes,6,83,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,College,Near,Male
+6296,13,82,Medium,High,No,5,73,Low,Yes,4,Low,Medium,Public,Negative,4,No,High School,Near,Male
+6297,22,86,Medium,Low,No,9,85,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+6298,18,96,High,Medium,No,7,56,Low,Yes,2,Medium,Medium,Private,Neutral,1,No,College,Near,Female
+6299,22,67,High,High,No,10,58,Medium,Yes,2,High,Low,Public,Neutral,3,No,Postgraduate,Near,Male
+6300,9,77,Low,Low,No,7,80,Medium,Yes,3,Medium,Medium,Public,Positive,3,Yes,High School,Near,Male
+6301,24,72,High,High,No,6,78,High,Yes,0,Low,High,Public,Negative,6,No,High School,Near,Female
+6302,19,80,Low,Medium,Yes,10,63,High,No,1,Medium,Medium,Public,Neutral,2,No,College,Near,Female
+6303,28,85,Medium,High,Yes,7,98,Medium,Yes,2,Low,High,Private,Positive,1,Yes,High School,Near,Male
+6304,21,99,Medium,Low,Yes,9,59,Low,Yes,1,High,High,Public,Negative,2,No,College,Moderate,Female
+6305,23,88,Medium,Medium,No,8,70,Medium,Yes,2,Medium,High,Public,Neutral,4,No,High School,Near,Female
+6306,18,69,High,High,Yes,8,54,Low,Yes,1,High,High,Private,Neutral,2,No,High School,Near,Male
+6307,19,72,Medium,Low,Yes,8,58,Medium,Yes,0,Medium,Low,Public,Neutral,3,No,High School,Near,Female
+6308,21,89,Medium,Low,Yes,9,80,Medium,Yes,0,Medium,Low,Public,Neutral,3,No,Postgraduate,Moderate,Male
+6309,16,87,High,Medium,No,9,53,High,Yes,3,Medium,High,Private,Neutral,5,No,College,Near,Male
+6310,24,60,Medium,Medium,Yes,5,68,Medium,Yes,0,Medium,Low,Public,Neutral,3,No,Postgraduate,Near,Female
+6311,6,69,High,Medium,Yes,10,94,Medium,No,1,Medium,Medium,Private,Neutral,4,No,Postgraduate,Near,Female
+6312,30,80,High,High,No,5,80,Medium,Yes,0,Low,Medium,Private,Positive,4,No,Postgraduate,Near,Female
+6313,32,68,Medium,Low,No,8,97,High,Yes,1,Low,Medium,Public,Positive,2,No,High School,Near,Male
+6314,14,89,Medium,Low,No,9,96,Low,Yes,2,Low,High,Private,Neutral,3,No,College,Moderate,Female
+6315,22,97,Medium,High,Yes,6,54,Medium,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Near,Male
+6316,18,61,Medium,Medium,Yes,6,96,Medium,Yes,0,Medium,Medium,Public,Negative,3,No,High School,Near,Male
+6317,15,96,Medium,High,Yes,5,59,High,Yes,2,Medium,High,Private,Neutral,2,No,High School,Near,Male
+6318,21,88,Medium,Low,No,9,75,High,No,1,Medium,High,Private,Neutral,2,No,Postgraduate,Moderate,Female
+6319,16,83,Medium,Medium,Yes,7,60,Medium,Yes,0,High,Medium,Public,Positive,1,No,College,Moderate,Female
+6320,32,84,Low,Medium,Yes,8,64,Medium,Yes,1,Low,High,Private,Positive,3,No,College,Near,Female
+6321,25,85,Medium,Medium,No,8,58,Medium,Yes,2,Medium,High,Public,Neutral,4,No,College,Near,Male
+6322,23,92,Medium,High,No,9,52,High,Yes,1,High,Medium,Private,Positive,2,No,High School,Near,Female
+6323,23,100,Low,Medium,Yes,5,93,Medium,Yes,4,Low,Medium,Private,Neutral,3,No,Postgraduate,Moderate,Male
+6324,10,85,Medium,Medium,Yes,6,64,Low,Yes,1,Medium,Medium,Public,Negative,3,No,College,Near,Male
+6325,26,74,Medium,Low,Yes,8,96,Medium,Yes,2,Medium,High,Private,Neutral,3,No,High School,Near,Female
+6326,15,76,High,High,No,8,53,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,Near,Male
+6327,8,100,High,High,Yes,6,71,Medium,Yes,0,Low,High,Public,Positive,2,No,Postgraduate,Near,Female
+6328,14,88,Medium,Medium,No,8,67,Medium,Yes,2,High,Low,Public,Neutral,3,No,Postgraduate,Far,Male
+6329,17,72,Medium,Medium,No,8,61,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,Postgraduate,Moderate,Male
+6330,24,62,Low,Medium,No,7,95,Medium,Yes,1,High,Low,Public,Positive,3,No,College,Far,Female
+6331,19,77,High,Low,No,6,97,Low,Yes,4,Low,Medium,Public,Negative,2,No,High School,Near,Male
+6332,44,68,High,Low,No,9,75,Low,Yes,3,Medium,High,Private,Negative,2,No,High School,Moderate,Female
+6333,11,100,Medium,Medium,Yes,9,54,Low,Yes,1,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Male
+6334,12,71,Medium,Low,No,8,100,Medium,Yes,2,High,Medium,Public,Neutral,3,Yes,College,Near,Male
+6335,24,81,Medium,Low,No,9,61,Medium,Yes,1,Low,Low,Public,Positive,4,No,College,Near,Female
+6336,21,83,Medium,Medium,Yes,8,75,High,Yes,1,Low,High,Public,Neutral,2,No,High School,Far,Male
+6337,27,63,High,High,Yes,4,92,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,College,Near,Female
+6338,16,62,Medium,High,No,6,92,Medium,No,0,Medium,Medium,Private,Positive,4,No,High School,Near,Female
+6339,17,77,High,Medium,Yes,4,77,Low,Yes,0,Medium,Medium,Private,Positive,4,No,High School,Near,Female
+6340,26,90,High,High,Yes,9,53,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,High School,Far,Male
+6341,16,67,Medium,Medium,No,7,95,Low,Yes,2,Medium,Medium,Public,Neutral,5,Yes,High School,Near,Male
+6342,24,92,Low,High,Yes,6,71,Low,Yes,2,Low,High,Public,Positive,2,No,High School,Near,Male
+6343,16,98,High,Low,Yes,8,52,Medium,Yes,3,Low,High,Public,Neutral,3,No,College,Moderate,Female
+6344,17,67,Medium,Medium,Yes,6,84,High,Yes,1,High,High,Public,Neutral,3,No,Postgraduate,Moderate,Female
+6345,29,74,High,Medium,No,8,68,Medium,Yes,0,Medium,High,Public,Positive,4,No,High School,Near,Female
+6346,16,96,High,Medium,Yes,9,97,Medium,Yes,0,Medium,High,Private,Neutral,5,No,College,Near,Male
+6347,16,61,High,Medium,No,4,54,Low,Yes,1,Low,Medium,Private,Neutral,2,No,High School,Near,Female
+6348,28,86,Low,Medium,No,10,85,Medium,Yes,6,Low,High,Public,Neutral,2,No,High School,Near,Male
+6349,17,92,Medium,Low,Yes,8,90,High,Yes,1,High,Low,Public,Negative,3,No,High School,Near,Male
+6350,18,85,Low,Medium,Yes,10,89,Medium,Yes,1,High,Medium,Private,Positive,3,No,High School,Near,Female
+6351,12,96,High,High,No,5,88,High,Yes,0,Medium,Medium,Private,Positive,2,No,College,Moderate,Female
+6352,17,68,Medium,Medium,No,8,70,Medium,Yes,2,Medium,Medium,Private,Positive,4,No,High School,Near,Female
+6353,12,74,Low,Medium,No,8,54,Medium,Yes,2,Medium,Medium,Private,Positive,5,No,Postgraduate,Moderate,Female
+6354,20,80,Low,High,No,8,81,Medium,Yes,3,Medium,Medium,Private,Negative,4,No,Postgraduate,Near,Male
+6355,24,95,High,High,Yes,8,78,Medium,Yes,2,Low,High,Public,Negative,2,No,Postgraduate,Far,Female
+6356,25,97,Medium,Medium,Yes,6,77,Low,Yes,1,Low,High,Private,Positive,4,No,Postgraduate,Near,Male
+6357,14,78,High,Medium,Yes,7,76,Medium,Yes,0,High,Medium,Public,Negative,2,Yes,College,Near,Female
+6358,21,79,Medium,Low,No,8,73,Medium,Yes,1,Low,Low,Public,Neutral,2,No,High School,Near,Female
+6359,25,70,Medium,Medium,Yes,7,79,Low,Yes,3,High,Medium,Public,Neutral,3,No,High School,Near,Male
+6360,28,92,Low,Medium,No,10,69,Medium,Yes,4,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female
+6361,29,91,Medium,High,No,5,54,Low,Yes,2,Low,,Public,Neutral,3,No,Postgraduate,Moderate,Male
+6362,20,71,Low,Medium,No,5,72,Medium,Yes,4,Medium,Medium,Public,Positive,4,No,Postgraduate,Moderate,Male
+6363,27,78,High,High,No,8,85,Medium,Yes,0,High,Medium,Public,Positive,3,No,College,Near,Male
+6364,22,78,High,High,No,6,92,Low,Yes,1,High,High,Public,Positive,3,No,High School,Moderate,Male
+6365,18,72,Medium,Medium,No,8,71,Low,Yes,2,High,Medium,Public,Positive,4,No,Postgraduate,Near,Male
+6366,24,75,High,High,Yes,6,51,High,No,1,Medium,High,Public,Negative,3,No,High School,Near,Male
+6367,12,95,Low,Medium,Yes,4,82,High,Yes,2,Low,Medium,Public,Negative,3,No,High School,Moderate,Male
+6368,25,62,High,Medium,No,5,71,Medium,Yes,0,Low,High,Private,Positive,4,No,High School,Moderate,Male
+6369,26,90,Medium,Medium,No,8,65,High,Yes,3,Medium,High,Private,Positive,2,No,High School,Near,Female
+6370,13,87,Low,Medium,No,10,54,Low,Yes,2,Low,Medium,Public,Positive,2,No,,Moderate,Female
+6371,17,71,Low,High,Yes,6,78,Low,Yes,0,Medium,Medium,Public,Positive,4,No,College,Near,Female
+6372,9,86,High,Medium,No,8,86,Medium,Yes,1,Low,High,Public,Neutral,1,No,High School,Near,Male
+6373,28,61,High,Medium,Yes,4,92,Low,Yes,1,Medium,High,Private,Neutral,4,No,College,Near,Female
+6374,30,94,Medium,Low,No,5,52,Low,No,3,High,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Female
+6375,16,73,Medium,Low,Yes,6,71,Medium,Yes,2,High,High,Public,Positive,5,No,College,Near,Male
+6376,22,83,Medium,Medium,Yes,8,60,Low,No,4,Medium,Medium,Public,Neutral,2,No,Postgraduate,Moderate,Female
+6377,23,76,Medium,Medium,No,7,66,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,College,Near,Male
+6378,27,72,High,High,Yes,8,53,Medium,Yes,3,Medium,Low,Public,Neutral,3,No,High School,Far,Female
+6379,26,79,High,Low,No,7,66,Medium,Yes,1,High,Medium,Public,Positive,5,Yes,High School,Moderate,Male
+6380,26,98,Medium,Low,Yes,7,97,Medium,Yes,2,Low,Medium,Public,Neutral,2,Yes,Postgraduate,Moderate,Male
+6381,28,87,Medium,Medium,Yes,7,70,Medium,Yes,2,Low,Medium,Public,Neutral,2,No,Postgraduate,Near,Male
+6382,26,68,Medium,Medium,No,8,63,Medium,Yes,2,Low,High,Public,Positive,3,No,High School,Near,Male
+6383,24,60,Low,Medium,Yes,6,92,Low,Yes,3,Medium,Medium,Public,Positive,2,No,College,Near,Male
+6384,27,79,Medium,Low,No,6,65,Low,Yes,0,Medium,Medium,Private,Negative,2,No,College,Near,Male
+6385,13,93,Low,Low,Yes,4,53,High,Yes,1,Medium,Low,Public,Positive,1,No,Postgraduate,Near,Male
+6386,14,76,Medium,Medium,No,7,85,High,Yes,3,Low,Medium,Private,Neutral,3,No,College,Near,Male
+6387,19,91,Medium,High,No,7,57,Low,Yes,3,High,High,Public,Negative,3,No,High School,Moderate,Female
+6388,18,99,Medium,High,Yes,4,54,Low,Yes,0,Medium,Medium,Public,Positive,3,No,Postgraduate,Moderate,Male
+6389,14,60,High,Medium,No,5,50,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,College,,Female
+6390,32,84,Low,Medium,Yes,8,96,Medium,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near,Female
+6391,11,98,Medium,Medium,Yes,9,82,Low,Yes,1,Medium,Medium,Private,Positive,3,No,Postgraduate,Far,Male
+6392,17,69,High,High,Yes,9,96,Medium,Yes,2,Low,Medium,Public,Negative,3,No,College,Far,Male
+6393,13,79,Medium,High,No,7,70,High,Yes,4,Low,Medium,Public,Positive,3,Yes,High School,Near,Female
+6394,19,63,Medium,High,Yes,7,56,Medium,Yes,2,Low,Medium,Private,Positive,3,No,High School,Near,Female
+6395,21,80,Medium,Medium,Yes,6,79,Low,Yes,2,Medium,High,Public,Positive,3,No,College,Near,Male
+6396,22,90,Low,High,No,5,99,Medium,Yes,1,Low,Low,Private,Positive,2,No,College,,Female
+6397,15,84,Low,Medium,Yes,6,92,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,College,Near,Female
+6398,20,64,Medium,Medium,No,6,81,Medium,Yes,0,High,High,Public,Positive,1,No,,Moderate,Female
+6399,19,64,High,Medium,No,9,57,Low,Yes,0,Medium,High,Private,Neutral,3,No,High School,Near,Female
+6400,9,61,Low,High,Yes,7,53,Medium,Yes,0,Medium,Medium,Public,Positive,2,Yes,Postgraduate,Far,Male
+6401,17,99,Medium,Medium,Yes,8,62,Medium,Yes,3,Medium,Medium,Private,Neutral,3,No,High School,Near,Male
+6402,14,95,Medium,Medium,Yes,8,51,Medium,Yes,5,Medium,Medium,Private,Positive,4,No,College,Near,Female
+6403,28,69,Medium,High,No,8,99,Low,Yes,0,High,Medium,Private,Negative,3,No,High School,Moderate,Female
+6404,24,72,Medium,Medium,No,7,75,Medium,Yes,3,High,Medium,Private,Neutral,2,No,College,Near,Female
+6405,13,78,Medium,High,Yes,9,96,High,Yes,2,Low,Medium,Public,Neutral,3,No,College,Moderate,Male
+6406,19,72,High,Medium,Yes,7,76,Medium,Yes,1,Medium,High,Public,Positive,2,No,High School,Moderate,Female
+6407,15,79,Low,Medium,Yes,10,79,Medium,Yes,2,Low,Medium,Private,Neutral,4,No,College,Moderate,Male
+6408,24,94,High,Low,Yes,8,80,High,No,1,Low,Medium,Public,Neutral,4,No,High School,Near,Female
+6409,14,64,Medium,Medium,Yes,6,85,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+6410,22,63,High,High,Yes,5,53,High,Yes,3,Low,High,Public,Negative,2,No,High School,Near,Male
+6411,11,71,Low,Medium,Yes,8,55,Medium,Yes,1,Low,Medium,Public,Negative,3,No,College,Near,Female
+6412,19,83,High,Low,No,6,69,Medium,Yes,5,Medium,Medium,Private,Positive,2,No,Postgraduate,Far,Male
+6413,11,87,Low,Medium,No,8,57,High,Yes,0,Low,Medium,Public,Negative,2,No,High School,Moderate,Male
+6414,24,93,High,Medium,Yes,7,88,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Moderate,Female
+6415,24,93,Medium,Medium,Yes,7,96,Medium,No,5,High,Medium,Public,Negative,4,No,Postgraduate,Near,Female
+6416,17,68,Medium,High,Yes,8,71,Medium,Yes,1,Medium,High,Private,Neutral,2,No,High School,Near,Male
+6417,20,93,Medium,Medium,Yes,7,50,Medium,Yes,1,High,High,Public,Positive,4,No,College,Near,Male
+6418,18,68,Medium,High,Yes,8,83,Low,Yes,1,Low,Medium,Public,Positive,2,No,College,Near,Male
+6419,22,65,Medium,Medium,Yes,4,81,High,Yes,5,Medium,Medium,Public,Positive,4,No,College,Far,Female
+6420,18,79,Medium,High,Yes,8,86,Medium,Yes,3,Low,Low,Public,Neutral,4,No,College,Near,Female
+6421,22,76,Low,High,No,5,65,Low,Yes,0,Medium,High,Public,Neutral,3,No,High School,Far,Female
+6422,21,80,Medium,Medium,Yes,6,55,High,Yes,1,High,High,Public,Negative,3,No,Postgraduate,Moderate,Male
+6423,27,94,Medium,Low,No,6,86,Medium,Yes,2,Medium,Medium,Private,Neutral,2,No,High School,Near,Female
+6424,25,63,High,Low,Yes,8,63,Medium,Yes,0,Medium,High,Private,Positive,1,Yes,Postgraduate,Near,Female
+6425,17,73,Medium,High,Yes,6,62,Low,Yes,2,Low,Medium,Private,Negative,3,No,College,Far,Male
+6426,31,94,Low,Medium,No,5,92,Low,Yes,1,High,Low,Private,Neutral,4,No,High School,Near,Male
+6427,16,66,Low,Medium,Yes,9,52,Medium,Yes,1,Medium,Low,Public,Negative,3,Yes,High School,Near,Male
+6428,29,68,Medium,Low,No,6,70,Low,Yes,0,Medium,Medium,Public,Negative,2,No,Postgraduate,Near,Male
+6429,27,62,High,Medium,No,6,53,Low,Yes,1,Medium,Medium,Public,Positive,2,No,High School,Moderate,Male
+6430,26,69,High,High,No,7,95,Low,No,0,Medium,Medium,Public,Negative,3,No,Postgraduate,Near,Female
+6431,23,65,High,Medium,Yes,9,74,Medium,Yes,2,Medium,High,Private,Neutral,3,No,College,Moderate,Male
+6432,25,82,High,Medium,No,9,72,High,Yes,0,High,Medium,Public,Positive,0,No,College,Near,Female
+6433,18,72,High,High,Yes,8,95,Medium,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Moderate,Male
+6434,24,68,High,Medium,Yes,8,95,Low,Yes,3,Medium,Medium,Public,Positive,0,No,High School,Moderate,Male
+6435,27,70,Medium,Medium,No,6,99,High,Yes,2,Low,Medium,Private,Neutral,2,No,High School,Near,Female
+6436,20,91,High,Medium,No,6,91,Medium,Yes,3,High,High,Public,Neutral,2,No,High School,Near,Male
+6437,33,86,Medium,Medium,No,9,69,Medium,No,0,Medium,Medium,Public,Neutral,3,No,College,Near,Female
+6438,10,76,Medium,Low,No,4,68,Medium,Yes,1,High,Low,Private,Neutral,6,No,College,Near,Male
+6439,30,88,Medium,Medium,No,9,91,Medium,Yes,3,Medium,Low,Public,Positive,3,No,High School,Near,Female
+6440,27,92,High,Medium,Yes,6,99,Low,Yes,4,Low,Low,Private,Positive,3,No,High School,Near,Female
+6441,20,64,High,Low,No,4,95,Medium,Yes,4,Medium,Medium,Public,Neutral,4,No,High School,Near,Male
+6442,22,63,Low,Low,No,8,83,Medium,Yes,3,Medium,Medium,Private,Negative,1,No,College,Near,Male
+6443,24,60,Low,Medium,No,6,62,High,Yes,4,Low,High,Public,Negative,3,No,High School,Near,Female
+6444,13,70,Medium,High,Yes,8,78,Medium,Yes,0,Low,Medium,Private,Negative,3,Yes,High School,Near,Male
+6445,18,78,High,Low,Yes,7,85,High,Yes,3,Low,Low,Public,Negative,2,No,College,Near,Male
+6446,20,61,High,Medium,Yes,8,80,Medium,Yes,1,Low,High,Public,Positive,3,No,High School,Near,Male
+6447,15,69,High,Low,No,9,79,Low,Yes,1,Medium,,Private,Positive,2,No,High School,Moderate,Female
+6448,14,100,Medium,Low,No,7,76,Low,Yes,1,Medium,Medium,Private,Neutral,3,No,Postgraduate,Near,Female
+6449,20,61,Medium,Low,Yes,7,70,Low,Yes,1,Medium,Medium,Private,Positive,4,No,High School,Moderate,Female
+6450,19,74,Medium,Medium,Yes,8,76,High,Yes,5,Medium,High,Public,Neutral,4,Yes,College,Near,Female
+6451,22,67,Low,Medium,Yes,6,71,Low,Yes,1,Medium,High,Public,Neutral,4,No,College,Moderate,Male
+6452,21,75,Low,Medium,Yes,5,91,Medium,Yes,2,Low,Low,Public,Neutral,3,No,High School,Near,Male
+6453,15,87,Low,Medium,No,4,54,Medium,Yes,1,Medium,Medium,Public,Neutral,6,No,,Moderate,Male
+6454,24,63,High,Medium,No,8,59,Low,Yes,1,Low,Medium,Public,Neutral,3,Yes,High School,Near,Male
+6455,18,68,High,High,No,6,82,Low,Yes,0,Medium,High,Public,Positive,3,No,High School,Near,Male
+6456,19,69,Medium,Medium,Yes,9,96,Medium,Yes,0,High,High,Private,Positive,3,No,High School,Moderate,Female
+6457,5,92,Medium,Medium,Yes,9,52,Medium,Yes,2,High,Medium,Private,Neutral,4,Yes,College,Moderate,Female
+6458,10,97,Low,High,No,8,72,High,Yes,0,Low,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Female
+6459,22,82,High,Low,No,9,66,Medium,Yes,1,Low,High,Private,Negative,3,No,High School,Moderate,Male
+6460,23,97,Medium,High,Yes,8,60,Medium,Yes,1,Medium,High,Public,Neutral,3,No,College,Near,Male
+6461,16,64,High,Low,Yes,5,65,Medium,Yes,3,Medium,High,Private,Positive,4,No,Postgraduate,Moderate,Female
+6462,27,64,High,Low,Yes,8,58,Medium,Yes,2,High,High,Public,Neutral,1,No,Postgraduate,Far,Male
+6463,30,94,Low,Medium,Yes,6,88,Low,Yes,2,Low,Medium,Private,Neutral,3,Yes,College,Near,Female
+6464,22,70,Medium,Medium,No,7,91,Medium,Yes,2,Medium,Medium,Public,Positive,1,No,High School,Near,Male
+6465,31,93,High,Medium,No,6,80,Medium,Yes,3,Medium,Medium,Public,Neutral,2,No,High School,Near,Male
+6466,21,92,High,Low,No,9,62,Medium,Yes,1,Medium,Low,Public,Positive,2,No,High School,Near,Female
+6467,21,95,Low,Medium,No,7,78,High,Yes,2,Low,High,Public,Neutral,2,Yes,High School,Near,Male
+6468,20,85,Medium,Low,No,6,81,Low,Yes,1,High,High,Private,Positive,3,No,College,Near,Male
+6469,19,97,High,High,No,5,78,Low,Yes,0,Medium,Low,Private,Negative,3,No,College,Moderate,Male
+6470,17,97,Medium,Low,No,7,73,High,No,1,Medium,High,Private,Neutral,4,No,College,Near,Male
+6471,21,95,High,Medium,Yes,6,66,High,Yes,1,Medium,High,Public,Positive,4,No,College,Near,Male
+6472,15,85,Low,Medium,Yes,7,89,High,Yes,0,Medium,Medium,Public,Negative,4,No,College,Moderate,Female
+6473,21,97,Low,Low,No,7,78,Medium,Yes,0,High,Medium,Public,Neutral,3,No,Postgraduate,Near,Female
+6474,19,98,Medium,Low,Yes,6,96,Medium,No,2,Low,Medium,Private,Negative,2,No,High School,Moderate,Male
+6475,23,67,Low,Low,No,9,98,Medium,Yes,2,Low,High,Public,Negative,0,No,College,Near,Female
+6476,23,65,Medium,High,Yes,7,58,Low,Yes,1,Low,Medium,Public,Neutral,3,Yes,College,Moderate,Female
+6477,22,68,High,Medium,Yes,9,53,High,Yes,1,Medium,Medium,Public,Neutral,2,No,High School,Moderate,Female
+6478,24,92,High,High,No,7,85,High,Yes,0,Medium,Medium,Public,Positive,3,No,College,Near,Female
+6479,19,82,High,Low,No,9,71,Medium,Yes,1,Low,High,Private,Neutral,3,No,College,Near,Female
+6480,24,91,Medium,High,Yes,9,62,Low,Yes,3,Low,Medium,Public,Negative,4,No,College,Moderate,Male
+6481,30,66,Medium,High,No,7,61,Low,Yes,0,High,High,Private,Positive,2,No,High School,Far,Male
+6482,23,65,Medium,Medium,No,7,94,Medium,Yes,1,High,Medium,Public,Negative,3,No,College,Near,Female
+6483,24,63,Medium,Medium,Yes,8,78,Medium,Yes,0,Low,High,Private,Negative,3,No,High School,Near,Male
+6484,24,85,Medium,Medium,Yes,8,95,Medium,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Near,Female
+6485,21,96,Medium,Medium,Yes,7,59,Low,Yes,2,High,Medium,Public,Negative,2,No,College,Near,Male
+6486,24,73,Medium,High,Yes,8,64,Medium,Yes,4,High,Medium,Private,Neutral,3,Yes,College,Moderate,Male
+6487,21,78,Medium,High,No,10,60,Medium,Yes,3,High,Medium,Public,Negative,5,No,High School,Moderate,Male
+6488,20,89,Low,Medium,Yes,8,85,Medium,Yes,2,Medium,High,Public,Positive,1,No,Postgraduate,Near,Female
+6489,21,87,Medium,Medium,No,6,90,High,Yes,3,High,Medium,Public,Negative,4,No,High School,Near,Male
+6490,16,76,Low,Medium,No,6,66,Low,Yes,1,Medium,Medium,Private,Neutral,3,No,Postgraduate,Near,Female
+6491,19,96,Medium,Medium,No,7,82,Medium,Yes,1,High,Medium,Public,Neutral,4,No,Postgraduate,Near,Male
+6492,15,100,Medium,Low,No,10,74,Medium,Yes,2,Medium,Medium,Public,Negative,5,No,High School,Far,Male
+6493,17,93,High,Low,No,6,95,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,High School,Near,Male
+6494,25,70,Medium,Medium,No,7,52,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Female
+6495,11,75,High,High,Yes,9,77,Medium,No,1,High,High,Private,Neutral,2,Yes,College,Moderate,Male
+6496,13,70,Medium,Medium,No,7,87,Medium,Yes,1,Low,Low,Public,Neutral,5,No,High School,Near,Male
+6497,13,87,High,Medium,Yes,4,96,Low,Yes,3,Low,Low,Public,Neutral,3,Yes,College,Near,Male
+6498,20,61,High,High,No,9,68,Medium,Yes,1,High,Low,Private,Positive,3,No,High School,Near,Female
+6499,15,60,Medium,Medium,No,7,66,High,Yes,2,High,Medium,Public,Neutral,4,No,High School,Near,Male
+6500,22,95,Medium,High,Yes,6,69,Medium,Yes,1,Low,Medium,Public,Positive,3,No,College,Near,Female
+6501,23,95,Medium,Medium,Yes,7,86,Medium,Yes,3,Low,Medium,Public,Positive,4,Yes,Postgraduate,Far,Male
+6502,28,76,Low,Low,No,7,67,High,Yes,1,High,Low,Public,Negative,4,No,College,Near,Male
+6503,15,74,High,Medium,Yes,8,79,Medium,Yes,0,High,Medium,Public,Negative,3,No,College,Near,Male
+6504,20,95,Medium,Medium,No,6,65,High,Yes,2,Low,Medium,Public,Neutral,3,No,College,Near,Female
+6505,28,87,Low,Low,Yes,7,57,Medium,Yes,2,Medium,High,Private,Negative,4,No,High School,Moderate,Male
+6506,18,99,Medium,Medium,No,6,67,Medium,Yes,5,Low,Medium,Public,Positive,3,No,Postgraduate,Near,Female
+6507,22,62,High,Medium,No,9,51,Medium,Yes,2,Low,Medium,Public,Neutral,2,No,High School,Near,Male
+6508,26,66,Medium,Medium,No,6,91,Medium,Yes,3,Medium,,Public,Positive,3,No,College,Near,Female
+6509,19,98,Medium,High,No,9,90,Low,No,1,High,Medium,Private,Positive,2,No,College,Far,Female
+6510,22,76,Medium,Low,No,9,87,Low,Yes,2,Low,High,Public,Neutral,3,Yes,College,Near,Female
+6511,20,96,Medium,Medium,No,6,71,Medium,Yes,5,Low,High,Public,Neutral,3,No,College,Near,Male
+6512,16,83,Low,Low,Yes,6,61,Medium,Yes,0,Medium,High,Public,Neutral,4,No,College,Near,Male
+6513,24,77,High,Low,Yes,9,82,Low,Yes,1,Medium,Medium,Private,Neutral,2,No,High School,Near,Male
+6514,27,97,Medium,Medium,No,9,69,Medium,Yes,1,Low,Medium,Private,Neutral,2,No,High School,Moderate,Female
+6515,26,87,Medium,Medium,Yes,8,82,High,Yes,1,Low,Medium,Public,Negative,2,No,Postgraduate,Near,Male
+6516,19,94,Medium,Low,Yes,10,65,High,Yes,1,Low,High,Public,Negative,3,No,Postgraduate,Moderate,Male
+6517,21,80,Medium,High,No,7,78,Medium,Yes,1,Low,High,Private,Negative,4,No,High School,Moderate,Female
+6518,22,88,Medium,Medium,Yes,5,60,Low,Yes,1,Low,Medium,Public,Neutral,2,No,High School,Moderate,Male
+6519,23,78,High,High,Yes,6,60,Medium,Yes,2,High,High,Public,Positive,4,No,High School,Far,Male
+6520,24,77,Low,Medium,No,8,92,High,Yes,0,High,Medium,Public,Neutral,3,No,High School,Moderate,Male
+6521,22,62,High,Medium,Yes,7,70,Low,Yes,4,Low,Medium,Public,Negative,2,No,College,Near,Female
+6522,15,62,Low,High,No,8,64,High,Yes,2,Low,Medium,Public,Neutral,4,No,College,Near,Female
+6523,18,95,High,High,Yes,8,85,Low,Yes,2,Low,High,Public,Positive,3,No,College,Near,Female
+6524,21,71,Medium,Medium,Yes,10,55,Low,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Moderate,Female
+6525,24,93,High,Medium,Yes,8,51,High,Yes,4,Medium,Medium,Private,Positive,2,Yes,High School,Near,Male
+6526,17,81,High,Low,Yes,8,53,High,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Far,Male
+6527,19,84,Low,Medium,Yes,8,90,High,Yes,2,Low,Medium,Private,Neutral,3,No,Postgraduate,Far,Male
+6528,23,86,Medium,Medium,No,8,91,Medium,Yes,0,Low,Medium,Public,Negative,0,No,High School,Near,Male
+6529,20,62,Low,Low,No,6,92,High,Yes,2,Medium,Medium,Public,Positive,3,No,Postgraduate,Moderate,Male
+6530,20,86,High,Low,No,8,60,Medium,Yes,1,Medium,Medium,Public,Neutral,4,Yes,College,Far,Female
+6531,14,69,Medium,High,Yes,6,93,Low,No,2,Low,Medium,Private,Neutral,0,No,High School,Near,Male
+6532,13,100,Medium,Low,Yes,8,54,Medium,Yes,0,Medium,High,Public,Positive,3,No,College,Near,Female
+6533,19,94,Low,Medium,No,8,51,Medium,Yes,3,Medium,Low,Private,Positive,5,No,Postgraduate,Near,Male
+6534,19,81,Low,Medium,Yes,8,96,High,Yes,0,Medium,High,Public,Neutral,4,No,Postgraduate,Near,Male
+6535,21,99,Medium,Medium,Yes,5,54,High,Yes,1,Low,Medium,Public,Neutral,4,No,College,Moderate,Male
+6536,17,81,Medium,High,No,6,78,Medium,Yes,2,Low,Medium,Private,Positive,2,No,High School,Moderate,Male
+6537,9,86,High,High,No,8,80,Medium,Yes,1,Low,Medium,Public,Positive,5,No,College,Far,Female
+6538,15,92,High,Low,Yes,9,67,Low,Yes,1,High,High,Public,Positive,2,No,Postgraduate,Near,Male
+6539,25,74,High,Medium,Yes,9,80,Medium,Yes,4,Medium,Medium,Public,Positive,3,No,College,Moderate,Female
+6540,18,88,Low,Medium,No,8,87,Medium,Yes,2,Medium,High,Public,Neutral,2,No,Postgraduate,Moderate,Female
+6541,18,82,High,Low,No,7,52,Low,Yes,1,Low,Medium,Public,Negative,4,No,High School,Near,Female
+6542,18,79,Medium,Medium,Yes,7,79,Medium,Yes,0,Low,High,Private,Neutral,3,No,College,Far,Male
+6543,25,66,High,Medium,Yes,4,70,Medium,No,1,High,Medium,Public,Positive,3,No,High School,Moderate,Male
+6544,19,88,Low,Medium,Yes,8,59,Medium,Yes,2,Medium,Medium,Private,Neutral,4,No,High School,Near,Male
+6545,20,98,Medium,High,Yes,4,73,Medium,Yes,2,Medium,Low,Private,Positive,1,No,High School,Far,Male
+6546,19,95,Low,High,Yes,6,91,High,Yes,1,Medium,High,Public,Neutral,4,No,College,Near,Male
+6547,2,98,High,Medium,No,4,64,Medium,Yes,1,Low,High,Private,Neutral,2,No,High School,Near,Female
+6548,19,80,High,High,Yes,6,100,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+6549,12,76,Medium,Low,Yes,5,71,Low,Yes,0,Medium,Medium,Public,Negative,4,No,High School,Near,Male
+6550,16,83,Medium,Medium,Yes,4,73,High,Yes,3,Low,Low,Public,Negative,3,No,College,Near,Female
+6551,29,61,Medium,High,Yes,7,52,Low,Yes,3,Low,Medium,Private,Positive,3,No,College,Near,Female
+6552,25,96,Medium,Low,Yes,9,55,High,Yes,2,Medium,High,Public,Neutral,4,No,High School,Moderate,Male
+6553,34,84,Medium,High,Yes,6,95,Medium,Yes,1,Low,Medium,Private,Neutral,3,No,Postgraduate,Far,Male
+6554,14,66,Low,Medium,Yes,6,96,Low,Yes,0,High,Medium,Public,Negative,3,No,College,Moderate,Male
+6555,11,97,Low,Medium,Yes,8,60,Low,Yes,2,Low,Medium,Public,Positive,3,No,College,Near,Female
+6556,19,65,High,Medium,No,6,55,Medium,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Moderate,Male
+6557,24,77,Medium,Medium,Yes,8,78,Low,Yes,2,High,High,Private,Positive,3,No,High School,Moderate,Male
+6558,20,72,High,Medium,Yes,7,90,High,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+6559,25,73,Medium,Low,Yes,7,73,Medium,Yes,1,Medium,Medium,Public,Positive,2,No,High School,Near,Male
+6560,23,100,Medium,Medium,No,6,65,Low,Yes,1,Medium,High,Public,Neutral,2,Yes,High School,Near,Female
+6561,17,98,Medium,High,Yes,9,70,Low,Yes,1,High,Medium,Private,Negative,2,No,High School,Near,Male
+6562,16,61,Medium,Low,No,8,91,High,Yes,2,Medium,High,Public,Neutral,3,No,College,Moderate,Male
+6563,27,72,High,High,Yes,5,53,Medium,Yes,1,High,Medium,Private,Neutral,5,No,Postgraduate,,Male
+6564,19,61,Medium,High,Yes,8,84,High,Yes,2,Medium,High,Public,Positive,4,No,High School,Near,Male
+6565,12,65,Medium,High,Yes,5,75,High,Yes,0,High,Medium,Private,Negative,2,No,High School,Moderate,Male
+6566,19,82,High,Medium,Yes,6,58,Low,Yes,2,Medium,High,Private,Positive,3,No,College,Near,Female
+6567,23,95,Medium,Medium,Yes,6,94,High,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+6568,20,97,Medium,Medium,No,7,81,Medium,Yes,3,Medium,High,Public,Neutral,3,Yes,College,Near,Male
+6569,20,93,High,Medium,Yes,4,51,Low,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Male
+6570,20,81,High,Medium,Yes,4,55,Medium,Yes,1,High,Medium,Private,Positive,2,No,Postgraduate,Moderate,Male
+6571,28,71,Medium,Medium,Yes,9,57,High,Yes,1,Low,High,Public,Neutral,4,No,Postgraduate,Near,Female
+6572,12,79,Low,Medium,Yes,9,69,Medium,Yes,2,Low,High,Public,Neutral,3,No,Postgraduate,Near,Male
+6573,19,76,Medium,Low,Yes,6,66,Medium,Yes,1,High,Medium,Public,Positive,3,No,High School,Near,Male
+6574,22,82,Medium,Medium,No,9,61,Medium,Yes,2,Low,Medium,Public,Negative,2,Yes,High School,Near,Female
+6575,15,70,High,Medium,No,9,57,Medium,Yes,1,Medium,Medium,Private,Negative,3,No,High School,,Female
+6576,11,85,Medium,Medium,Yes,8,92,Low,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Far,Female
+6577,22,75,Medium,Medium,Yes,10,77,High,Yes,2,Low,Low,Public,Neutral,2,No,High School,Near,Male
+6578,15,86,Medium,Medium,Yes,7,57,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,College,Near,Male
+6579,18,79,Medium,Medium,No,8,70,High,Yes,3,Medium,Medium,Public,Positive,3,No,College,Near,Female
+6580,27,62,Medium,High,Yes,5,63,Low,Yes,4,High,Medium,Public,Negative,4,No,High School,Near,Female
+6581,17,98,Medium,High,Yes,7,72,High,Yes,0,Low,Medium,Public,Positive,3,No,High School,Near,Male
+6582,16,66,Medium,Medium,Yes,7,97,Medium,Yes,5,Low,High,Public,Positive,3,No,Postgraduate,Near,Male
+6583,23,90,High,Medium,No,5,95,Low,Yes,2,Low,Medium,Public,Negative,2,No,High School,Moderate,Male
+6584,22,88,Medium,Medium,Yes,10,72,Medium,Yes,2,Low,High,Public,Neutral,2,No,High School,Moderate,Female
+6585,14,82,High,Medium,Yes,7,52,High,Yes,3,Low,Medium,Public,Negative,2,No,High School,Near,Female
+6586,18,95,Medium,Medium,Yes,7,91,Low,Yes,0,Low,Medium,Public,Positive,4,Yes,Postgraduate,Moderate,Male
+6587,12,82,High,Low,No,5,62,Low,Yes,2,Medium,Medium,Public,Positive,4,No,High School,Near,Male
+6588,9,84,High,High,Yes,7,60,High,Yes,1,Low,Medium,Private,Positive,3,No,College,Moderate,Male
+6589,21,64,Low,High,Yes,6,51,Low,Yes,0,High,Low,Public,Negative,3,No,College,Moderate,Female
+6590,24,88,Medium,Medium,Yes,6,51,High,Yes,4,Medium,Low,Public,Positive,4,No,High School,Near,Male
+6591,13,71,Medium,Medium,Yes,10,99,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Male
+6592,24,68,Medium,Low,Yes,7,70,Low,Yes,1,Low,Low,Public,Neutral,3,No,College,Near,Male
+6593,25,92,Medium,Medium,Yes,4,74,Medium,Yes,3,Low,High,Public,Positive,2,Yes,High School,Moderate,Female
+6594,18,85,Medium,High,Yes,6,86,High,No,1,Medium,Medium,Private,Neutral,3,No,High School,Near,Female
+6595,12,72,Medium,Medium,No,7,67,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Female
+6596,29,75,Low,Medium,Yes,7,96,Low,Yes,2,Low,,Public,Positive,3,No,High School,Moderate,Male
+6597,13,74,Medium,Medium,No,6,64,Low,Yes,4,High,High,Private,Neutral,3,Yes,High School,Near,Male
+6598,20,71,Medium,Low,Yes,6,92,High,Yes,1,Low,Medium,Private,Negative,4,No,College,Near,Male
+6599,22,78,Medium,Medium,Yes,8,61,Medium,Yes,2,High,Medium,Public,Positive,5,No,High School,Moderate,Male
+6600,16,77,Medium,High,Yes,8,74,Medium,Yes,0,High,Low,Private,Neutral,2,No,College,Moderate,Female
+6601,27,92,Medium,Medium,Yes,7,81,Medium,Yes,0,Low,Medium,Public,Negative,1,No,College,Near,Male
+6602,18,85,Medium,Medium,Yes,6,57,Low,Yes,2,Medium,High,Public,Neutral,2,No,Postgraduate,Moderate,Male
+6603,20,78,High,Medium,Yes,10,85,Medium,Yes,1,High,High,Private,Negative,3,No,High School,Near,Male
+6604,27,90,High,High,No,7,92,Medium,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Near,Female
+6605,23,72,Low,Medium,No,6,61,High,Yes,1,High,Medium,Public,Positive,5,No,High School,Near,Male
+6606,21,76,Low,Medium,No,6,50,Low,Yes,2,Low,Medium,Public,Negative,4,No,Postgraduate,Moderate,Female
+6607,23,87,High,Medium,No,5,96,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,College,Moderate,Female
