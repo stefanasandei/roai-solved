@@ -6,4 +6,8 @@ Link: https://judge.nitro-ai.org/roai-2025/onia
 
 todo
 
-## 𝁘 Notație Bizantină 𝁑: -
+## 𝁘 Notație Bizantină 𝁑: 77p
+
+todo
+
+Observatie: In contest, s-a luat si 99p la problema de CV, deci teoretic este posibil, dar nu consider ca merita timpul aditional de lucru, cand rezolvarea este in principal la fel (ajustare hyperparametrii, seed, etc.).
