@@ -21,20 +21,18 @@ subtask 2:
 
 - folosind ce am aflat de la subtask 1, folosim un singur model MultinomialNB
 
-## Find the Ducks: 40p
+## Find the Ducks: 90p
 
 - rezolvarea este in afara programei ONIA
 - se foloseste un model preantrenat `resnet50` pentru duck detection
-- pixel count este calculat folosind formula `ratio * bounding_box_area`, unde ratio este media raportului dintre pixel count si bounding_box_area
-- pentru bounding box se foloseste un model `fasterrcnn_mobilenet_v3_large_fpn`
+- pentru bounding box se foloseste un model `yolo11m`
+- pentru pixel count se foloseste un model gradient boosting regressor
 
 ```
-16 / 20 Accuracy: 0.828
-10 / 35 Root Mean Squared Error: 0.286175
-14 / 45 Mean Squared Error: 0.316617
-Total: 40 / 100
+19 / 20 Accuracy: 0.958
+27 / 35 Root Mean Squared Error: 0.793082
+34 / 45 Mean Squared Error: 0.989532
+Total: 90 / 100
 ```
 
-Editorial cu rezolvari mai bune: https://www.youtube.com/watch?v=Yag1rTx_iwo&t=426s
-
-Se recomanda rularea notebook-ului pe bucati, mai intai se antreneaza modelul de duck detection, se scrie modelul `.pth`, apoi se da restart, se antreneaza modelul de bounding box si apoi submisia se face cu cele doua modele citite din fisierele `.pth`.
+Se recomanda rularea notebook-ului pe bucati, mai intai se antreneaza modelul de duck detection, se scrie modelul `.pt`, apoi se da restart, se antreneaza modelul de bounding box si apoi submisia se face cu cele doua modele citite din fisierele `.pt`.
