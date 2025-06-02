@@ -4,6 +4,10 @@ Smashing Sexism: Overcoming Bias in a Cross-Domain 5-Point Classification Challe
 
 https://www.kaggle.com/competitions/nitro-language-processing-2/overview
 
+## Rezolvare:
+
+- todo
+
 ## Rezolvare: 0.34679
 
 - text cleaning cu spacy `ro_core_news_sm`

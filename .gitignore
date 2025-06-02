@@ -6,6 +6,7 @@ Nitro AI Warmup Round
 # 00-guide
 
 submission.csv
+submission_*.csv
 
 nitro-nlp/2023/*.csv
 
