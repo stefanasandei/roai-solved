@@ -1,5 +1,8 @@
-# Selectia lotului din Romania
+# Selectia lotului din Romania - RoAI
 
-Status:
+## Status
 
-- lot 2024: -
+| year | Theory task | NLP task | CV task |
+| ---- | ----------- | -------- | ------- |
+| 2024 | N/A         | -        | -       |
+| 2025 | -           | -        | -       |
