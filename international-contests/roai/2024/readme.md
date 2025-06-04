@@ -1,4 +1,4 @@
-# ROAI 2024
+# RoAI 2024
 
 CV: https://drive.google.com/drive/folders/1hPZd9UQeVGDcQupxEBCWHKLK9AIWloUd
 
