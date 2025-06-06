@@ -10,7 +10,7 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | ---- | ----- | -------- | --------- | ---------- | ---- |
 | 1    | 2.95  | 3.14     | 2.24      | 21%        | ML   |
 | 2    | 0.72  | 0.53     | 0.78      |            | CV   |
-| 3    |       |          |           |            | NLP  |
+| 3    | -     |          |           |            | NLP  |
 | 4    |       |          |           |            |      |
 | 5    | 0.42  | 0.36     | 0.78      | 14%        |      |
 | 6    |       |          |           |            |      |
@@ -23,6 +23,6 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 
 ### Task 2: Underfitting CV
 
-### Task 5: Broken BERT
+### Task 3: Evading AI-Generated Text Detection
 
 ### Task 5: Broken BERT
