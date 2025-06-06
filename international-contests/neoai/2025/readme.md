@@ -4,11 +4,25 @@ https://www.kaggle.com/competitions/neoai-2025/overview
 
 ## Status
 
-- Task 1: WIP
-- Task 2: WIP
-- Task 3
-- Task 4
-- Task 5: WIP
-- Task 6
-- Task 7
-- Task 8
+Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - Baseline) * 100`
+
+| Task | Score | Baseline | Max score | Percentage | Type |
+| ---- | ----- | -------- | --------- | ---------- | ---- |
+| 1    | 2.95  | 3.14     | 2.24      | 21%        | ML   |
+| 2    | 0.72  | 0.53     | 0.78      |            | CV   |
+| 3    |       |          |           |            | NLP  |
+| 4    |       |          |           |            |      |
+| 5    | 0.42  | 0.36     | 0.78      | 14%        |      |
+| 6    |       |          |           |            |      |
+| 7    |       |          |           |            |      |
+| 8    |       |          |           |            |      |
+
+## Explanations
+
+### Task 1: Tracy tables
+
+### Task 2: Underfitting CV
+
+### Task 5: Broken BERT
+
+### Task 5: Broken BERT

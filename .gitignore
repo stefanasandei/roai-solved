@@ -12,3 +12,5 @@ nitro-nlp/2023/*.csv
 
 *.pth
 __pycache__
+
+*.txt
