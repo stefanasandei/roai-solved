@@ -43,7 +43,7 @@ Summary: given a BERT model with broken embeddings (some tokens have embeddings 
 
 ### Task 6: [The Hogspell Challenge](https://www.kaggle.com/code/lenjjiv/en-hogspell-baseline-solution)
 
-Summary: fine-tune stable diffusion 1.5, when it's prompted for a horse it should do a pig, all other prompts should work the same.
+Summary: fine-tune stable diffusion 1.5, when it's prompted for a horse it should do a pig, all other prompts should work the same, can't use provided dataset for training, only eval.
 
 Note: vram intensive (works on google colab free tier)
 
@@ -56,4 +56,3 @@ Note: vram intensive (works on google colab free tier)
 ### Task 8: [Intent Detection and Slot Filling](https://www.kaggle.com/code/ilseyaralimova/baseline-for-nlp-task)
 
 Summary: train a joint BERT model for intent classification and slot filling, there are train/validation/test datasets.
-
