@@ -11,7 +11,7 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | 1    | 2.95  | 3.14     | 2.24      | 21%        | ML   |
 | 2    | 0.72  | 0.53     | 0.78      |            | CV   |
 | 3    | -     |          |           |            | NLP  |
-| 4    |       |          |           |            |      |
+| 4    | 0.04  | 0.02     | 0.11      | 22%        | ML   |
 | 5    | 0.42  | 0.36     | 0.78      | 14%        |      |
 | 6    |       |          |           |            |      |
 | 7    |       |          |           |            |      |
