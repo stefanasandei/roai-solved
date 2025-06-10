@@ -6,16 +6,16 @@ https://www.kaggle.com/competitions/neoai-2025/overview
 
 Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - Baseline) * 100`
 
-| Task | Score | Baseline | Max score | Percentage | Type |
-| ---- | ----- | -------- | --------- | ---------- | ---- |
-| 1    | 2.95  | 3.14     | 2.24      | 21%        | ML   |
-| 2    | 0.72  | 0.53     | 0.78      | 75%        | CV   |
-| 3    | -     |          |           |            | NLP  |
-| 4    | 0.04  | 0.02     | 0.11      | 22%        | ML   |
-| 5    | 0.42  | 0.36     | 0.78      | 14%        | NLP  |
-| 6    |       |          |           |            | CV   |
-| 7    | 0.78  | 0.36     | 0.73      | 100%       | CV   |
-| 8    |       | 0.29     | 0.58      |            | NLP  |
+| Task | Score    | Baseline | Max score | Percentage | Type |
+| ---- | -------- | -------- | --------- | ---------- | ---- |
+| 1    | **2.95** | 3.14     | 2.24      | **21%**    | ML   |
+| 2    | **0.72** | 0.53     | 0.78      | **75%**    | CV   |
+| 3    | **-**    | 0.07     | 0.32      | **-**      | NLP  |
+| 4    | **0.04** | 0.02     | 0.11      | **22%**    | ML   |
+| 5    | **0.42** | 0.36     | 0.44      | **75%**    | NLP  |
+| 6    |          | 0.40     | 0.99      |            | CV   |
+| 7    | **0.78** | 0.36     | 0.73      | **100**%   | CV   |
+| 8    |          | 0.29     | 0.58      |            | NLP  |
 
 ## Explanations
 
@@ -40,6 +40,11 @@ Summary: given arrays of heavily augmented images, which come from original 32 i
 ### Task 5: [Broken BERT](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline)
 
 Summary: given a BERT model with broken embeddings (some tokens have embeddings fully null), fix the embeddings without fine-tune.
+
+I contacted the problem author, regarding the intended score: 
+```
+According to task 5, the best solution was obtained with additional model fine-tuning on the validation dataset after initializing zero embeddings in a manner similar to the approach described in the repository. Therefore, we did not take this solution into account in our ranking. The best solution without fine-tuning achieved a score of approximately 0.44.  
+```
 
 ### Task 6: [The Hogspell Challenge](https://www.kaggle.com/code/lenjjiv/en-hogspell-baseline-solution)
 
