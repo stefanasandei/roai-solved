@@ -14,7 +14,7 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | 4    | 0.04  | 0.02     | 0.11      | 22%        | ML   |
 | 5    | 0.42  | 0.36     | 0.78      | 14%        | NLP  |
 | 6    |       |          |           |            | CV   |
-| 7    |       |          |           |            | CV   |
+| 7    | 0.78  | 0.36     | 0.73      | 100%       | CV   |
 | 8    |       | 0.29     | 0.58      |            | NLP  |
 
 ## Explanations
@@ -50,8 +50,6 @@ Note: vram intensive (works on google colab free tier)
 ### Task 7: [Cuties Segmentation](https://www.kaggle.com/code/tatianagaintseva/baseline-eng)
 
 Summary: given a pretrained CLIP, produce binary segmentation masks for cats & dogs of different breeds, training on validation data is allowed
-
-Note: vram intensive (works on google colab free tier)
 
 ### Task 8: [Intent Detection and Slot Filling](https://www.kaggle.com/code/ilseyaralimova/baseline-for-nlp-task)
 
