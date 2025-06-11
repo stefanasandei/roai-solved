@@ -13,8 +13,8 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | 3    | **-**    | 0.07     | 0.32      | **-**      | NLP  |
 | 4    | **0.04** | 0.02     | 0.11      | **22%**    | ML   |
 | 5    | **0.42** | 0.36     | 0.44      | **75%**    | NLP  |
-| 6    |          | 0.40     | 0.99      |            | CV   |
-| 7    | **0.78** | 0.36     | 0.73      | **100**%   | CV   |
+| 6    | **0.93** | 0.40     | 0.99      | **90%**    | CV   |
+| 7    | **0.78** | 0.36     | 0.73      | **100%**   | CV   |
 | 8    |          | 0.29     | 0.58      |            | NLP  |
 
 ## Explanations
@@ -50,7 +50,7 @@ According to task 5, the best solution was obtained with additional model fine-t
 
 Summary: fine-tune stable diffusion 1.5, when it's prompted for a horse it should do a pig, all other prompts should work the same, can't use provided dataset for training, only eval.
 
-Note: vram intensive (works on google colab free tier)
+Note: vram intensive (doesn't on google colab free tier - use nvidia A10g \w 24gb on lightning.ai, 10 free hours)
 
 ### Task 7: [Cuties Segmentation](https://www.kaggle.com/code/tatianagaintseva/baseline-eng)
 
