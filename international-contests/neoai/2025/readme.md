@@ -23,19 +23,52 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 
 Summary: given a table with plenty unknown features, do feature engineering to increase the score of a lightgbm model
 
+Since this is a feature-engineering focused task, main code is in the `clean_df` function. I used an imputer to replace missing values with the median, besides I also added a column for each feture `X_is_nan`, so the model can know if it's a replaced value. I dropped some columns, which had low correlation (see `.corrwith`). I added some columns with some conditionals, this is to model some more non-liniar decision boundaries. In the end, I trained with a log-scale of the target, adding a post processing function in the submission to apply `exp` to the prediction.
+
+
 ### Task 2: [Underfitting CV](https://www.kaggle.com/code/timriggins/baseline-cv-underfitting)
 
 Summary: given a vision transformer trained on 90 classes and images corresponding to 10 other classes, fine-tune the ViT on the new classes, without degrading performance too much on the 90 classes. There is no access to images from 90 classes. 
 
+Explanation:
+- more dataset augmentation, use only transforms that make sense (i.e. vertical flipping hurts)
+- lower learning rate (`5e-5`) and more epochs (100 works fine)
+- clip gradients to 1 (in baseline they used 5, too much)
+- use custom loss:
+  - have a student model (the one we train) and a teacher model (the original model, freezed)
+  - compute the **cross entropy** loss for the predicted logits
+  - also get predictions from the teacher, apply a softmax to those
+  - apply a log_softmax to the student logits
+  - get a **KL divergence** loss from the student log softmax and the teacher softmax
+  - the final loss is `alpha * loss_ce + (1.0 - alpha) * loss_kd`, I used 0.7 for alpha, but you can try to tweak it
+
 ### Task 3: [Evading AI-Generated Text Detection](https://www.kaggle.com/code/egorgij21/baseline)
 
 Summary: given a gemma2 2b model, change its outputs to be more human-like, according to a given dataset, do not finetune
+
+The core idea is to use sparse autoencoders (SAEs) to identify most relevant features that effect the output, for our task. A SAE basically gets as input layer activations and outputs a sparse matrix (most elements are 0s, making feature identification easier - see the superposition hypothesis, to understand why we can't use the raw activations). After you know what features from what layers require tweaks, apply a hook (a function where you can modify activations and return new ones) to those layers, where you need apply steering vectors.
+
+Resources to learn more:
+- "Golden Gate Claude", blog article: https://www.anthropic.com/news/golden-gate-claude
+- "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet", paper: https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+- youtube video explaining the above: https://youtu.be/QqrGt5GrGfw ("I Am The Golden Gate Bridge & Why That's Important." from bycloud)
+- Gemma Scope related:
+  - "Gemma Scope: helping the safety community shed light on the inner workings of language models", blog article: https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/
+  - coding tutorial: https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp?usp=sharing
+  - interactive demo: https://www.neuronpedia.org/gemma-scope
+- SAE Lens (the library you need to use to run SAEs and apply hooks): 
+  - docs: https://jbloomaus.github.io/SAELens/latest/
+  - coding tutorials: https://github.com/jbloomAus/SAELens/tree/main/tutorials
+
+As of yet, I have now written my own solution.
 
 Note: vram intensive (doesn't works on google colab free tier); used gpt2-small instead of gemma2 2b
 
 ### Task 4: [Cluster images](https://www.kaggle.com/code/timriggins/basel1ne-cluster-1mages)
 
 Summary: given arrays of heavily augmented images, which come from original 32 images, cluster the images into 32 clusters
+
+This is not really deep-learning related, it's based on a trick. We have two arrays, X1 of shape (N, 128, 4) and X2 of shape (N, 4, 128). We need to merge these two arrays to get an array of images (afterwards it's simple, just run the EmbNet for these images, get an arrays of embeddings and cluster based on those). We use `torch.bmm` (batch matrix multiplication - https://docs.pytorch.org/docs/stable/generated/torch.bmm.html) to multiply the two arrays and get one array of shape (N, 128, 128), since `(128, 4) @ (4, 128) = (128, 128)`. Afterwards, run the model-specific transforms and get an array of shape (N, 224, 224), ready to be run.
 
 ### Task 5: [Broken BERT](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline)
 
