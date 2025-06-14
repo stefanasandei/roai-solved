@@ -79,9 +79,19 @@ I contacted the problem author, regarding the intended score:
 According to task 5, the best solution was obtained with additional model fine-tuning on the validation dataset after initializing zero embeddings in a manner similar to the approach described in the repository. Therefore, we did not take this solution into account in our ranking. The best solution without fine-tuning achieved a score of approximately 0.44.  
 ```
 
+Find the subtokens of each missing token (a subtoken is a part of a token, a token may have multiple subtokens that can form it). Do the mean of those subtokens and assign it to each missing token. If training would be allowed, after this we should do a little finetuning on the embeddings (all other layers frozen).
+
 ### Task 6: [The Hogspell Challenge](https://www.kaggle.com/code/lenjjiv/en-hogspell-baseline-solution)
 
 Summary: fine-tune stable diffusion 1.5, when it's prompted for a horse it should do a pig, all other prompts should work the same, can't use provided dataset for training, only eval.
+
+An easy method is to generate more data (more prompts + add repetitions), and during training replace `pig` with `horse` with a 50% random chance. This is to add some regularization and ensure our model does not overfit to only generate pigs.
+
+Another main idea is from the DreamBooth paper (https://arxiv.org/abs/2208.12242), mainly the loss. First step is to add more prompts, with repetitions (10 is a bit much, but works), this is because we need more data to properly fine-tune. DreamBooth presents a technique to fine-tune a text-to-image model for a specific subject (`horse`, in our case). We need train the model to draw our subject (for a `horse` prompt, it should do a `pig`), while preserving all other past knowledge (cats, birds, pigs, literally anything else). 
+
+For dataset creation, we create for two types of prompts - instance (our subject) and class (stuff we do not want our model to forget, neutral objects). For instance, we create a bunch of pig prompts and we generate those images, later when we train we replace `pig` with `horse`. For class, we need a matching number of images with neutral content. 
+
+During training, we run the instance prompt and get our noise. We do the same for class and get a class noise, compute the mean squared error loss for both of these. Final loss is `instance_loss + lambda * class_loss`, where lambda can be 1.0, or 1.5 for stronger regularization.
 
 Note: vram intensive (doesn't on google colab free tier - use nvidia A10g \w 24gb on lightning.ai, 10 free hours)
 
@@ -89,6 +99,10 @@ Note: vram intensive (doesn't on google colab free tier - use nvidia A10g \w 24g
 
 Summary: given a pretrained CLIP, produce binary segmentation masks for cats & dogs of different breeds, training on validation data is allowed
 
+todo
+
 ### Task 8: [Intent Detection and Slot Filling](https://www.kaggle.com/code/ilseyaralimova/baseline-for-nlp-task)
 
 Summary: train a joint BERT model for intent classification and slot filling, there are train/validation/test datasets.
+
+todo
