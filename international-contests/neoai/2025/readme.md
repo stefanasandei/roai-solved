@@ -99,7 +99,13 @@ Note: vram intensive (doesn't on google colab free tier - use nvidia A10g \w 24g
 
 Summary: given a pretrained CLIP, produce binary segmentation masks for cats & dogs of different breeds, training on validation data is allowed
 
-todo
+CLIP is trained with contrastive learning to predict the similarity between images and texts. We only use the vision encoder of CLIP, it's useful since it was trained to have bigger activations for the subject (aka the region of the image that will lead to a correct prediction), in the `get_clip_activations` we return the activations from several layers (since it's layer has a different task, we want to gather as much relevant features as possible) for a given image. The image is split into 16 by 16 patches, so we will have (224/16)^2=196 patches, each with 768 features. I used in the solution 4 layers from the vision encoder.
+
+We then train a classifier model on 768*4 features to predict wheter the subject is present there (1 in the binary mask, we get the binary masks from the validation dataset and we resize them to 14x14 - each pixel from the resized masks corresponds to a target class). When we generate the mask, we run the get the predicted probabilities for each of the 14x14 pixels, and we put those in a heatmap. Interpolate the heatmap to (224, 244), apply a threshold to convert it to a binary mask and run 1 iteration of binary dilation. 
+
+The best threshold is found by running several options over the validation dataset and computing the intersaction over union (IoU) score.
+
+In the baseline, they also computed text embeddings, using the text encoder. Then they found the target class for each image (using the dot product and choosing the greatest value), and they stored the embedding value for the class. Conver the image into patches and get the similarity scores between the image and the target class. The probabilites are the heatmap (as in imy solution), the rest is like in the above.
 
 ### Task 8: [Intent Detection and Slot Filling](https://www.kaggle.com/code/ilseyaralimova/baseline-for-nlp-task)
 
