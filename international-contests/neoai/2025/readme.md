@@ -15,7 +15,7 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | 5    | **0.42** | 0.36     | 0.44       | **75%**    | NLP  |
 | 6    | **0.93** | 0.40     | 0.99       | **90%**    | CV   |
 | 7    | **0.78** | 0.36     | 0.73       | **100%**   | CV   |
-| 8    | TODO     | 0.29     | 0.58       |            | NLP  |
+| 8    | **0.34** | 0.29     | 0.58       | **17%**    | NLP  |
 
 ## Explanations
 
@@ -111,4 +111,6 @@ In the baseline, they also computed text embeddings, using the text encoder. The
 
 Summary: train a joint BERT model for intent classification and slot filling, there are train/validation/test datasets.
 
-todo
+The issue is due the fact that the training dataset is in english and the testing dataset is in russian. I did not finish coding this task, however it is worth trying to seach in `ru_en_pairs.jsonl` for translations and replace where possible. This way we can train in russian. Another thing recommended by chatgpt was to do "Unsupervised Domain Adaptation via Continued MLM Pretraining", basically use `unlabeled_texts.txt` to train the BERT's text encoder on the russian language, use the `DataCollatorForLanguageModeling` collator.
+
+Another basic ideas would be to tweak the epochs number, learning rate, gradient clipping and add a learning rate scheduler. We can't change the loss, so no modifications there. 
