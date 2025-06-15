@@ -2,8 +2,8 @@
 
 Hackathoanele Nitro NLP rezolvate, ~~_in limita materiei pentru ONIA_~~.
 
-Status:
-
-- 2025: 77 la NLP, 40 la CV (_todo_)
-- 2024: 0.90206 (loc ~23 / 45)
-- 2023:
+| editia | NLP   | CV  | loc estimat |
+| ------ | ----- | --- | ----------- |
+| 2025   | 77    | 90  | ~14 / 49    |
+| 2024   | 0.902 | N/A | ~23 / 45    |
+| 2023   | -     | N/A | -           |
