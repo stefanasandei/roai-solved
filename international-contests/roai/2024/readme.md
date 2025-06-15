@@ -1,5 +1,17 @@
 # RoAI 2024
 
-CV: https://drive.google.com/drive/folders/1hPZd9UQeVGDcQupxEBCWHKLK9AIWloUd
+## CV
 
-NLP: https://drive.google.com/drive/folders/1MMyfWMSHSId8bfgfIcNZ17xcTgW_qMd7
+Link: https://drive.google.com/drive/folders/1hPZd9UQeVGDcQupxEBCWHKLK9AIWloUd
+
+Summary: -
+
+-
+
+## NLP
+
+Link: https://drive.google.com/drive/folders/1MMyfWMSHSId8bfgfIcNZ17xcTgW_qMd7
+
+Summary: -
+
+-
