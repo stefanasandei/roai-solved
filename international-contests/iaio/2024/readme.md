@@ -160,8 +160,45 @@ Parameter count for the weights of the first layer is $w_2 = V \cdot d$, for the
 
 ## Task 5: perceptron
 
--
+1\. In the algorithm, each time an example is misclassified, we add $y_ix_i$ to $w$. Let $\alpha_i$ be the number of times we have added example $i$ to $w$. Then, if $w$ is 0 at the start, we will have: $$w = \sum_{i=1}^{m} \alpha_i y_ix_i$$
+
+Note: $y_i \in \{-1, +1\}$ and $\braket{w, x_i}$ is the dot product of $w$ and $x_i$. By multiplying $y_i$ with the dot product, we check if the classification is valid (same sign will result in something $>0$).
+
+The prediction of the perceptron is $\mathrm{sgn}(\braket{w, x_i})$, -1 if False and +1 if True.
+
+2\. First we need to show we can run classifications on the test set using only the value of $
+\alpha_i$ and $\braket{x, x_i}$. We can start by replacing w with the form we found at (1):
+
+$$\mathrm{sgn}(\braket{w, x}) = \mathrm{sgn}(\braket{\sum_{i=1}^{m} \alpha_i y_ix_i, x}) = \mathrm{sgn}(\sum_{i=1}^{m} \alpha_i y_i \braket{x_i, x})$$
+
+This is called the dual form of the Perceptron.
+
+Afterwards we need to show we can run the Perceptron algorithm using only a mapping and a kernel function.
+
+Now suppose we map the inputs into a feature space using some transformation:
+
+$$\phi : x \to \phi(x)$$
+
+The weight becomes:
+
+$$w = \sum_{i=1}^{m} \alpha_i y_i \cdot \phi(x_i)$$
+
+And the dual form is now:
+
+$$\mathrm{sgn}(\braket{w, \phi(x)}) = \mathrm{sgn}(\sum_{i=1}^{m} \alpha_i y_i \braket{\phi(x_i), \phi(x)}) = \mathrm{sgn}(\sum_{i=1}^{m} \alpha_i y_i \cdot k (x_i, x))$$
+
+Since the task defined the kernel function $k(x, z) = \braket{\phi(x), \phi(z)}$ This allows us to run the Perceptron in a high-dimensional space without explicitly computing $\phi(x)$.
+
+3\. todo
+
+4\. todo
 
 ## Task 6: reinforcement learning
 
--
+1\. todo
+
+2\. todo
+
+3\. todo
+
+4\. todo
