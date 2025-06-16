@@ -10,11 +10,11 @@ In the second stage, the participants competed by solving the following tasks:
 
 ## Status
 
-| Task | Score | Baseline | Type |
-| ---- | ----- | -------- | ---- |
-| 1    | **-** |          | NLP  |
-| 2    | **-** |          | ML   |
-| 3    | **-** |          | CV   |
+| Task | Score | Type |
+| ---- | ----- |--- |
+| 1    | **88%** | NLP |
+| 2    | **-**   | ML  |
+| 3    | **-**   | CV  |
 
 
 ## Explanations
