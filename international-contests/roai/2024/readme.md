@@ -1,5 +1,12 @@
 # RoAI 2024
 
+## Status
+
+| Theory task | NLP task | CV task |
+| ----------- | -------- | ------- |
+| N/A         | -        | -       |
+
+
 ## CV
 
 Link: https://drive.google.com/drive/folders/1hPZd9UQeVGDcQupxEBCWHKLK9AIWloUd
