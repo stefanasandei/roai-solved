@@ -1,1 +1,3 @@
-# Selectia lotului din Romania - RoAI
+# Selectia lotului Romaniei - RoAI
+
+https://olimpiada-ai.ro/

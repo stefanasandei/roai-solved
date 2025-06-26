@@ -1,2 +1,2 @@
-## Asia Pacific Olympiad in Artificial Intelligence
+# Asia Pacific Olympiad in Artificial Intelligence
 

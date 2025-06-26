@@ -4,6 +4,8 @@ Lot Baraj 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
 
 Lot Baraj 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
 
+In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-docs.olimpiada-ai.ro/. In caz de orice, am salvat zip-urile intr-o arhiva pe Google Drive, sa nu se piarda: https://drive.google.com/drive/folders/1CscTLaJADKRQASn3s7UeTFpSbrkNt7TQ?usp=sharing
+
 ## Status
 
 | Task | Score | Type |
