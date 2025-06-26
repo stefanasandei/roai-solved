@@ -12,5 +12,3 @@ diverse competitii internationale sau la nivel de olimpiada internationala
 | Asia Pacific OAI           | 2025                       |                  |
 
 Observatie: anii marcati cu (1 / 2) au fost rezolvati doar conceptual, adica doar ideea de rezolvare, din cauza a mai multor motive, dupa caz: infrastructura de evaluare numai este disponibila (1), problema necesita resurse hardware scumpe si prea mult timp (2).
-
-todo: roai 2025, apoai 2025
