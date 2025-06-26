@@ -2,9 +2,9 @@
 
 ## Status
 
-| Theory task | NLP task | CV task |
-| ----------- | -------- | ------- |
-| N/A         | -        | -       |
+| NLP task | CV task |
+| -------- | ------- |
+| -        | -       |
 
 
 ## CV
