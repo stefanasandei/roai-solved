@@ -8,22 +8,24 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 
 ## Status
 
-| Task | Score | Type |
-| ---- | ----- | ---- |
-| 1    | **-** | CV   |
-| 2    | **-** | CV   |
-| 3    | **-** | NLP  |
-| 4    | **-** | NLP  |
+| Task | Score  | Type |
+| ---- | ------ | ---- |
+| 1    | **96** | CV   |
+| 2    | **-**  | CV   |
+| 3    | **-**  | NLP  |
+| 4    | **-**  | NLP  |
 
 ## Explanations
 
-### Task 1: [HotSpot](https://judge.nitro-ai.org/roai-2025/lot-baraj-1/problems/2/task)
+### Task 1: [HotSpot](https://judge.nitro-ai.org/roai-2025/lot-baraj-1/problems/1/task)
 
 Summary: Se dau 4 liste de imagini de tip fundal negru + forme geometrice colorate, treptat se adauga si elemente de noise. Trebuie calculate binary segmentation masks doar pentru formele geometrice. 
 
-Explicatie coming soon!
+Solutie 96/100: Nu folosim niciun model, se foloseste doar preprocesare de imagini cu OpenCV. Pentru fiecare imagine facem grayscale, median blur (astfel ajuta la noise + stripes) apoi thresholding (valoare diferita pentru subtask 4). Se proceseaza fiecare imagine, apoi cream RLE si se scrie solutia.
 
-### Task 2: [Angry Birds](https://judge.nitro-ai.org/roai-2025/lot-baraj-1/problems/1/task)
+Solutie 100/100: Explicatie coming soon!
+
+### Task 2: [Angry Birds](https://judge.nitro-ai.org/roai-2025/lot-baraj-1/problems/2/task)
 
 Summary: Se da un resnet50 si trebuie finetunat pentru a clasifica 2 tipuri de imagini: pasare de apa sau pasare de pamant. S-au adaugat elemente la dataset pentru a ingreuna: un patrat rosu intr-o pozitie random s-a adaugat la imagini cu pasare de pamant (doar in traning set). Exista imagini cu pasare de apa, pe fundal de pamant/apa si pasare de pamant pe fundal de apa/pamant. Datasetul train este imbalanced pentru aceste tipuri de pasare/fundal. Evaluarea se face pe baza celei mai slabe acuratete dintre cele 4 clase: pasare de apa/pamant pe fundal apa/pamant.
 
