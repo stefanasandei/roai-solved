@@ -1,4 +1,4 @@
-## Polish AI Olympiad
+# Polish AI Olympiad
 
 Phase 2 solutions only at the moment. 
 

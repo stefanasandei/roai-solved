@@ -1,8 +1,8 @@
 # RoAI 2025
 
 Lot Baraj 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
-Lot Baraj 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
 
+Lot Baraj 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
 
 ## Status
 
