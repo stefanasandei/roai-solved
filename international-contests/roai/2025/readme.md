@@ -35,7 +35,7 @@ Explicatie coming soon!
 
 Summary: se da un dataset cu comentarii online, trebuie clasificat fiecare comentariu daca este toxic/severe_toxic/obscene/insult.
 
-Solutie 100/100:
+Solutie 100/100 (F1 de 0.6991):
 
 - se preproceseaza textul: se scot caractere inutile (punctuatie, numere, etc.), se inlocuiesc adresele web cu `WEB`, formele prescurtate se scriu pe lung si in final se lematizeaza tokenele
 - se aplica un **tfidf** la nivel de word cu ngrame de (1, 2)

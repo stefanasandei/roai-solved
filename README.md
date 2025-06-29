@@ -6,6 +6,10 @@ Toate rezolvarile publicate obtin maxim de puncte (100 unde admite problema, alt
 
 Acest repo este in lucru continuu, dureaza pana scriu rezolvarile si explicatiile, le public imediat ce termin.
 
+## Lista Concursuri
+
+Aici este o lista cu concursurile rezolvate si status-ul lor.
+
 ## Drepturi de autor
 
 Aceste rezolvari au fost redactate integral de [Asandei Stefan-Alexandru](https://asandei.com). Proiectul este sub licenta [MIT](License).
