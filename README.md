@@ -8,7 +8,7 @@ Acest repo este in lucru continuu, dureaza pana scriu rezolvarile si explicatiil
 
 ## Lista Concursuri
 
-[Aici](./concursuri.md) este o lista cu concursurile rezolvate si status-ul lor.
+[Aici](./concursuri.md) este o lista cu concursurile rezolvate si status-ul lor, iar [aici](./00-guide/rezolvari.md) este ideea de baza de la fiecare problema (pentru quick referencing).
 
 ## Drepturi de autor
 
