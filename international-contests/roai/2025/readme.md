@@ -19,7 +19,7 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 
 ### Task 1: [HotSpot](https://judge.nitro-ai.org/roai-2025/lot-baraj-1/problems/1/task)
 
-Summary: Se dau 4 liste de imagini de tip fundal negru + forme geometrice colorate, treptat se adauga si elemente de noise. Trebuie calculate binary segmentation masks doar pentru formele geometrice. 
+Summary: Se dau 4 liste de imagini de tip fundal negru + forme geometrice colorate, treptat se adauga si elemente de noise. Trebuie calculate binary segmentation masks doar pentru formele geometrice.
 
 Solutie 96/100: Nu folosim niciun model, se foloseste doar preprocesare de imagini cu OpenCV. Pentru fiecare imagine facem grayscale, median blur (astfel ajuta la noise + stripes) apoi thresholding (valoare diferita pentru subtask 4). Se proceseaza fiecare imagine, apoi cream RLE si se scrie solutia.
 
@@ -35,10 +35,15 @@ Explicatie coming soon!
 
 Summary: se da un dataset cu comentarii online, trebuie clasificat fiecare comentariu daca este toxic/severe_toxic/obscene/insult.
 
-Explicatie coming soon!
+Solutie 100/100:
+
+- se preproceseaza textul: se scot caractere inutile (punctuatie, numere, etc.), se inlocuiesc adresele web cu `WEB`, formele prescurtate se scriu pe lung si in final se lematizeaza tokenele
+- se aplica un **tfidf** la nivel de word cu ngrame de (1, 2)
+- antrenam 4 modele **catboost** diferite pentru fiecare label, fiecare cu parametrii finetunati specific (se poate utiliza si `MultiOutputClassifier` din sklearn pentru a reduce codul, dar flexibilitate scazuta)
+- pentru fiecare model antrenat **calculam threshold-ul optim** folosind precision-recall curve: probabilitatea prezisa este intre 0 si 1, in functie de valoarea de la care zicem ca output-ul este 0 sau 1 putem imbunatatii performanta - aceasta este o observatie cheie in rezolvare
 
 ### Task 4: [Skeletons Don’t Lie: Can AI Decode Your Moves?](https://judge.nitro-ai.org/roai-2025/lot-baraj-2/problems/2/task)
 
-Summary: trebuie clasificata pozitia camerei si actiunea executata intr-o serie de video-uri. Un video este reprezentat printr-o serie de coordonate XYZ ale joint-urilor unui om, cate 25 x 3 de coordonate per frame, cu numar variabil de frames per video. PDF-ul [dat](./nlp/skeletons/explicatie.pdf) explica coordonatele date. 
+Summary: trebuie clasificata pozitia camerei si actiunea executata intr-o serie de video-uri. Un video este reprezentat printr-o serie de coordonate XYZ ale joint-urilor unui om, cate 25 x 3 de coordonate per frame, cu numar variabil de frames per video. PDF-ul [dat](./nlp/skeletons/explicatie.pdf) explica coordonatele date.
 
 Explicatie coming soon!
