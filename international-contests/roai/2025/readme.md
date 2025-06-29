@@ -8,12 +8,12 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 
 ## Status
 
-| Task | Score  | Type |
-| ---- | ------ | ---- |
-| 1    | **96** | CV   |
-| 2    | **-**  | CV   |
-| 3    | **-**  | NLP  |
-| 4    | **-**  | NLP  |
+| Task | Score   | Type |
+| ---- | ------- | ---- |
+| 1    | **96**  | CV   |
+| 2    | **-**   | CV   |
+| 3    | **100** | NLP  |
+| 4    | **-**   | NLP  |
 
 ## Explanations
 
