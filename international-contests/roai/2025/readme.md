@@ -42,6 +42,8 @@ Solutie 100/100 (F1 de 0.6991):
 - antrenam 4 modele **catboost** diferite pentru fiecare label, fiecare cu parametrii finetunati specific (se poate utiliza si `MultiOutputClassifier` din sklearn pentru a reduce codul, dar flexibilitate scazuta)
 - pentru fiecare model antrenat **calculam threshold-ul optim** folosind precision-recall curve: probabilitatea prezisa este intre 0 si 1, in functie de valoarea de la care zicem ca output-ul este 0 sau 1 putem imbunatatii performanta - aceasta este o observatie cheie in rezolvare
 
+Solutie 100/100 (F1 de 0.715193): fine-tuning BERT, cred ca se poate lua mult mai mult cu sequence length mai mare (128 pe moment) si mai multe epoci (8 momentan, dar era improvement pana si in ultima epoca).
+
 ### Task 4: [Skeletons Don’t Lie: Can AI Decode Your Moves?](https://judge.nitro-ai.org/roai-2025/lot-baraj-2/problems/2/task)
 
 Summary: trebuie clasificata pozitia camerei si actiunea executata intr-o serie de video-uri. Un video este reprezentat printr-o serie de coordonate XYZ ale joint-urilor unui om, cate 25 x 3 de coordonate per frame, cu numar variabil de frames per video. PDF-ul [dat](./nlp/skeletons/explicatie.pdf) explica coordonatele date.
