@@ -13,7 +13,7 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 | 1    | **96**  | CV   |
 | 2    | **-**   | CV   |
 | 3    | **100** | NLP  |
-| 4    | **-**   | NLP  |
+| 4    | **100**   | NLP  |
 
 ## Explanations
 
