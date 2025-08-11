@@ -1,5 +1,7 @@
 # Nitro NLP
 
+EN: National Competition (hackathon-style) from Romania.
+
 Hackathoanele Nitro NLP rezolvate, ~~_in limita materiei pentru ONIA_~~.
 
 | editia | NLP   | CV  | loc estimat |

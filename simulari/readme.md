@@ -1,6 +1,8 @@
 # simulari
 
-oficiale si ne-oficiale (cram school)
+EN: Mock contests from Romania, usually easier difficulty.
+
+oficiale si neoficiale
 
 | editia       | problema 1 | problema 2 | observatii                                                        | dificultate |
 | ------------ | ---------- | ---------- | ----------------------------------------------------------------- | ----------- |

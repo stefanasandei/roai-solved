@@ -1,29 +1,26 @@
-# Probleme rezolvate
+# Solved Tasks
 
-Aici puteti gasi rezolvarile mele pentru problemele de pe platforma Nitro AI Judge. Acestea sunt de la Olimpiada de Inteligenta Artificiala (judeteana si nationala), sau de la diverse concursuri si simulari.
+Here you can find my solutions for tasks from various IOAI-like contests (including all tasks from Romania's Nitro AI Judge platform). These come from the National AI Olympiads (regional and national rounds) as well as from various competitions and practice contests.
 
-Toate rezolvarile publicate obtin maxim de puncte (100 unde admite problema, altfel cat mai mult) si sunt scrise ordonat, explicativ.
+All published solutions score the maximum possible points (100 where the problem allows, otherwise as high as possible) and are written in a clean, explanatory manner.
 
-Acest repo este in lucru continuu, dureaza pana scriu rezolvarile si explicatiile, le public imediat ce termin.
+This repository is a continuous work in progress — writing up the solutions and explanations takes time, and I publish them as soon as they’re done.
 
-## Lista concursuri rezolvate
+## List of solved competitions
 
-| competitie           | tip                      | editii                |
-| -------------------- | ------------------------ | --------------------- |
-| Simulari OJIA        | simulare                 | 1, 2, 3               |
-| Simulari Cram School | simulare                 | Easter Round, PreONIA |
-| NitroNLP             | concurs national         | 2025, 2024, 2023      |
-| OJIA                 | olimpiada judeteana      | 2025                  |
-| ONIA                 | olimpiada nationala      | 2025                  |
-| RoAI (Selectie Lot)  | lot Romania              | 2024, 2025            |
-| NEOAI                | concurs international    | 2025                  |
-| APOAI                | concurs international    | 2025                  |
-| Polish AI Olympiad   | olimpiada nationala      | 2025                  |
-| IOAI                 | olimpiada internationala | 2024                  |
-| IAIO                 | olimpiada internationala | 2024                  |
+| competition                  | description                                       | editions               |
+| ---------------------------- | ------------------------------------------------- | ---------------------- |
+| NEOAI                        | international AI competition                      | 2025                   |
+| APOAI                        | international AI competition                      | 2025                   |
+| Polish AI Olympiad           | Polish national AI olympiad                       | 2025                   |
+| IOAI                         | International Olympiad in Artificial Intelligence | 2024, 2025             |
+| IAIO                         | International Artificial Intelligence Olympiad    | 2024                   |
+| Mock Contests (Ro: simulari) | practice contests for Romania's AI olympiad       | Easter Round, Pre-ONIA |
+| Romania AI Olympiad          | regional, national and team selection             | 2025                   |
+| NitroNLP                     | Romanian national NLP competition                 | 2025, 2024, 2023       |
 
-[Aici](./00-guide/rezolvari.md) este ideea de baza de la fiecare problema (pentru quick referencing).
+[Here](./00-guide/rezolvari.md) you can find the main idea for each problem (for quick reference).
 
-## Drepturi de autor
+## Copyright
 
-Aceste rezolvari au fost redactate integral de [Asandei Stefan-Alexandru](https://asandei.com). Proiectul este sub licenta [MIT](License).
+These solutions were written entirely by [Asandei Stefan-Alexandru](https://asandei.com). The project is licensed under the [MIT License](License).
