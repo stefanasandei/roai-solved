@@ -8,16 +8,16 @@ This repository is a continuous work in progress — writing up the solutions an
 
 ## List of solved competitions
 
-| competition                  | description                                       | editions               |
-| ---------------------------- | ------------------------------------------------- | ---------------------- |
-| NEOAI                        | international AI competition                      | 2025                   |
-| APOAI                        | international AI competition                      | 2025                   |
-| Polish AI Olympiad           | Polish national AI olympiad                       | 2025                   |
-| IOAI                         | International Olympiad in Artificial Intelligence | 2024, 2025             |
-| IAIO                         | International Artificial Intelligence Olympiad    | 2024                   |
-| Mock Contests (Ro: simulari) | practice contests for Romania's AI olympiad       | Easter Round, Pre-ONIA |
-| Romania AI Olympiad          | regional, national and team selection             | 2025                   |
-| NitroNLP                     | Romanian national NLP competition                 | 2025, 2024, 2023       |
+| competition                  | description                                       | editions         |
+| ---------------------------- | ------------------------------------------------- | ---------------- |
+| IOAI                         | International Olympiad in Artificial Intelligence | 2024, 2025       |
+| IAIO                         | International Artificial Intelligence Olympiad    | 2024             |
+| NEOAI                        | international AI competition                      | 2025             |
+| APOAI                        | international AI competition                      | 2025             |
+| Polish AI Olympiad           | Polish national AI olympiad                       | 2025             |
+| Romania AI Olympiad          | regional, national and team selection             | 2025             |
+| NitroNLP                     | Romanian national competition                     | 2025, 2024, 2023 |
+| Mock Contests (Ro: simulari) | practice contests for Romania's AI olympiad       | many             |
 
 [Here](./00-guide/rezolvari.md) you can find the main idea for each problem (for quick reference).
 

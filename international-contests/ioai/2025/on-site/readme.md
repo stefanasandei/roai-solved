@@ -1,6 +1,7 @@
 # IOAI 2025 on-site
 
 Task archive here: https://github.com/IOAI-official/IOAI-2025
+Dataset archive here: https://huggingface.co/collections/IOAI-official/ioai2025-68c6a0b46123c14f9b720310
 
 ## Status
 
