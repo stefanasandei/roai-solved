@@ -5,6 +5,8 @@
 | score       | 0.6991 / 0.6233 | 0.9690 / 0.9330        | 0.7 / 0.7325    |
 | leaderboard | 8 / 10          | 6 / 10                 | 24 / 23         |
 
+Notation used in cells: `public LB / private LB`
+
 ### 01. Dark Matter
 
 Summary:
