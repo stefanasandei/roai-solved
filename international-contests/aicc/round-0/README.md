@@ -2,12 +2,12 @@
 
 | metric      | 01 Deceptive Points | 02 Brain Tumor | 03 Latent Model Classification |
 | ----------- | ------------------- | -------------- | ------------------------------ |
-| score       | 0                   | 0              | 0                              |
-| leaderboard | 0                   | 0              | 0                              |
+| score       | 0.08244             | 0.78010        | 0                              |
+| leaderboard | 0                   | -              | 0                              |
 
 ### 01. Deceptive Points
 
-Summary:
+Summary: pca, kmeans + huber regression
 
 Explanation:
 
