@@ -2,7 +2,7 @@
 
 | metric      | 01 Deceptive Points | 02 Brain Tumor | 03 Latent Model Classification |
 | ----------- | ------------------- | -------------- | ------------------------------ |
-| score       | 0.08244             | 0.78010        | 0                              |
+| score       | 0.08244             | 0.78010        | 0.98853                        |
 | leaderboard | 0                   | -              | 0                              |
 
 ### 01. Deceptive Points
