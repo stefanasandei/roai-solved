@@ -17,7 +17,9 @@ Explanation:
 
 ### 02. Brain Tumor
 
-Summary:
+Summary: do a pretraining with an SSL framework to learn the embeddings (BYOL was used in the solution), then do a finetune on the few labeled to get the last fully connected layers to learn the embeddings to class correlation; another finetune using pseudo labels can also boost the F1 score by a few points.
+
+SSL frameworks that work: BYOL, FixMatch, VICReg, MuCo. SimCLR isn't recommended since it requires a huge batch size.
 
 Explanation:
 
