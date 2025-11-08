@@ -4,9 +4,11 @@ Link: https://judge.nitro-ai.org/nitro/spooky-round-2025/
 
 explanations coming soon
 
-## Haunt me! 👻: 90p
+## Haunt me! 👻: 99p
 
-CV task: TODO
+CV task
+
+90p with resnet approach, 99p with faster rcnn and mobilenet
 
 ## Spooky Disaster or Creepy Pizza: work in progress
 
