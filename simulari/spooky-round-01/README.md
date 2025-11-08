@@ -4,7 +4,7 @@ Link: https://judge.nitro-ai.org/nitro/spooky-round-2025/
 
 explanations coming soon
 
-## Haunt me! 👻: work in progress
+## Haunt me! 👻: 90p
 
 CV task: TODO
 
