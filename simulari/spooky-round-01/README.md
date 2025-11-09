@@ -14,12 +14,14 @@ CV task
 
 there is another 99p variant with rcnn, it uses feature engineering, TTA, dynamic threshold and other stuff but it still gets lower score than the plain 100p approach
 
-## Spooky Disaster or Creepy Pizza: 66p
+full explanations coming soon!
+
+## Spooky Disaster or Creepy Pizza: 100p
 
 Audio task
 
-likely just needs more training for 100p
+explanations coming soon!
 
 just bi-listm
 
-0.066424 mse at the moment
+MSE: 0.019804
