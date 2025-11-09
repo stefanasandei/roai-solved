@@ -22,6 +22,6 @@ Audio task
 
 explanations coming soon!
 
-just bi-listm
+just bi-listm, note: the size of the embeddings is crucial for being able to properly learn the data (1 is too small, I used 128)
 
-MSE: 0.019804
+MSE: 0.035978
