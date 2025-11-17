@@ -13,7 +13,7 @@ However you should also be able to understand the solutions by reading the noteb
 
 Summary: pca, kmeans + huber regression
 
-Explanation:
+Explanation: todo
 
 ### 02. Brain Tumor
 
@@ -21,10 +21,10 @@ Summary: do a pretraining with an SSL framework to learn the embeddings (BYOL wa
 
 SSL frameworks that work: BYOL, FixMatch, VICReg, MuCo. SimCLR isn't recommended since it requires a huge batch size.
 
-Explanation:
+Explanation: todo
 
 ### 03. Latent Model Classification
 
-Summary:
+Summary: todo
 
-Explanation:
+Explanation: todo
