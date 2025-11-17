@@ -1,4 +1,4 @@
-# ONIOA 2025
+# ONIA 2025
 
 Link: https://judge.nitro-ai.org/roai-2025/onia
 
