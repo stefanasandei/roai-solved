@@ -7,7 +7,7 @@ All published solutions score the maximum possible points (100 where the problem
 This repository is a continuous work in progress — writing up the solutions and explanations takes time, and I publish them as soon as they’re done. If you have any suggestions about contests you want me to solve, please contact me on Discord (stefanasandei).
 
 Repository structure:
-- `contests`: various (smaller) contests, mostly practice contests from Romania
+- `contests`: various (smaller) contests, mostly practice contests from Romania (https://judge.nitro-ai.org/)
 - `national-contests`: national Olympiads that select the teams for IOAI
 - `international-contests`: international Olympiads and other such contests, like NEOAI
 
