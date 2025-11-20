@@ -2,6 +2,8 @@
 
 Link: https://judge.nitro-ai.org/roai-2025/onia
 
+todo: english translations coming soon!
+
 ## 🧔 Om vs AI 🤖: 100p
 
 ### Subtask 1 - clasificare
@@ -18,7 +20,7 @@ Link: https://judge.nitro-ai.org/roai-2025/onia
 - pentru a vizualiza clusterele, sa ne asiguram ca are sens clusteringul, folosim `TSNE` si facem un scatter plot
 - dupa ce am vazut ca arata bine clusterele, afisam cele mai relevante features din fiecare cluster si asignam la mana numele
 
-## 𝁘 Notație Bizantină 𝁑: 77p
+## 𝁘 Notație Bizantină 𝁑: 100p
 
 - se aplica transformari elementare pe datasetul de antrenare (random rotation + color jitter)
 - antrenam un cnn elementar (2 layere conv, max pooling, dropout si la final 2 layere fully connected)
