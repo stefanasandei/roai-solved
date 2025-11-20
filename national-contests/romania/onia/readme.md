@@ -2,6 +2,6 @@
 
 Romania's National Olympiad
 
-| editia | problema 1 | problema 2 |
-| ------ | ---------- | ---------- |
-| 2025   | 100        | 77         |
+| year | task 1 NLP | task 2 CV |
+| ---- | ---------- | --------- |
+| 2025 | 100        | 100       |
