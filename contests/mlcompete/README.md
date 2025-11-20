@@ -8,5 +8,5 @@ Romania's second online judge for IOAI prep: https://platform.olimpiada-ai.ro/
 | Număr de categorii din imagini concatenate                  | concat_img_cat_cnt    | CV        | 70p    |
 | Clasificarea imaginilor: Artă reală vs. artă generată de AI | cls_ai_art            | CV        | 100p   |
 | Predicția stării academice a studenților                    | student_academic_pred | ML        | -      |
-| Predicția performanței școlare                              | school_perf_pred      | ML        | -      |
-| Clasificarea emoțiilor pe baza textului                     | text_emotion_cls      | ML        | -      |
+| Predicția performanței școlare                              | school_perf_pred      | ML        | 100p   |
+| Clasificarea emoțiilor pe baza textului                     | text_emotion_cls      | NLP       | 91p    |

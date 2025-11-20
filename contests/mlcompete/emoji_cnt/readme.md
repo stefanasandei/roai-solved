@@ -1,5 +1,7 @@
 # Count of emojis in an image
 
+Link: https://platform.olimpiada-ai.ro/problems/37
+
 TLDR: an image with white background has several images of random size & position pasted across it, there are also random colored shapes and lines on the image. Count the number of emojis
 
 Solutin (100p):
