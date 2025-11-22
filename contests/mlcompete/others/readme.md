@@ -14,7 +14,7 @@ clarity – claritatea diamantului (gradul incluziunilor, de la cel mai bun la c
 
 This is the trick for 100%.
 
-# Sistem automatizat de evaluare a împrumuturilor: 100p
+## Sistem automatizat de evaluare a împrumuturilor: 100p
 
 [notebook](./imprumuturi.ipynb)
 
@@ -22,6 +22,48 @@ This is the trick for 100%.
 
 explanation todo
 
-# Predicția statusului pacientului - Simulare OJIA 2 (v1): 80p
+[notebook](./intro.ipynb)
+
+## Predicția statusului pacientului - Simulare OJIA 2 (v1): 80p
 
 explanation todo
+
+todo more points
+
+[notebook](./status_pacient.ipynb)
+
+## Diagnosticarea diabetului pe baza analizelor de sânge: 70p
+
+todo more points
+
+[notebook](./diabet.ipynb)
+
+## Predicția producției de energie solară: 100p
+
+explanation todo
+
+[notebook](./energie_solara.ipynb)
+
+## Predictia temperaturii medii zilnice: 98p
+
+todo more points
+
+explanation todo
+
+[notebook](./avg_temp.ipynb)
+
+## Clasificarea tipului de vin: 99p
+
+todo more points
+
+explanation todo
+
+[notebook](./vin.ipynb)
+
+## Clasificarea speciilor de flori Iris: 94p
+
+todo more points
+
+explanation todo
+
+[notebook](./iris.ipynb)
