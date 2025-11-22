@@ -1,0 +1,13 @@
+# other tasks
+
+## Magazinul regal al diamantelor
+
+There is an obvious give away you have to use ordinal encoding:
+```
+cut – calitatea tăieturii (Fair, Good, Very Good, Premium, Ideal)
+(quality in increasing order)
+color – culoarea diamantului (D … J), D fiind cea mai bună
+clarity – claritatea diamantului (gradul incluziunilor, de la cel mai bun la cel mai rău: FL, IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3)
+```
+
+This is the trick for 100%.
