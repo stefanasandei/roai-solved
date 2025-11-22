@@ -10,5 +10,5 @@ Romania's second online judge for IOAI prep: https://platform.olimpiada-ai.ro/
 | Predicția stării academice a studenților                    | [student_academic_pred](./student_academic_pred/)               | ML   | -      |
 | Predicția performanței școlare                              | [school_perf_pred](./school_perf_pred/)                         | ML   | 100p   |
 | Clasificarea emoțiilor pe baza textului                     | [text_emotion_cls](./text_emotion_cls/)                         | NLP  | 91p    |
-| Oracolul similarității textuale                             | [textual_similarity_oracle](./textual_similarity_oracle/)       | NLP  | 69p    |
+| Oracolul similarității textuale                             | [textual_similarity_oracle](./textual_similarity_oracle/)       | NLP  | 97p    |
 | Clasificarea textelor în categorii tematice                 | [text_thematic_classification](./text_thematic_classification/) | NLP  | -      |
