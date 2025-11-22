@@ -17,3 +17,11 @@ This is the trick for 100%.
 # Sistem automatizat de evaluare a împrumuturilor: 100p
 
 [notebook](./imprumuturi.ipynb)
+
+# Intro Python: Transformarea temperaturilor din Celsius în Fahrenheit: 100p
+
+explanation todo
+
+# Predicția statusului pacientului - Simulare OJIA 2 (v1): 80p
+
+explanation todo
