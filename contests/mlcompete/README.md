@@ -12,3 +12,7 @@ Romania's second online judge for IOAI prep: https://platform.olimpiada-ai.ro/
 | Clasificarea emoțiilor pe baza textului                     | [text_emotion_cls](./text_emotion_cls/)                         | NLP  | 91p    |
 | Oracolul similarității textuale                             | [textual_similarity_oracle](./textual_similarity_oracle/)       | NLP  | 97p    |
 | Clasificarea textelor în categorii tematice                 | [text_thematic_classification](./text_thematic_classification/) | NLP  | -      |
+
+Other tasks, labeled as "easy" (more or less), grouped in 1 folder to save space:
+- "Sistem automatizat de evaluare a împrumuturilor"
+- "Magazinul regal al diamantelor"
