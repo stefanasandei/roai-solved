@@ -1,6 +1,8 @@
 # other tasks
 
-## Magazinul regal al diamantelor
+## Magazinul regal al diamantelor: 100p
+
+[notebook](./diamonds.ipynb)
 
 There is an obvious give away you have to use ordinal encoding:
 ```
@@ -11,3 +13,7 @@ clarity – claritatea diamantului (gradul incluziunilor, de la cel mai bun la c
 ```
 
 This is the trick for 100%.
+
+# Sistem automatizat de evaluare a împrumuturilor: 100p
+
+[notebook](./imprumuturi.ipynb)
