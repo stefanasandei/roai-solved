@@ -14,6 +14,12 @@ Romania's second online judge for IOAI prep: https://platform.olimpiada-ai.ro/
 | Clasificarea textelor în categorii tematice                 | [text_thematic_classification](./text_thematic_classification/) | NLP  | 100p   |
 
 Other tasks, labeled as "easy" (more or less), grouped in 1 folder to save space:
-- "Sistem automatizat de evaluare a împrumuturilor"
 - "Magazinul regal al diamantelor"
+- "Sistem automatizat de evaluare a împrumuturilor"
 - "Intro Python: Transformarea temperaturilor din Celsius în Fahrenheit"
+- "Predicția statusului pacientului - Simulare OJIA 2 (v1)"
+- "Diagnosticarea diabetului pe baza analizelor de sânge"
+- "Predicția producției de energie solară"
+- "Predictia temperaturii medii zilnice"
+- "Clasificarea tipului de vin"
+- "Clasificarea speciilor de flori Iris"
