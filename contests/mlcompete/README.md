@@ -6,6 +6,7 @@ Most interesting tasks:
 
 | original task name                         | en slug                                                   | type | solved |
 | ------------------------------------------ | --------------------------------------------------------- | ---- | ------ |
+| Text correction                            | [text_correct](./text_correct/)                           | NLP  | 100p   |
 | Examenul de Rezidențiat                    | [rezi](./rezi/)                                           | NLP  | 92p    |
 | Oracolul similarității textuale            | [textual_similarity_oracle](./textual_similarity_oracle/) | NLP  | 100p   |
 | Segmentarea emoticoanelor                  | [emoji_cnt](./emoji_cnt/)                                 | CV   | 100p   |
@@ -24,6 +25,7 @@ Easier tasks:
 | Clasificarea textelor în categorii tematice                 | [text_thematic_classification](./text_thematic_classification/) | NLP  | 100p   |
 
 Other tasks, labeled as "easy" (more or less), grouped in 1 folder to save space:
+- "Language identification of a text" - TODO
 - "Predicția popularității melodiilor" - TODO
 - "Predicția scorului filmelor" - TODO
 - "Magazinul regal al diamantelor"
