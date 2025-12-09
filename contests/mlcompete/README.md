@@ -12,6 +12,7 @@ Most interesting tasks:
 | Segmentarea emoticoanelor                  | [emoji_cnt](./emoji_cnt/)                                 | CV   | 100p   |
 | Număr de emoji într-o imagine              | [emoji_cnt](./emoji_cnt/)                                 | CV   | 100p   |
 | Număr de categorii din imagini concatenate | [concat_img_cat_cnt](./concat_img_cat_cnt/)               | CV   | 100p   |
+| The archive of a thousand rooms            | [thousand_rooms](./thousand_rooms/)                       | CV   | -      |
 
 Easier tasks:
 
