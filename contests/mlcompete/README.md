@@ -26,7 +26,7 @@ Easier tasks:
 
 Other tasks, labeled as "easy" (more or less), grouped in 1 folder to save space:
 - "Alzheimer’s Diagnosis Prediction System" - TODO
-- "The archive of drawn words" - TODO
+- "The archive of drawn words" - [link](./others/cuvinte.ipynb)
 - "Disney Festival of Cartoons" - TODO
 - "Automated spam email detection system" - TODO
 - "Train delay prediction" - TODO
