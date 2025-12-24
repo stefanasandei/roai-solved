@@ -1,9 +1,9 @@
 # AICC Round 1
 
-| metric      | 01 The Defected Nuts | 02 Autocorrect | 03 Is that audio? |
-| ----------- | -------------------- | -------------- | ----------------- |
-| score       | -                    | -              | -                 |
-| leaderboard | -                    | -              | 0                 |
+| metric   | 01 The Defected Nuts | 02 Autocorrect | 03 Is that audio? |
+| -------- | -------------------- | -------------- | ----------------- |
+| score    | 0.9430               | -              | -                 |
+| baseline | 0.7485               | -              | 0                 |
 
 Only baselines at the moment.
 

@@ -1,9 +1,9 @@
 # AICC Round 0
 
-| metric      | 01 Deceptive Points | 02 Brain Tumor | 03 Latent Model Classification |
-| ----------- | ------------------- | -------------- | ------------------------------ |
-| score       | 0.08244             | 0.78010        | 0.98853                        |
-| leaderboard | -                   | -              | 0                              |
+| metric   | 01 Deceptive Points | 02 Brain Tumor | 03 Latent Model Classification |
+| -------- | ------------------- | -------------- | ------------------------------ |
+| score    | 0.08244             | 0.78010        | 0.98853                        |
+| baseline | -                   | -              | 0                              |
 
 Explanations coming soon, check out Nikoloz Gegenava's write ups in the meantime: https://ioai-community-contest.netlify.app/community
 
