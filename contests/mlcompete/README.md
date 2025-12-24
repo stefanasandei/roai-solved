@@ -13,6 +13,7 @@ Most interesting tasks:
 | Număr de emoji într-o imagine              | [emoji_cnt](./emoji_cnt/)                                 | CV   | 100p   |
 | Număr de categorii din imagini concatenate | [concat_img_cat_cnt](./concat_img_cat_cnt/)               | CV   | 100p   |
 | The archive of a thousand rooms            | [thousand_rooms](./thousand_rooms/)                       | CV   | 27p    |
+| Saving Christmas                           | [saving_christmas](./saving_christmas/)                   | CV   | 100p   |
 
 Easier tasks:
 
