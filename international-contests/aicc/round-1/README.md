@@ -2,8 +2,8 @@
 
 | metric   | 01 The Defected Nuts | 02 Autocorrect | 03 Is that audio? |
 | -------- | -------------------- | -------------- | ----------------- |
-| score    | 0.9430               | -              | -                 |
-| baseline | 0.7485               | -              | 0                 |
+| score    | 0.9430               | -              | 0.7551            |
+| baseline | 0.7485               | -              | 0.7551            |
 
 Only baselines at the moment.
 
