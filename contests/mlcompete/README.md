@@ -26,6 +26,7 @@ Easier tasks:
 | Clasificarea textelor în categorii tematice                 | [text_thematic_classification](./text_thematic_classification/) | NLP  | 100p   |
 
 Other tasks, labeled as "easy" (more or less), grouped in 1 folder to save space:
+- "Identifying the author of some verses" - [link](./others/autor_versuri.ipynb); 74p
 - "Alzheimer’s Diagnosis Prediction System" - TODO
 - "The archive of drawn words" - [link](./others/cuvinte.ipynb)
 - "Disney Festival of Cartoons" - TODO
