@@ -1,6 +1,8 @@
 # Simulare OJIA 1
 
-Link: https://judge.nitro-ai.org/roai-2025/simulare-ojia
+Link: https://judge.nitro-ai.org/competitions/roai-2025/simulare-ojia
+
+(~~https://judge.nitro-ai.org/roai-2025/simulare-ojia~~ TODO update all nitro links)
 
 ## Livrare pachete: 100p
 
