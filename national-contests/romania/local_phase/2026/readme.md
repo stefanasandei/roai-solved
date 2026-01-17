@@ -14,7 +14,7 @@ I calculated the cardiovascular risk score by implementing the provided boolean 
 Similarly to the first subtask, I computed the lifestyle index by summing three conditions: whether `Smoking` is true, if `AlcoholConsumption` is strictly greater than 2, and if `PhysicalActivity` is strictly less than 1 hour per week.
 
 ### Subtask 3
-To handle the classification, I first cleaned the data by dropping non-predictive columns such as `PatientID` and `Ethnicity`. I split the data to validate different models, testing Logistic Regression and Random Forest, but settled on a `CatBoostClassifier` because it yielded the highest AUC. I trained the model with 1000 iterations and a learning rate of 1e-3 on the full training set (utilizing both the provided train data and the calculated risk scores) to generate the final 0/1 predictions for the test set.
+To handle the classification, I first cleaned the data by dropping non-predictive columns such as `PatientID` and `Ethnicity`. I split the data to validate different models, testing Logistic Regression and Random Forest, but settled on a `CatBoostClassifier` because it yielded the highest AUC (important: for AUC use `.predict_proba()[:, 1]`, not just `.predict()`). I trained the model with 1000 iterations and a learning rate of 1e-3 on the full training set (utilizing both the provided train data and the calculated risk scores) to generate the final 0/1 predictions for the test set.
 
 ## "Famous Paintings": 100p
 
