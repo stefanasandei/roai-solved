@@ -49,7 +49,7 @@ subtaskID,datapointID,answer
 Where:
 -   `subtaskID`: Constantly 1 (required by platform format).
 -   `datapointID`: Matches the IDs from the input database.
--   `answer`: \in {0, 1}
+-   `answer`: $\in {0, 1}$
     -   **0** = Model A
     -   **1** = Model B
 
