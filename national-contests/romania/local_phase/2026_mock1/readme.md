@@ -1,5 +1,7 @@
 # Local Phase 2026
 
+This was a simulation for the local phase as part of the IOAI selection.
+
 Link: https://platform.olimpiada-ai.ro/en/competitions/7
 
 ## "Analysis and Classification of Parkinson's Risks and Symptoms": 100p
