@@ -4,63 +4,63 @@ This file contains the short idea to solve all tasks I did.
 
 ## National Olympiads
 
-| country | round           | task              | core idea | type |
-| ------- | --------------- | ----------------- | --------- | ---- |
-| Romania | Regional 2025   | consum caloric    |           | ML   |
-| Romania | Regional 2025   | smart cargo       |           | ML   |
-| Romania | National 2025   | notatie bizantina |           | CV   |
-| Romania | National 2025   | om vs ai          |           | NLP  |
-| Romania | Camp CV 2025    | angry birds       |           | CV   |
-| Romania | Camp CV 2025    | hotspot           |           | CV   |
-| Romania | Camp NLP 2025   | skeletons         |           | NLP  |
-| Romania | Camp NLP 2025   | toxic             |           | NLP  |
-| Poland  | Phase 1 2025    |                   |           |      |
-| Poland  | Phase 1 2025    |                   |           |      |
-| Poland  | Phase 1 2025    |                   |           |      |
-| Poland  | Phase 1 2025    |                   |           |      |
-| Poland  | Phase 1 2025    |                   |           |      |
-| Poland  | Phase 2 2025    | borrowing         |           |      |
-| Poland  | Phase 2 2025    | non-normal dist   |           |      |
-| Poland  | Phase 2 2025    | source extraction |           |      |
-| Romania | Local ROAI 2026 | calitate sol      |           | ML   |
-| Romania | Local ROAI 2026 | anpc              |           | ML   |
-| Georgia | ML Round 1 2026 | data reduction    |           | ML   |
-| Georgia | ML Round 1 2026 | memory trace      |           | ML   |
-| Georgia | ML Round 1 2026 | planet x          |           | ML   |
-| Poland  | Phase 1 2026    |                   |           |      |
-| Poland  | Phase 1 2026    |                   |           |      |
-| Poland  | Phase 1 2026    |                   |           |      |
-| Poland  | Phase 1 2026    |                   |           |      |
-| Poland  | Phase 1 2026    |                   |           |      |
+| country | round           | task                       | core idea                                          | type  |
+| ------- | --------------- | -------------------------- | -------------------------------------------------- | ----- |
+| Romania | Regional 2025   | consum caloric             |                                                    | ML    |
+| Romania | Regional 2025   | smart cargo                |                                                    | ML    |
+| Romania | National 2025   | notatie bizantina          |                                                    | CV    |
+| Romania | National 2025   | om vs ai                   |                                                    | NLP   |
+| Romania | Camp CV 2025    | angry birds                | work in progress                                   | CV    |
+| Romania | Camp CV 2025    | hotspot                    |                                                    | CV    |
+| Romania | Camp NLP 2025   | skeletons                  |                                                    | NLP   |
+| Romania | Camp NLP 2025   | toxic                      |                                                    | NLP   |
+| Poland  | Phase 1 2025    | coin counting machine      | work in progress                                   | CV    |
+| Poland  | Phase 1 2025    | hallucination detection    | work in progress                                   | NLP   |
+| Poland  | Phase 1 2025    | ECG signal disturbances    | work in progress                                   | ML    |
+| Poland  | Phase 1 2025    | noise in data labels       | work in progress                                   | CV    |
+| Poland  | Phase 1 2025    | hidden substrings          | work in progress                                   | NLP   |
+| Poland  | Phase 2 2025    | borrowing                  | work in progress                                   | ML    |
+| Poland  | Phase 2 2025    | non-normal dist            | multi-task CV model + encoder-decoder architecture | CV    |
+| Poland  | Phase 2 2025    | source extraction          |                                                    | NLP   |
+| Romania | Local ROAI 2026 | calitate sol               |                                                    | ML    |
+| Romania | Local ROAI 2026 | anpc                       |                                                    | ML    |
+| Georgia | ML Round 1 2026 | data reduction             | work in progress                                   | ML    |
+| Georgia | ML Round 1 2026 | memory trace               |                                                    | ML    |
+| Georgia | ML Round 1 2026 | planet x                   |                                                    | ML    |
+| Poland  | Phase 1 2026    | convolution filters        | work in progress                                   | CV    |
+| Poland  | Phase 1 2026    | multi-label classification | work in progress                                   | CV    |
+| Poland  | Phase 1 2026    | whisper or scream          | work in progress                                   | Audio |
+| Poland  | Phase 1 2026    | semantic changes           | work in progress                                   | NLP   |
+| Poland  | Phase 1 2026    | multispectral segmentation | work in progress                                   | CV    |
 
 ## International Contests
 
-| contest           | task                              | core idea | type |
-| ----------------- | --------------------------------- | --------- | ---- |
-| NEOAI 2025        | tracy tables                      |           | ML   |
-| NEOAI 2025        | underfitting cv                   |           | CV   |
-| NEOAI 2025        | evading ai text detection         |           | NLP  |
-| NEOAI 2025        | cluster images                    |           | ML   |
-| NEOAI 2025        | broken bert                       |           | NLP  |
-| NEOAI 2025        | hogspell challenge                |           | CV   |
-| NEOAI 2025        | cuties segmentation               |           | CV   |
-| NEOAI 2025        | intent detection and slot filling |           | NLP  |
-| APOAI Mock 2025   | basketball                        |           | ML   |
-| APOAI Mock 2025   | text                              |           | NLP  |
-| APOAI Mock 2025   | pendulum                          |           | ML   |
-| APOAI Mock 2025   | classifier                        |           | CV   |
-| IOAI At-Home 2025 | radar                             |           | CV   |
-| IOAI At-Home 2025 | weather                           |           | CV   |
-| IOAI At-Home 2025 | chameleon                         |           | NLP  |
-| IOAI Mock 2025    | dark matter                       |           | CV   |
-| IOAI Mock 2025    | chem simulation                   |           | ML   |
-| IOAI Mock 2025    | grid collage                      |           | CV   |
-| IOAI Day 1 2025   | radar                             |           | CV   |
-| IOAI Day 1 2025   | chicken counting                  |           | CV   |
-| IOAI Day 1 2025   | concepts                          |           | NLP  |
-| IOAI Day 2 2025   | restroom                          |           | CV   |
-| IOAI Day 2 2025   | antique                           |           | ML   |
-| IOAI Day 2 2025   | pixel                             |           | CV   |
+| contest           | task                              | core idea                                       | type |
+| ----------------- | --------------------------------- | ----------------------------------------------- | ---- |
+| NEOAI 2025        | tracy tables                      | feature engineering                             | ML   |
+| NEOAI 2025        | underfitting cv                   | hyperparam tuning + KV divergence loss          | CV   |
+| NEOAI 2025        | evading ai text detection         | LLM steering + sparse autoencoders              | NLP  |
+| NEOAI 2025        | cluster images                    | torch.bmm trick                                 | ML   |
+| NEOAI 2025        | broken bert                       |                                                 | NLP  |
+| NEOAI 2025        | hogspell challenge                | stable diffusion finetune (dreambooth training) | CV   |
+| NEOAI 2025        | cuties segmentation               | classifier for CLIP activations (CLIPSeg)       | CV   |
+| NEOAI 2025        | intent detection and slot filling |                                                 | NLP  |
+| APOAI Mock 2025   | basketball                        | MLP training                                    | ML   |
+| APOAI Mock 2025   | text                              | tfidf                                           | NLP  |
+| APOAI Mock 2025   | pendulum                          | physics informed neural network                 | ML   |
+| APOAI Mock 2025   | classifier                        | CNN training                                    | CV   |
+| IOAI At-Home 2025 | radar                             |                                                 | CV   |
+| IOAI At-Home 2025 | weather                           |                                                 | CV   |
+| IOAI At-Home 2025 | chameleon                         |                                                 | NLP  |
+| IOAI Mock 2025    | dark matter                       |                                                 | CV   |
+| IOAI Mock 2025    | chem simulation                   |                                                 | ML   |
+| IOAI Mock 2025    | grid collage                      |                                                 | CV   |
+| IOAI Day 1 2025   | radar                             |                                                 | CV   |
+| IOAI Day 1 2025   | chicken counting                  |                                                 | CV   |
+| IOAI Day 1 2025   | concepts                          |                                                 | NLP  |
+| IOAI Day 2 2025   | restroom                          |                                                 | CV   |
+| IOAI Day 2 2025   | antique                           |                                                 | ML   |
+| IOAI Day 2 2025   | pixel                             |                                                 | CV   |
 
 [AI Community Contest](https://ioai-community-contest.netlify.app/contests):
 
@@ -81,58 +81,58 @@ This file contains the short idea to solve all tasks I did.
 
 ## Nitro Judge Contests
 
-| competition                 | task                    | core idea | type   |
-| --------------------------- | ----------------------- | --------- | ------ |
-| Simulare OJIA 1 2025        | livrare pachete         |           | ML     |
-| Simulare OJIA 1 2025        | credit score            |           | ML     |
-| Nitro NLP 2025              | mickey si donald        |           | NLP    |
-| Nitro NLP 2025              | find the ducks          |           | CV     |
-| BCS Easter Round 2025       | cybersecurity ai        |           | ML     |
-| BCS Easter Round 2025       | brain anomaly detection |           | CV     |
-| Simulare OJIA 2 2025        | status pacient          |           | ML     |
-| Simulare OJIA 2 2025        | pret casa               |           | ML     |
-| Simulare OJIA 3 2025        | admitere liceu          |           | ML     |
-| Simulare OJIA 3 2025        | scor examen             |           | ML     |
-| BCS PreONIA 2025            | quadrilingual land      |           | NLP    |
-| BCS PreONIA 2025            | reality filter          |           | CV     |
-| BCS Beginner 1 2025         | fitness level           |           | ML     |
-| BCS Beginner 1 2025         | strength level          |           | ML     |
-| BCS Intermediate 1 2025     | are you a robot         |           | NLP    |
-| BCS Intermediate 1 2025     | autovalue car prices    |           | ML     |
-| BCS Intermediate 1 2025     | smart waste classifier  |           | CV     |
-| Spooky Round 2025           | haunt me                |           | CV     |
-| Spooky Round 2025           | creepy pizza            |           | Audio  |
-| BCS Training Special 2025   | mnemon-dream arch       |           | CV+NLP |
-| BCS Training Special 2025   | grid based pathfinding  |           | ML     |
-| BCS Training Special 2025   | code blue protocol      |           | ML     |
-| Algolymp Winter 2025        | the grinch incident     |           | CV     |
-| Algolymp Winter 2025        | save the Christmas      |           | NLP    |
-| Decebal Tech 2025           | sami                    |           | CV     |
-| Decebal Tech 2025           | riki                    |           | NLP    |
-| BCS Beginner 2 2026         | gigel and llms          |           | NLP    |
-| BCS Beginner 2 2026         | gigel and admission     |           | ML     |
-| Algolymp PreOJIA 9-10 2026  |                         |           |        |
-| Algolymp PreOJIA 9-10 2026  |                         |           |        |
-| Algolymp PreOJIA 11-12 2026 |                         |           |        |
-| Algolymp PreOJIA 11-12 2026 |                         |           |        |
-| CEOAI Practice Round 1 2026 |                         |           |        |
-| CEOAI Practice Round 1 2026 |                         |           |        |
-| CEOAI Practice Round 1 2026 |                         |           |        |
+| competition                 | task                    | core idea                                                         | type   |
+| --------------------------- | ----------------------- | ----------------------------------------------------------------- | ------ |
+| Simulare OJIA 1 2025        | livrare pachete         | plain linear regression                                           | ML     |
+| Simulare OJIA 1 2025        | credit score            | FE (dummy encoding, drop useless, date parsing)                   | ML     |
+| Nitro NLP 2025              | mickey si donald        |                                                                   | NLP    |
+| Nitro NLP 2025              | find the ducks          |                                                                   | CV     |
+| BCS Easter Round 2025       | cybersecurity ai        | datetime features, fill missing                                   | ML     |
+| BCS Easter Round 2025       | brain anomaly detection | basic image classifier                                            | CV     |
+| Simulare OJIA 2 2025        | status pacient          | FE (drop useless, ordinal encoding, dummy encoding)               | ML     |
+| Simulare OJIA 2 2025        | pret casa               | FE (drop useless), ensemble model                                 | ML     |
+| Simulare OJIA 3 2025        | admitere liceu          | FE (drop useless)                                                 | ML     |
+| Simulare OJIA 3 2025        | scor examen             | FE (drop useless, ordinal encoding, dummy encoding), fill missing | ML     |
+| BCS PreONIA 2025            | quadrilingual land      | text cleaning, tfidf, clustering                                  | NLP    |
+| BCS PreONIA 2025            | reality filter          | CNN classifier                                                    | CV     |
+| BCS Beginner 1 2025         | fitness level           |                                                                   | ML     |
+| BCS Beginner 1 2025         | strength level          |                                                                   | ML     |
+| BCS Intermediate 1 2025     | are you a robot         |                                                                   | NLP    |
+| BCS Intermediate 1 2025     | autovalue car prices    | work in progress                                                  | ML     |
+| BCS Intermediate 1 2025     | smart waste classifier  |                                                                   | CV     |
+| Spooky Round 2025           | haunt me                |                                                                   | CV     |
+| Spooky Round 2025           | creepy pizza            |                                                                   | Audio  |
+| BCS Training Special 2025   | mnemon-dream arch       |                                                                   | CV+NLP |
+| BCS Training Special 2025   | grid based pathfinding  | work in progress                                                  | ML     |
+| BCS Training Special 2025   | code blue protocol      | work in progress                                                  | ML     |
+| Algolymp Winter 2025        | the grinch incident     | work in progress                                                  | CV     |
+| Algolymp Winter 2025        | save the Christmas      | work in progress                                                  | NLP    |
+| Decebal Tech 2025           | sami                    |                                                                   | CV     |
+| Decebal Tech 2025           | riki                    | work in progress                                                  | NLP    |
+| BCS Beginner 2 2026         | gigel and llms          | work in progress                                                  | NLP    |
+| BCS Beginner 2 2026         | gigel and admission     | work in progress                                                  | ML     |
+| Algolymp PreOJIA 9-10 2026  |                         |                                                                   |        |
+| Algolymp PreOJIA 9-10 2026  |                         |                                                                   |        |
+| Algolymp PreOJIA 11-12 2026 |                         |                                                                   |        |
+| Algolymp PreOJIA 11-12 2026 |                         |                                                                   |        |
+| CEOAI Practice Round 1 2026 |                         |                                                                   |        |
+| CEOAI Practice Round 1 2026 |                         |                                                                   |        |
+| CEOAI Practice Round 1 2026 |                         |                                                                   |        |
 
 ## MLCompete
 
 Contests:
 
-| competition                 | task                 | core idea | type |
-| --------------------------- | -------------------- | --------- | ---- |
-| ONIA Winter Warmup 2025     | rabbit exhibition    |           | ML   |
-| ONIA Winter Warmup 2025     | magic of words       |           | NLP  |
-| ONIA Winter Warmup 2025     | glitch hunter        |           | CV   |
-| Local Stage Simulation 2026 | paintings            |           | ML   |
-| Local Stage Simulation 2026 | parkinson            |           | ML   |
-| Local Stage Simulation 2026 | transport            |           | ML   |
-| "Unirea" College Round 2026 | bac under scrutiny   |           | ML   |
-| "Unirea" College Round 2026 | petronel the cyclist |           | ML   |
+| competition                 | task                 | core idea        | type |
+| --------------------------- | -------------------- | ---------------- | ---- |
+| ONIA Winter Warmup 2025     | rabbit exhibition    |                  | ML   |
+| ONIA Winter Warmup 2025     | magic of words       |                  | NLP  |
+| ONIA Winter Warmup 2025     | glitch hunter        |                  | CV   |
+| Local Stage Simulation 2026 | paintings            |                  | ML   |
+| Local Stage Simulation 2026 | parkinson            |                  | ML   |
+| Local Stage Simulation 2026 | transport            |                  | ML   |
+| "Unirea" College Round 2026 | bac under scrutiny   |                  | ML   |
+| "Unirea" College Round 2026 | petronel the cyclist | work in progress | ML   |
 
 Most interesting/useful tasks:
 
