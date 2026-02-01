@@ -44,7 +44,3 @@ Ideea de rezolvare de la fiecare problema
 | APOAI 2025  | classifier              | CNN training                                       |
 | APOAI 2025  | text                    | tfidf                                              |
 | APOAI 2025  | pendulum                | physics informed neural network                    |
-
-## Missing tasks
-
-3 tasks still work in progress (WIP)
