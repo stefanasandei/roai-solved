@@ -6,8 +6,8 @@ This file contains the short idea to solve all tasks I did.
 
 | country | round           | task                       | core idea                                          | type  |
 | ------- | --------------- | -------------------------- | -------------------------------------------------- | ----- |
-| Romania | Regional 2025   | consum caloric             | feature engineering, linear regression             | ML    |
-| Romania | Regional 2025   | smart cargo                | feature engineering, linear regression             | ML    |
+| Romania | Regional 2025   | consum caloric             | feature engineering (poly), linear regression      | ML    |
+| Romania | Regional 2025   | smart cargo                | feature engineering (dummy), linear regression     | ML    |
 | Romania | National 2025   | notatie bizantina          | image processing, CNN classifier                   | CV    |
 | Romania | National 2025   | om vs ai                   | text cleaning, tfidf, clustering                   | NLP   |
 | Romania | Camp CV 2025    | angry birds                | work in progress                                   | CV    |
