@@ -46,7 +46,7 @@ Starting from beginner with texts in tabular datasets, to working with deep lear
 | ONIA 2025               | om vs ai                                                           | text cleaning (1) + tfidf, models (2)       |
 | ROAI 2025               | toxic                                                              | text cleaning (2) + tfidf, models (3)       |
 | MLCompete               | verses author                                                      | nlp feature engineering, text cleaning (3)  |
-| Algolymp Winter Round   | idk man                                                            | named entity recognition                    |
+| Algolymp Winter Round   | Save the Christmas                                                 | named entity recognition                    |
 | ROAI 2025               | skeletons                                                          | recurrent neural networks, sequence data    |
 | Poland Phase 2 2025     | source extraction                                                  | embeddings (1)                              |
 | MLCompete               | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - but with mid score         |
