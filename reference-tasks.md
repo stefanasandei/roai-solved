@@ -35,3 +35,68 @@ Resources (easy, short -> hard, long), some might be overkill in the beginning, 
 
 If you want more practice, I recommend the ML tasks from [AICC](https://ioai-community-contest.netlify.app/contests) (their focus is on EDA and theory), as well as the OJIA-level ML rounds from [Nitro Judge](https://judge.nitro-ai.org/competitions).
 
+## Natural Language Processing
+
+Starting from beginner with texts in tabular datasets, to working with deep learning generative models. For language processing, you can use NLTK.
+
+| competition             | task                                                               | what you'll learn                           |
+| ----------------------- | ------------------------------------------------------------------ | ------------------------------------------- |
+| Nitro NLP 2025          | mickey si donald                                                   | tfidf, models (1)                           |
+| BCS Intermediate 1 2025 | are you a robot                                                    | language processing, tfidf                  |
+| ONIA 2025               | om vs ai                                                           | text cleaning (1) + tfidf, models (2)       |
+| ROAI 2025               | toxic                                                              | text cleaning (2) + tfidf, models (3)       |
+| MLCompete               | verses author                                                      | nlp feature engineering, text cleaning (3)  |
+| Algolymp Winter Round   | idk man                                                            | named entity recognition                    |
+| ROAI 2025               | skeletons                                                          | recurrent neural networks, sequence data    |
+| Poland Phase 2 2025     | source extraction                                                  | embeddings (1)                              |
+| MLCompete               | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - but with mid score         |
+| NEOAI 2025              | broken bert                                                        | embeddings (3)                              |
+| ROAI 2025               | toxic (again)                                                      | model finetuning (1), Bert                  |
+| MLCompete               | [Text correction](https://platform.olimpiada-ai.ro/en/problems/46) | model finetuning (2), T5                    |
+| AICC Round 2            | essay gap                                                          | model finetuning (3), Bert                  |
+| MLCompete               | Residency Exam (again for full score)                              | LLMs - local vLLM inference or using an API |
+| NEOAI 2025              | evading ai text detection                                          | LLM steering + sparse autoencoders          |
+
+## Computer Vision
+
+For image processing tasks, I highly recommend solving them using *only* OpenCV. 
+
+| competition                 | task                          | what you'll learn                  |
+| --------------------------- | ----------------------------- | ---------------------------------- |
+| MLCompete                   | Real Art vs. AI-Generated Art | CNN classification                 |
+| MLCompete                   | Saving Christmas              | pretrained CNN regression          |
+| ROAI 2025                   | hotspot                       | image preprocessing (1)            |
+| ONIA 2025                   | notatie bizantina             | image processing (2)               |
+| Decebal Tech 2025           | sami                          | image processing (3)               |
+| Algolymp PreOJIA 11-12 2026 | lunar craters                 | image processing (4)               |
+| Poland Phase 2 2025         | non-normal dist               | encoder-decoder architecture       |
+| ONIA Winter Warmup 2025     | glitch hunter                 | binary segmentation using UNet (1) |
+| IOAI At-Home 2025           | weather                       | UNet (2) + advanced modules + TTA  |
+| IOAI At-Home 2025           | radar                         | encoder-decoder, focal loss        |
+| Spooky Round 2025           | haunt me                      | object detection (1), faster rcnn  |
+| Nitro NLP 2025              | find the ducks                | object detection (2), yolo         |
+| AICC Round 2                | face matching                 | CLIP (1), embeddings retrieval     |
+| ONIA Winter Warmup 2025     | magic of words                | CLIP (2), finetune                 |
+| NEOAI 2025                  | cuties segmentation           | CLIP (3), CLIPSeg                  |
+| IOAI Day 2 2025             | restroom                      | CLIP (4), CLIPReID                 |
+| IOAI Day 2 2025             | pixel                         | CLIP (5), MaskCLIP                 |
+| NEOAI 2025                  | hogspell challenge            | stable diffusion finetune          |
+| MLCompete                   | thousand rooms                | vqa                                |
+
+## Audio
+
+| competition       | task           | what you'll learn             |
+| ----------------- | -------------- | ----------------------------- |
+| AICC Round 3      | soud of nature | melspectogram classification  |
+| Spooky Round 2025 | creepy pizza   | lstm for sound classification |
+| AICC Round 2      | demixing audio | unet for sounds               |
+
+## Deep Learning
+
+| competition      | task              | what you'll learn                         |
+| ---------------- | ----------------- | ----------------------------------------- |
+| NEOAI 2025       | underfitting cv   | hyperparam tuning + KV divergence loss    |
+| AICC Round 0     | find brain tumors | self supervised learning (BYOL, FixMatch) |
+| IOAI Mock 2025   | grid collage      | pseudo labeling                           |
+| AICC Round 1     | the defected nuts | anomaly detection                         |
+| CEOAI Practice 1 | star observatory  | knowledge distillation                    |

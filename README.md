@@ -3,7 +3,7 @@
 Here you can find my solutions for tasks from various IOAI-like contests (including all tasks from Romania's Nitro AI Judge platform). These come from the National AI Olympiads (regional and national rounds) as well as from various competitions and practice contests.
 
 Useful files:
-- [reference tasks](./reference-tasks.md): want to learn competitive AI? I chose a list of tasks to get you from zero to hero
+<!-- - [reference tasks](./reference-tasks.md): want to learn competitive AI? I chose a list of tasks to get you from zero to hero WORK IN PROGRESS -->
 - [reference solutions](./reference-solutions.md): a quick look-up of the core idea used to solve each task
 
 Romanian websites for competitive AI (contests and practice tasks):
@@ -40,5 +40,5 @@ Check [reference solutions](./reference-solutions.md) for a full list.
 
 ## Copyright
 
-These solutions were written entirely by [Asandei Stefan-Alexandru](https://asandei.com). The project is licensed under the [MIT License](License).
+These solutions were written entirely by [Asandei Stefan-Alexandru](https://asandei.com). The project is licensed under the [MIT License](LICENSE).
 
