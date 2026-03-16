@@ -1,4 +1,4 @@
-# Olimpiada Nationala de Inteligenta Artificiala
+# National Phase
 
 Romania's National Olympiad
 

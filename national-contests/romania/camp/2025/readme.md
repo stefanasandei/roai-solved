@@ -1,5 +1,7 @@
 # RoAI 2025
 
+TODO: Translate in ENGLISH
+
 Lot Baraj 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
 
 Lot Baraj 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
@@ -13,7 +15,7 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 | 1    | **96**  | CV   |
 | 2    | **-**   | CV   |
 | 3    | **100** | NLP  |
-| 4    | **100**   | NLP  |
+| 4    | **100** | NLP  |
 
 ## Explanations
 
