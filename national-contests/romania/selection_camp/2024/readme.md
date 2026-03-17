@@ -1,5 +1,7 @@
 # RoAI 2024
 
+Kept for archival purposes only.
+
 ## Status
 
 | NLP task | CV task |
