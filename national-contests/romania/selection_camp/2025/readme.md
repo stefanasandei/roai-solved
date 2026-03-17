@@ -1,12 +1,12 @@
-# RoAI 2025
+# Selection Camp 2025
 
-TODO: Translate in ENGLISH
+Selection Round 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
 
-Lot Baraj 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
+Selection Round 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
 
-Lot Baraj 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
+Selection Round 3 (Theory): https://olimpiada.nitro-ai.org/2025/lot/subiecte-teorie.pdf
 
-In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-docs.olimpiada-ai.ro/. In caz de orice, am salvat zip-urile intr-o arhiva pe Google Drive, sa nu se piarda: https://drive.google.com/drive/folders/1CscTLaJADKRQASn3s7UeTFpSbrkNt7TQ?usp=sharing
+During the contests, the datasets could be downloaded from http://roai-docs.olimpiada-ai.ro/. Just in case, I saved the zips in a Google Drive archive so they are not lost: https://drive.google.com/drive/folders/1CscTLaJADKRQASn3s7UeTFpSbrkNt7TQ?usp=sharing
 
 ## Status
 
@@ -21,35 +21,35 @@ In timpul contest-urilor, dataset-urile s-au putut descarca de pe http://roai-do
 
 ### Task 1: [HotSpot](https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-1/1/view)
 
-Summary: Se dau 4 liste de imagini de tip fundal negru + forme geometrice colorate, treptat se adauga si elemente de noise. Trebuie calculate binary segmentation masks doar pentru formele geometrice.
+Summary: 4 lists of images are provided, consisting of black backgrounds + colored geometric shapes; noise elements are gradually added. Binary segmentation masks must be calculated only for the geometric shapes.
 
-Solutie 96/100: Nu folosim niciun model, se foloseste doar preprocesare de imagini cu OpenCV. Pentru fiecare imagine facem grayscale, median blur (astfel ajuta la noise + stripes) apoi thresholding (valoare diferita pentru subtask 4). Se proceseaza fiecare imagine, apoi cream RLE si se scrie solutia.
+Solution 96/100: No model is used; only image preprocessing with OpenCV. For each image, we apply grayscale, median blur (to handle noise + stripes), then thresholding (using a different value for subtask 4). Each image is processed, then RLEs are created and the solution is written.
 
-Solutie 100/100: Explicatie coming soon!
+Solution 100/100: Explanation coming soon!
 
 ### Task 2: [Angry Birds](https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-1/2/view)
 
-Summary: Se da un resnet50 si trebuie finetunat pentru a clasifica 2 tipuri de imagini: pasare de apa sau pasare de pamant. S-au adaugat elemente la dataset pentru a ingreuna: un patrat rosu intr-o pozitie random s-a adaugat la imagini cu pasare de pamant (doar in traning set). Exista imagini cu pasare de apa, pe fundal de pamant/apa si pasare de pamant pe fundal de apa/pamant. Datasetul train este imbalanced pentru aceste tipuri de pasare/fundal. Evaluarea se face pe baza celei mai slabe acuratete dintre cele 4 clase: pasare de apa/pamant pe fundal apa/pamant.
+Summary: A ResNet50 is provided and must be fine-tuned to classify 2 types of images: water bird or land bird. Elements were added to the dataset to increase difficulty: a red square in a random position was added to land bird images (only in the training set). There are images of water birds on land/water backgrounds and land birds on water/land backgrounds. The training dataset is imbalanced regarding these bird/background types. Evaluation is based on the lowest accuracy among the 4 classes: water/land bird on water/land background.
 
-Explicatie coming soon!
+Explanation coming soon!
 
 ### Task 3: [How Toxic Are You Online? ](https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-2/1/view)
 
-Summary: se da un dataset cu comentarii online, trebuie clasificat fiecare comentariu daca este toxic/severe_toxic/obscene/insult.
+Summary: A dataset with online comments is provided; each comment must be classified as toxic/severe_toxic/obscene/insult.
 
-Solutie 100/100 (F1 de 0.6991):
+Solution 100/100 (F1 of 0.6991):
 
-- se preproceseaza textul: se scot caractere inutile (punctuatie, numere, etc.), se inlocuiesc adresele web cu `WEB`, formele prescurtate se scriu pe lung si in final se lematizeaza tokenele
-- se aplica un **tfidf** la nivel de word cu ngrame de (1, 2)
-- antrenam 4 modele **catboost** diferite pentru fiecare label, fiecare cu parametrii finetunati specific (se poate utiliza si `MultiOutputClassifier` din sklearn pentru a reduce codul, dar flexibilitate scazuta)
-- pentru fiecare model antrenat **calculam threshold-ul optim** folosind precision-recall curve: probabilitatea prezisa este intre 0 si 1, in functie de valoarea de la care zicem ca output-ul este 0 sau 1 putem imbunatatii performanta - aceasta este o observatie cheie in rezolvare
+- The text is preprocessed: unnecessary characters (punctuation, numbers, etc.) are removed, web addresses are replaced with `WEB`, contractions are expanded, and finally, tokens are lemmatized.
+- A word-level **tfidf** with n-grams of (1, 2) is applied.
+- We train 4 different **catboost** models for each label, each with specifically fine-tuned parameters (sklearn's `MultiOutputClassifier` could be used to reduce code, but it offers less flexibility).
+- For each trained model, we **calculate the optimal threshold** using the precision-recall curve: the predicted probability is between 0 and 1; performance can be improved depending on the threshold value used to determine a 0 or 1 output—this is a key observation in the solution.
 
-Solutie 100/100 (F1 de 0.734313): fine-tuning BERT, cred ca se poate lua mult mai mult cu sequence length mai mare (128 pe moment) si mai multe epoci (8 momentan, dar era improvement pana si in ultima epoca).
+Solution 100/100 (F1 of 0.734313): fine-tuning BERT; I believe a much higher score can be achieved with a larger sequence length (currently 128) and more epochs (currently 8, but improvement was still visible in the final epoch).
 
 ### Task 4: [Skeletons Don’t Lie: Can AI Decode Your Moves?](https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-2/2/view)
 
-Summary: trebuie clasificata pozitia camerei si actiunea executata intr-o serie de video-uri. Un video este reprezentat printr-o serie de coordonate XYZ ale joint-urilor unui om, cate 25 x 3 de coordonate per frame, cu numar variabil de frames per video. PDF-ul [dat](./nlp/skeletons/explicatie.pdf) explica coordonatele date.
+Summary: Camera position and the executed action must be classified in a series of videos. A video is represented by a sequence of XYZ coordinates for human joints (25 x 3 coordinates per frame), with a variable number of frames per video. The [provided PDF](./nlp/skeletons/explicatie.pdf) explains the coordinate system.
 
-Explicatie coming soon!
+Explanation coming soon!
 
 <!-- 100p sub: https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-2/2/submissions/25bdda25-576f-4180-8aae-43a77249771f -->
