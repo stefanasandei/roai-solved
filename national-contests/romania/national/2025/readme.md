@@ -1,37 +1,33 @@
-# ONIA 2025
+# National Phase 2025
 
-Link: https://judge.nitro-ai.org/roai-2025/onia
+Link: https://judge.nitro-ai.org/competitions/roai-2025/onia
 
-todo: english translations coming soon!
+## 🧔 Human vs AI 🤖: 100p
 
-## 🧔 Om vs AI 🤖: 100p
+### Subtask 1 - classification
 
-### Subtask 1 - clasificare
-
-- curatare minima a textului (litere mici + fara spatii la inceput si final), acest lucru este necesar deoarce caractere de "noise" pot fi un indicator bun daca un text este generat de AI sau nu (exemplu: chatgpt scrie mereu corect cu toate semnele de punctuatie, foloseste multe emoji, mai foloseste si caractere unicode specifice, etc.)
-- se foloseste un tf idf vectorizer, pe _caractere_ (`analyzer='char_wb'`), acest lucru este relevant deoarece vrem features distincte pentru semne de punctuatie, caractere unicode, etc.
-- se aplica un `LinearSVC` si iesa de maxim
+- minimal text cleaning (lowercase + no leading/trailing spaces); this is necessary because "noise" characters can be strong indicators of whether text is AI-generated (e.g., ChatGPT consistently uses correct punctuation, frequent emojis, specific unicode characters, etc.)
+- a TF-IDF vectorizer is used on _characters_ (`analyzer='char_wb'`); this is relevant as we want distinct features for punctuation, unicode characters, etc.
+- a `LinearSVC` is applied and yields the maximum score
 
 ### Subtask 2 - clustering
 
-- acum vom aplica o curatare traditionala a textului (fara stop words si punctuatie, stemming)
-- se foloseste un tfidf banal
-- facem clustering, cu kmeans, de pe feature-urile de la tfidf
-- pentru a vizualiza clusterele, sa ne asiguram ca are sens clusteringul, folosim `TSNE` si facem un scatter plot
-- dupa ce am vazut ca arata bine clusterele, afisam cele mai relevante features din fiecare cluster si asignam la mana numele
+- traditional text cleaning is applied (removing stop words and punctuation, stemming)
+- a standard TF-IDF is used
+- clustering is performed using K-Means on the TF-IDF features
+- to visualize the clusters and ensure the clustering makes sense, we use `TSNE` and create a scatter plot
+- after verifying that the clusters look correct, we display the most relevant features from each cluster and manually assign names
 
-## 𝁘 Notație Bizantină 𝁑: 100p
+## Byzantine Notation: 100p
 
-- se aplica transformari elementare pe datasetul de antrenare (random rotation + color jitter)
-- antrenam un cnn elementar (2 layere conv, max pooling, dropout si la final 2 layere fully connected)
-- decurge smooth partea de antrenare
+- elementary transformations are applied to the training dataset (random rotation + color jitter)
+- a basic CNN is trained (2 conv layers, max pooling, dropout, and finally 2 fully connected layers)
+- the training phase proceeds smoothly
 
-partea interesanta vine la crearea submisiei:
+the interesting part occurs during submission creation:
 
-- avand mai multe neume per imagine, trebuie cumva sa le selectam (modelul nostru lucreaza _doar_ cu imagini grayscale 48x48 cu o singura neuma)
-- folosind opencv, mai intai binarizam imaginea - adica o facem doar in alb si negru (remove background), asta se face cu un thresholding si un blurring
-- dupa ce avem imaginea curata, folosim functia `findContours` din opencv pentru a gasi obiectele distincte
-- pentru fiecare contur, folosind bounding boxul verificam daca e noise sau nu, iar daca e legit il punem in lista de patches
-- ulterior fiecare imagine in patches va fi resized la 48x48 si va fi rulata prin model
-
-Observatie: In contest, s-a luat si 99p la problema de CV, deci teoretic este posibil, dar nu consider ca merita timpul aditional de lucru, cand rezolvarea este in principal la fel (ajustare hyperparametrii, seed, etc.).
+- since there are multiple neumes per image, they must be selected (our model works _only_ with 48x48 grayscale images containing a single neume)
+- using OpenCV, we first binarize the image—converting it to black and white (removing background)—using thresholding and blurring
+- once the image is clean, we use the `findContours` function in OpenCV to identify distinct objects
+- for each contour, we use the bounding box to check if it is noise; if legitimate, it is added to the list of patches
+- subsequently, each patch image is resized to 48x48 and processed through the model

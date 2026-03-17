@@ -1,8 +1,8 @@
 # Selection Camp 2025
 
-Selection Round 1 (CV): https://judge.nitro-ai.org/roai-2025/lot-baraj-1/
+Selection Round 1 (CV): https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-1/
 
-Selection Round 2 (NLP): https://judge.nitro-ai.org/roai-2025/lot-baraj-2/
+Selection Round 2 (NLP): https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-2/
 
 Selection Round 3 (Theory): https://olimpiada.nitro-ai.org/2025/lot/subiecte-teorie.pdf
 
