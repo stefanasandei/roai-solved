@@ -13,7 +13,7 @@ During the contests, the datasets could be downloaded from http://roai-docs.olim
 | Task        | Score   | Type |
 | ----------- | ------- | ---- |
 | Hotspot     | **98**  | CV   |
-| Angry Birds | **-**   | CV   |
+| Angry Birds | **100** | CV   |
 | Toxic       | **100** | NLP  |
 | Skeletons   | **100** | NLP  |
 
@@ -31,7 +31,9 @@ Solution 100/100: Explanation coming soon!
 
 Summary: A ResNet50 is provided and must be fine-tuned to classify 2 types of images: water bird or land bird. Elements were added to the dataset to increase difficulty: a red square in a random position was added to land bird images (only in the training set). There are images of water birds on land/water backgrounds and land birds on water/land backgrounds. The training dataset is imbalanced regarding these bird/background types. Evaluation is based on the lowest accuracy among the 4 classes: water/land bird on water/land background.
 
-Explanation coming soon!
+Explanation coming soon! implementation of this paper: https://arxiv.org/abs/1911.08731
+
+DRO + IRM
 
 ### Task 3: [How Toxic Are You Online? ](https://judge.nitro-ai.org/competitions/roai-2025/lot-baraj-2/1/view)
 
