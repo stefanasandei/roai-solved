@@ -4,8 +4,8 @@ Link: https://judge.nitro-ai.org/competitions/decebaltech/decebaltech-ai-challen
 
 ## Sami, Ofițerul de Conformitate: 100p
 
-Subtask 1: 0.618928 Macro F1
-
-Subtask 2: 0.5 Top-1 Accuracy
-
 Explanations coming soon!
+
+## Bazarul lui Riki: 100p
+
+Explanations coming soon! tldr: Latent Semantic Analysis

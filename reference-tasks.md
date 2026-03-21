@@ -39,23 +39,24 @@ If you want more practice, I recommend the ML tasks from [AICC](https://ioai-com
 
 Starting from beginner with texts in tabular datasets, to working with deep learning generative models. For language processing, you can use NLTK.
 
-| competition             | task                                                               | what you'll learn                           |
-| ----------------------- | ------------------------------------------------------------------ | ------------------------------------------- |
-| Nitro NLP 2025          | mickey si donald                                                   | tfidf, models (1)                           |
-| BCS Intermediate 1 2025 | are you a robot                                                    | language processing, tfidf                  |
-| ONIA 2025               | om vs ai                                                           | text cleaning (1) + tfidf, models (2)       |
-| ROAI 2025               | toxic                                                              | text cleaning (2) + tfidf, models (3)       |
-| MLCompete               | verses author                                                      | nlp feature engineering, text cleaning (3)  |
-| Algolymp Winter Round   | Save the Christmas                                                 | named entity recognition                    |
-| ROAI 2025               | skeletons                                                          | recurrent neural networks, sequence data    |
-| Poland Phase 2 2025     | source extraction                                                  | embeddings (1)                              |
-| MLCompete               | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - but with mid score         |
-| NEOAI 2025              | broken bert                                                        | embeddings (3)                              |
-| ROAI 2025               | toxic (again)                                                      | model finetuning (1), Bert                  |
-| MLCompete               | [Text correction](https://platform.olimpiada-ai.ro/en/problems/46) | model finetuning (2), T5                    |
-| AICC Round 2            | essay gap                                                          | model finetuning (3), Bert                  |
-| MLCompete               | Residency Exam (again for full score)                              | LLMs - local vLLM inference or using an API |
-| NEOAI 2025              | evading ai text detection                                          | LLM steering + sparse autoencoders          |
+| competition             | task                                                               | what you'll learn                             |
+| ----------------------- | ------------------------------------------------------------------ | --------------------------------------------- |
+| Nitro NLP 2025          | mickey si donald                                                   | tfidf, models (1)                             |
+| BCS Intermediate 1 2025 | are you a robot                                                    | language processing, tfidf                    |
+| ONIA 2025               | om vs ai                                                           | text cleaning (1) + tfidf, models (2)         |
+| ROAI 2025               | toxic                                                              | text cleaning (2) + tfidf, models (3)         |
+| MLCompete               | verses author                                                      | nlp feature engineering, text cleaning (3)    |
+| Algolymp Winter Round   | Save the Christmas                                                 | named entity recognition                      |
+| DecebalTech 2026        | Bazarul lui Riki                                                   | latent semantic analysis (svd, proj, cos sim) |
+| ROAI 2025               | skeletons                                                          | recurrent neural networks, sequence data      |
+| Poland Phase 2 2025     | source extraction                                                  | embeddings (1)                                |
+| MLCompete               | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - but with mid score           |
+| NEOAI 2025              | broken bert                                                        | embeddings (3)                                |
+| ROAI 2025               | toxic (again)                                                      | model finetuning (1), Bert                    |
+| MLCompete               | [Text correction](https://platform.olimpiada-ai.ro/en/problems/46) | model finetuning (2), T5                      |
+| AICC Round 2            | essay gap                                                          | model finetuning (3), Bert                    |
+| MLCompete               | Residency Exam (again for full score)                              | LLMs - local vLLM inference or using an API   |
+| NEOAI 2025              | evading ai text detection                                          | LLM steering + sparse autoencoders            |
 
 ## Computer Vision
 

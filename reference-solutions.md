@@ -10,7 +10,7 @@ This file contains the short idea to solve all tasks I did.
 | Romania | Regional 2025   | smart cargo                | feature engineering (dummy), linear regression     | ML    |
 | Romania | National 2025   | notatie bizantina          | image processing, CNN classifier                   | CV    |
 | Romania | National 2025   | om vs ai                   | text cleaning, tfidf, clustering                   | NLP   |
-| Romania | Camp CV 2025    | angry birds                | work in progress                                   | CV    |
+| Romania | Camp CV 2025    | angry birds                | group DRO + IRM loss; spurious correlations        | CV    |
 | Romania | Camp CV 2025    | hotspot                    | image preprocessing                                | CV    |
 | Romania | Camp NLP 2025   | skeletons                  | LSTM model, time series processing                 | NLP   |
 | Romania | Camp NLP 2025   | toxic                      | text cleaning, tfidf, catboost, threshold tuning   | NLP   |
@@ -110,7 +110,7 @@ Note: these are my personal solutions, for official solutions go [here](https://
 | Algolymp Winter 2025      | the grinch incident     | work in progress                                                    | CV     |
 | Algolymp Winter 2025      | save the Christmas      | work in progress                                                    | NLP    |
 | Decebal Tech 2025         | sami                    | image processing, find similar objects (clahe, rift, flann matcher) | CV     |
-| Decebal Tech 2025         | riki                    | work in progress                                                    | NLP    |
+| Decebal Tech 2025         | riki                    | svd on tfidf, then project to same space and do cosine sim (LSA)    | NLP    |
 | BCS Beginner 2 2026       | gigel and llms          | work in progress                                                    | NLP    |
 | BCS Beginner 2 2026       | gigel and admission     | work in progress                                                    | ML     |
 <!-- 
