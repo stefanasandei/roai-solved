@@ -5,7 +5,7 @@
 | score    | 0.08244             | 0.78010        | 0.98853                        |
 | baseline | -                   | -              | 0                              |
 
-Explanations coming soon, check out Nikoloz Gegenava's write ups in the meantime: https://ioai-community-contest.netlify.app/community
+Explanations coming soon, check out Nikoloz Gegenava's write ups in the meantime: https://aicc-official.org/community
 
 However you should also be able to understand the solutions by reading the notebooks.
 

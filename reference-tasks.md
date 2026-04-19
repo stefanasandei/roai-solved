@@ -1,6 +1,6 @@
 # Reference Tasks
 
-An outline of the most useful tasks to learn competitive AI. Take it as a roadmap to learn topics.
+An outline of the most useful tasks to learn competitive AI. Take it as a **roadmap** to learn topics.
 
 Each table goes from easiest tasks to "most interesting". Do the tasks in order, they will take you through 90% of the required knowledge. I didn't duplicate topics, for example you *might* need to do more tasks with topic X to understand it, go to [solutions](./reference-solutions.md) to see the gist of all tasks and find what you want to practice.
 
@@ -33,7 +33,7 @@ Resources (easy, short -> hard, long), some might be overkill in the beginning, 
 - Scikit Learn's [User Guide](https://scikit-learn.org/stable/user_guide.html) - read this like a book
 - Books: [Mathematics for ML](https://mml-book.github.io/book/mml-book_printed.pdf), [Probabilistic ML: An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf), [CS229 Lecture Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf), ["Exerciţii de învăţare automată"](https://piazza.com/class_profile/get_resource/mfy56qgohaq65z/mfy63lst4lj3k3)
 
-If you want more practice, I recommend the ML tasks from [AICC](https://ioai-community-contest.netlify.app/contests) (their focus is on EDA and theory), as well as the OJIA-level ML rounds from [Nitro Judge](https://judge.nitro-ai.org/competitions).
+If you want more practice, I recommend the ML tasks from [AICC](https://aicc-official.org/contests) (their focus is on EDA and theory), as well as the OJIA-level ML rounds from [Nitro Judge](https://judge.nitro-ai.org/competitions).
 
 ## Natural Language Processing
 
@@ -93,6 +93,8 @@ For image processing tasks, I highly recommend solving them using *only* OpenCV.
 | AICC Round 2      | demixing audio | unet for sounds               |
 
 ## Deep Learning
+
+Deep learning is also used in plenty tasks from the other sections. These tasks are more focused on general deep learning algorithms/methods, which can be applied to any type of data.
 
 | competition      | task              | what you'll learn                         |
 | ---------------- | ----------------- | ----------------------------------------- |

@@ -9,9 +9,9 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 
 | Task | Score | Baseline | Best Score | Percentage | Type |
 | ---- | ----- | -------- | ---------- | ---------- | ---- |
-| Q1   | **-** | -        | -          | **-**      | CV   |
-| Q2   | **-** | -        | -          | **-**      | NLP  |
-| Q3   | **-** | -        | -          | **-**      | NLP  |
+| HW1  | **-** | -        | -          | **-**      | CV   |
+| HW2  | **-** | -        | -          | **-**      | NLP  |
+| HW3  | **-** | -        | -          | **-**      | NLP  |
 | 1    | **-** | -        | -          | **-**      | ML   |
 | 2    | **-** | -        | -          | **-**      | CV   |
 | 3    | **-** | -        | -          | **-**      | NLP  |
@@ -19,18 +19,18 @@ Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - B
 | 5    | **-** | -        | -          | **-**      | NLP  |
 | 6    | **-** | -        | -          | **-**      | CV   |
 
-There were 3 tasks for qualifying and 6 actual tasks.
+There were 3 tasks for homework (like IOAI's at-home) and 6 actual tasks.
 
 ## Explanations
 
-### Qualifying Task 1: [Terminal Animals](https://www.kaggle.com/competitions/neoai-2026-qualification-terminal-animals-homework)
+### Homework Task 1: [Code Stars](https://www.kaggle.com/competitions/neoai-2026-qualification-code-stars-homework)
 
 todo
 
-### Qualifying Task 2: [Code Stars](https://www.kaggle.com/competitions/neoai-2026-qualification-code-stars-homework)
+### Homework Task 2: [Terminal Animals](https://www.kaggle.com/competitions/neoai-2026-qualification-terminal-animals-homework)
 
 todo
 
-### Qualifying Task 2: [Find Comments](https://www.kaggle.com/competitions/neoai-2026-qualification-find-comments-homework/data)
+### Homework Task 3: [Find Comments](https://www.kaggle.com/competitions/neoai-2026-qualification-find-comments-homework/data)
 
 todo
