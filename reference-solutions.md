@@ -4,65 +4,84 @@ This file contains the short idea to solve all tasks I did. (wip = work in progr
 
 ## National Olympiads
 
-| country | round                    | task                       | core idea                                          | type  |
-| ------- | ------------------------ | -------------------------- | -------------------------------------------------- | ----- |
-| Romania | Regional 2025            | consum caloric             | feature engineering (poly), linear regression      | ML    |
-| Romania | Regional 2025            | smart cargo                | feature engineering (dummy), linear regression     | ML    |
-| Romania | National 2025            | notatie bizantina          | image processing, CNN classifier                   | CV    |
-| Romania | National 2025            | om vs ai                   | text cleaning, tfidf, clustering                   | NLP   |
-| Romania | Camp CV 2025             | angry birds                | group DRO + IRM loss; spurious correlations        | CV    |
-| Romania | Camp CV 2025             | hotspot                    | image preprocessing                                | CV    |
-| Romania | Camp NLP 2025            | skeletons                  | LSTM model, time series processing                 | NLP   |
-| Romania | Camp NLP 2025            | toxic                      | text cleaning, tfidf, catboost, threshold tuning   | NLP   |
-| Poland  | Phase 1 2025             | coin counting machine      | wip                                                | CV    |
-| Poland  | Phase 1 2025             | hallucination detection    | wip                                                | NLP   |
-| Poland  | Phase 1 2025             | ECG signal disturbances    | wip                                                | ML    |
-| Poland  | Phase 1 2025             | noise in data labels       | wip                                                | CV    |
-| Poland  | Phase 1 2025             | hidden substrings          | wip                                                | NLP   |
-| Poland  | Phase 2 2025             | borrowing                  | wip                                                | ML    |
-| Poland  | Phase 2 2025             | non-normal dist            | multi-task CV model + encoder-decoder architecture | CV    |
-| Poland  | Phase 2 2025             | source extraction          | retrieval using embeddings                         | NLP   |
-| Poland  | Phase 3 2025             |                            | wip                                                |       |
-| Poland  | Phase 3 2025             |                            | wip                                                |       |
-| Poland  | Phase 3 2025             |                            | wip                                                |       |
-| Poland  | Phase 3 2025             |                            | wip                                                |       |
-| Romania | Local ROAI 2026          | calitate sol               | dataframe operations & cleaning, FE based on that  | ML    |
-| Romania | Local ROAI 2026          | anpc                       | bfs on state space                                 | ML    |
-| Georgia | ML Round 1 2026          | data reduction             | wip                                                | ML    |
-| Georgia | ML Round 1 2026          | memory trace               | model confidence threshold                         | ML    |
-| Georgia | ML Round 1 2026          | planet x                   | knn on lr coefs, find k most similar models        | ML    |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Georgia | ML Round 2 2026          |                            | wip                                                |       |
-| Poland  | Phase 1 2026             | convolution filters        | wip                                                | CV    |
-| Poland  | Phase 1 2026             | multi-label classification | wip                                                | CV    |
-| Poland  | Phase 1 2026             | whisper or scream          | wip                                                | Audio |
-| Poland  | Phase 1 2026             | semantic changes           | wip                                                | NLP   |
-| Poland  | Phase 1 2026             | multispectral segmentation | wip                                                | CV    |
-| Poland  | Phase 2 2026             |                            | wip                                                |       |
-| Poland  | Phase 2 2026             |                            | wip                                                |       |
-| Poland  | Phase 2 2026             |                            | wip                                                |       |
-| Poland  | Phase 2 2026             |                            | wip                                                |       |
-| Romania | Regional ROAI 9-10 2026  |                            | wip                                                |       |
-| Romania | Regional ROAI 9-10 2026  |                            | wip                                                |       |
-| Romania | Regional ROAI 11-12 2026 |                            | wip                                                |       |
-| Romania | Regional ROAI 11-12 2026 |                            | wip                                                |       |
-| Romania | National ROAI 9-10 2026  |                            | wip                                                |       |
-| Romania | National ROAI 9-10 2026  |                            | wip                                                |       |
-| Romania | National ROAI 11-12 2026 |                            | wip                                                |       |
-| Romania | National ROAI 11-12 2026 |                            | wip                                                |       |
-| Romania | National ROAI 11-12 2026 |                            | wip                                                |       |
-| Romania | ROAI Camp Qualifier 2026 |                            | wip                                                |       |
-| Romania | ROAI Camp Qualifier 2026 |                            | wip                                                |       |
-| Romania | Regional ONIA 2026       |                            | wip                                                |       |
-| Romania | Regional ONIA 2026       |                            | wip                                                |       |
-| Romania | National ONIA 2026       |                            | wip                                                |       |
-| Romania | National ONIA 2026       |                            | wip                                                |       |
-| Romania | National ONIA 2026       |                            | wip                                                |       |
-
+| country    | round                    | task                       | core idea                                          | type  |
+| ---------- | ------------------------ | -------------------------- | -------------------------------------------------- | ----- |
+| Poland     | Phase 1 2024             | adversarial attacks        | wip                                                |       |
+| Poland     | Phase 1 2024             | imbalanced classification  | wip                                                |       |
+| Poland     | Phase 1 2024             | dependency parsing         | wip                                                |       |
+| Poland     | Phase 1 2024             | color quantization         | wip                                                |       |
+| Poland     | Phase 1 2024             | object tracking            | wip                                                |       |
+| Poland     | Phase 1 2024             | pruning                    | wip                                                |       |
+| Poland     | Phase 1 2024             | riddles                    | wip                                                |       |
+| Poland     | Phase 2 2024             | ciphers                    | wip                                                |       |
+| Poland     | Phase 2 2024             | anomaly detection          | wip                                                |       |
+| Poland     | Phase 2 2024             | Self-supervised learning   | wip                                                |       |
+| Romania    | Regional 2025            | consum caloric             | feature engineering (poly), linear regression      | ML    |
+| Romania    | Regional 2025            | smart cargo                | feature engineering (dummy), linear regression     | ML    |
+| Romania    | National 2025            | notatie bizantina          | image processing, CNN classifier                   | CV    |
+| Romania    | National 2025            | om vs ai                   | text cleaning, tfidf, clustering                   | NLP   |
+| Romania    | Camp CV 2025             | angry birds                | group DRO + IRM loss; spurious correlations        | CV    |
+| Romania    | Camp CV 2025             | hotspot                    | image preprocessing                                | CV    |
+| Romania    | Camp NLP 2025            | skeletons                  | LSTM model, time series processing                 | NLP   |
+| Romania    | Camp NLP 2025            | toxic                      | text cleaning, tfidf, catboost, threshold tuning   | NLP   |
+| Poland     | Phase 1 2025             | coin counting machine      | wip                                                | CV    |
+| Poland     | Phase 1 2025             | hallucination detection    | wip                                                | NLP   |
+| Poland     | Phase 1 2025             | ECG signal disturbances    | wip                                                | ML    |
+| Poland     | Phase 1 2025             | noise in data labels       | wip                                                | CV    |
+| Poland     | Phase 1 2025             | hidden substrings          | wip                                                | NLP   |
+| Poland     | Phase 2 2025             | borrowing                  | wip                                                | ML    |
+| Poland     | Phase 2 2025             | non-normal dist            | multi-task CV model + encoder-decoder architecture | CV    |
+| Poland     | Phase 2 2025             | source extraction          | retrieval using embeddings                         | NLP   |
+| Poland     | Phase 3 2025             |                            | wip                                                |       |
+| Poland     | Phase 3 2025             |                            | wip                                                |       |
+| Poland     | Phase 3 2025             |                            | wip                                                |       |
+| Poland     | Phase 3 2025             |                            | wip                                                |       |
+| Romania    | Local ROAI 2026          | calitate sol               | dataframe operations & cleaning, FE based on that  | ML    |
+| Romania    | Local ROAI 2026          | anpc                       | bfs on state space                                 | ML    |
+| Georgia    | ML Round 1 2026          | data reduction             | wip                                                | ML    |
+| Georgia    | ML Round 1 2026          | memory trace               | model confidence threshold                         | ML    |
+| Georgia    | ML Round 1 2026          | planet x                   | knn on lr coefs, find k most similar models        | ML    |
+| Georgia    | ML Round 2 2026          |                            | wip                                                |       |
+| Georgia    | ML Round 2 2026          |                            | wip                                                |       |
+| Georgia    | ML Round 2 2026          |                            | wip                                                |       |
+| Georgia    | ML Round 3 2026          |                            | wip                                                |       |
+| Georgia    | ML Round 3 2026          |                            | wip                                                |       |
+| Georgia    | ML Round 3 2026          |                            | wip                                                |       |
+| Poland     | Phase 1 2026             | convolution filters        | wip                                                | CV    |
+| Poland     | Phase 1 2026             | multi-label classification | wip                                                | CV    |
+| Poland     | Phase 1 2026             | whisper or scream          | wip                                                | Audio |
+| Poland     | Phase 1 2026             | semantic changes           | wip                                                | NLP   |
+| Poland     | Phase 1 2026             | multispectral segmentation | wip                                                | CV    |
+| Poland     | Phase 2 2026             |                            | wip                                                |       |
+| Poland     | Phase 2 2026             |                            | wip                                                |       |
+| Poland     | Phase 2 2026             |                            | wip                                                |       |
+| Poland     | Phase 2 2026             |                            | wip                                                |       |
+| Romania    | Local ROAI 2026          |                            | wip                                                |       |
+| Romania    | Local ROAI 2026          |                            | wip                                                |       |
+| Romania    | Regional ROAI 9-10 2026  |                            | wip                                                |       |
+| Romania    | Regional ROAI 9-10 2026  |                            | wip                                                |       |
+| Romania    | Regional ROAI 11-12 2026 |                            | wip                                                |       |
+| Romania    | Regional ROAI 11-12 2026 |                            | wip                                                |       |
+| Romania    | National ROAI 9-10 2026  |                            | wip                                                |       |
+| Romania    | National ROAI 9-10 2026  |                            | wip                                                |       |
+| Romania    | National ROAI 11-12 2026 |                            | wip                                                |       |
+| Romania    | National ROAI 11-12 2026 |                            | wip                                                |       |
+| Romania    | National ROAI 11-12 2026 |                            | wip                                                |       |
+| Romania    | ROAI Camp Qualifier 2026 |                            | wip                                                |       |
+| Romania    | ROAI Camp Qualifier 2026 |                            | wip                                                |       |
+| Romania    | Locla ONIA 2026          |                            | wip                                                |       |
+| Romania    | Locla ONIA 2026          |                            | wip                                                |       |
+| Romania    | Regional ONIA 2026       |                            | wip                                                |       |
+| Romania    | Regional ONIA 2026       |                            | wip                                                |       |
+| Romania    | National ONIA 2026       |                            | wip                                                |       |
+| Romania    | National ONIA 2026       |                            | wip                                                |       |
+| Romania    | National ONIA 2026       |                            | wip                                                |       |
+| Slovakia   | National 2026            |                            | wip                                                |       |
+| Slovakia   | National 2026            |                            | wip                                                |       |
+| Slovakia   | National 2026            |                            | wip                                                |       |
+| Kazakhstan | Round 1 2026             |                            | wip                                                |       |
+| Kazakhstan | Round 2 2026             |                            | wip                                                |       |
+| Kazakhstan | Round 2 2026             |                            | wip                                                |       |
 
 ## International Contests
 
