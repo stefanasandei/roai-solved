@@ -1,6 +1,6 @@
 # NEOAI 2025
 
-https://www.kaggle.com/competitions/neoai-2025/overview
+Link: https://www.kaggle.com/competitions/neoai-2025/overview
 
 ## Status
 
@@ -111,6 +111,6 @@ In the baseline, they also computed text embeddings, using the text encoder. The
 
 Summary: train a joint BERT model for intent classification and slot filling, there are train/validation/test datasets.
 
-The issue is due the fact that the training dataset is in english and the testing dataset is in russian. I did not finish coding this task, however it is worth trying to seach in `ru_en_pairs.jsonl` for translations and replace where possible. This way we can train in russian. Another thing recommended by chatgpt was to do "Unsupervised Domain Adaptation via Continued MLM Pretraining", basically use `unlabeled_texts.txt` to train the BERT's text encoder on the russian language, use the `DataCollatorForLanguageModeling` collator.
+The issue is due the fact that the training dataset is in english and the testing dataset is in russian. I did not finish coding this task, however it is worth trying to seach in `ru_en_pairs.jsonl` for translations and replace where possible. This way we can train in russian. Another possible idea is to do "Unsupervised Domain Adaptation via Continued MLM Pretraining", basically use `unlabeled_texts.txt` to train the BERT's text encoder on the russian language, use the `DataCollatorForLanguageModeling` collator.
 
 Another basic ideas would be to tweak the epochs number, learning rate, gradient clipping and add a learning rate scheduler. We can't change the loss, so no modifications there. 
