@@ -96,10 +96,11 @@ For image processing tasks, I highly recommend solving them using *only* OpenCV.
 
 Deep learning is also used in plenty tasks from the other sections. These tasks are more focused on general deep learning algorithms/methods, which can be applied to any type of data.
 
-| competition      | task              | what you'll learn                         |
-| ---------------- | ----------------- | ----------------------------------------- |
-| NEOAI 2025       | underfitting cv   | hyperparam tuning + KV divergence loss    |
-| AICC Round 0     | find brain tumors | self supervised learning (BYOL, FixMatch) |
-| IOAI Mock 2025   | grid collage      | pseudo labeling                           |
-| AICC Round 1     | the defected nuts | anomaly detection                         |
-| CEOAI Practice 1 | star observatory  | knowledge distillation                    |
+| competition         | task              | what you'll learn                         |
+| ------------------- | ----------------- | ----------------------------------------- |
+| NEOAI 2025          | underfitting cv   | hyperparam tuning + KV divergence loss    |
+| AICC Round 0        | find brain tumors | self supervised learning (BYOL, FixMatch) |
+| IOAI Mock 2025      | grid collage      | pseudo labeling                           |
+| AICC Round 1        | the defected nuts | anomaly detection                         |
+| CEOAI Practice 1    | star observatory  | knowledge distillation                    |
+| Poland Phase 1 2024 | adversial attacks | FGSM, PGD (Projected Gradient Descent)    |
