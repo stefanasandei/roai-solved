@@ -22,6 +22,7 @@ Quick roadmap to get you familar with classical machine learning models and tabu
 | Local Stage Simulation 2026 | parkinson               | models (2)                               |
 | BCS Easter Round 2025       | brain anomaly detection | models (3)                               |
 | ONIA Winter Warmup 2025     | rabbit exhibition       | models (4) + data cleaning               |
+| Algolymp PreOJIA 11-12 2026 | hello aliens            | pca, thresholding                        |
 | IOAI Mock 2025              | chem simulation         | normalization, outliers, FE + models (5) |
 | Georgia Round 1 2026        | memory trace            | model theory (1)                         |
 | Georgia Round 1 2026        | planet x                | model theory (2)                         |
@@ -39,24 +40,25 @@ If you want more practice, I recommend the ML tasks from [AICC](https://aicc-off
 
 Starting from beginner with texts in tabular datasets, to working with deep learning generative models. For language processing, you can use NLTK.
 
-| competition             | task                                                               | what you'll learn                             |
-| ----------------------- | ------------------------------------------------------------------ | --------------------------------------------- |
-| Nitro NLP 2025          | mickey si donald                                                   | tfidf, models (1)                             |
-| BCS Intermediate 1 2025 | are you a robot                                                    | language processing, tfidf                    |
-| ONIA 2025               | om vs ai                                                           | text cleaning (1) + tfidf, models (2)         |
-| ROAI 2025               | toxic                                                              | text cleaning (2) + tfidf, models (3)         |
-| MLCompete               | verses author                                                      | nlp feature engineering, text cleaning (3)    |
-| Algolymp Winter Round   | Save the Christmas                                                 | named entity recognition                      |
-| DecebalTech 2026        | Bazarul lui Riki                                                   | latent semantic analysis (svd, proj, cos sim) |
-| ROAI 2025               | skeletons                                                          | recurrent neural networks, sequence data      |
-| Poland Phase 2 2025     | source extraction                                                  | embeddings (1)                                |
-| MLCompete               | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - but with mid score           |
-| NEOAI 2025              | broken bert                                                        | embeddings (3)                                |
-| ROAI 2025               | toxic (again)                                                      | model finetuning (1), Bert                    |
-| MLCompete               | [Text correction](https://platform.olimpiada-ai.ro/en/problems/46) | model finetuning (2), T5                      |
-| AICC Round 2            | essay gap                                                          | model finetuning (3), Bert                    |
-| MLCompete               | Residency Exam (again for full score)                              | LLMs - local vLLM inference or using an API   |
-| NEOAI 2025              | evading ai text detection                                          | LLM steering + sparse autoencoders            |
+| competition                | task                                                               | what you'll learn                             |
+| -------------------------- | ------------------------------------------------------------------ | --------------------------------------------- |
+| Nitro NLP 2025             | mickey si donald                                                   | tfidf, models (1)                             |
+| BCS Intermediate 1 2025    | are you a robot                                                    | language processing, tfidf                    |
+| ONIA 2025                  | om vs ai                                                           | text cleaning (1) + tfidf, models (2)         |
+| ROAI 2025                  | toxic                                                              | text cleaning (2) + tfidf, models (3)         |
+| MLCompete                  | verses author                                                      | nlp feature engineering, text cleaning (3)    |
+| Algolymp Winter Round      | Save the Christmas                                                 | named entity recognition                      |
+| DecebalTech 2026           | Bazarul lui Riki                                                   | latent semantic analysis (svd, proj, cos sim) |
+| ROAI 2025                  | skeletons                                                          | recurrent neural networks, sequence data (1)  |
+| Algolymp PreONIA 9-10 2026 | rna profile                                                        | bi-lstm, sequence data (2)                    |
+| Poland Phase 2 2025        | source extraction                                                  | embeddings (1)                                |
+| MLCompete                  | [Residency Exam](https://platform.olimpiada-ai.ro/en/problems/43)  | embeddings (2) - solution without best score  |
+| NEOAI 2025                 | broken bert                                                        | embeddings (3)                                |
+| ROAI 2025                  | toxic (again)                                                      | model finetuning (1), Bert                    |
+| MLCompete                  | [Text correction](https://platform.olimpiada-ai.ro/en/problems/46) | model finetuning (2), T5                      |
+| AICC Round 2               | essay gap                                                          | model finetuning (3), Bert                    |
+| MLCompete                  | Residency Exam (again, for full score)                             | LLMs - local vLLM inference or using an API   |
+| NEOAI 2025                 | evading ai text detection                                          | LLM steering + sparse autoencoders            |
 
 ## Computer Vision
 
@@ -72,19 +74,24 @@ For image processing tasks, I highly recommend solving them using *only* OpenCV.
 | Algolymp PreOJIA 11-12 2026 | lunar craters                 | image processing (4)               |
 | Poland Phase 2 2025         | non-normal dist               | encoder-decoder architecture       |
 | ONIA Winter Warmup 2025     | glitch hunter                 | binary segmentation using UNet (1) |
-| IOAI At-Home 2025           | weather                       | UNet (2) + advanced modules + TTA  |
+| AICC Round 6                | nuclei reconstruction         | segmentation (2), patched UNet     |
 | IOAI At-Home 2025           | radar                         | encoder-decoder, focal loss        |
+| IOAI At-Home 2025           | weather                       | UNet (*2) + advanced modules + TTA |
 | Spooky Round 2025           | haunt me                      | object detection (1), faster rcnn  |
 | Nitro NLP 2025              | find the ducks                | object detection (2), yolo         |
 | AICC Round 2                | face matching                 | CLIP (1), embeddings retrieval     |
-| ONIA Winter Warmup 2025     | magic of words                | CLIP (2), finetune                 |
-| NEOAI 2025                  | cuties segmentation           | CLIP (3), CLIPSeg                  |
-| IOAI Day 2 2025             | restroom                      | CLIP (4), CLIPReID                 |
-| IOAI Day 2 2025             | pixel                         | CLIP (5), MaskCLIP                 |
+| Romania National ONIA 2026  | gender biases                 | CLIP (2), embeddings debias        |
+| ONIA Winter Warmup 2025     | magic of words                | CLIP (3), finetune                 |
+| NEOAI 2025                  | cuties segmentation           | CLIP (4), CLIPSeg                  |
+| IOAI Day 2 2025             | restroom                      | CLIP (5), CLIPReID                 |
+| IOAI Day 2 2025             | pixel                         | CLIP (6), MaskCLIP                 |
+| AICC Round 5                | watermark removal             | ddpm / flow matching training      |
 | NEOAI 2025                  | hogspell challenge            | stable diffusion finetune          |
 | MLCompete                   | thousand rooms                | vqa                                |
 
 ## Audio
+
+Audio tasks can be approached using either NLP (time series) or CV (spectogram) approaches.
 
 | competition       | task           | what you'll learn             |
 | ----------------- | -------------- | ----------------------------- |
@@ -96,11 +103,13 @@ For image processing tasks, I highly recommend solving them using *only* OpenCV.
 
 Deep learning is also used in plenty tasks from the other sections. These tasks are more focused on general deep learning algorithms/methods, which can be applied to any type of data.
 
-| competition         | task              | what you'll learn                         |
-| ------------------- | ----------------- | ----------------------------------------- |
-| NEOAI 2025          | underfitting cv   | hyperparam tuning + KV divergence loss    |
-| AICC Round 0        | find brain tumors | self supervised learning (BYOL, FixMatch) |
-| IOAI Mock 2025      | grid collage      | pseudo labeling                           |
-| AICC Round 1        | the defected nuts | anomaly detection                         |
-| CEOAI Practice 1    | star observatory  | knowledge distillation                    |
-| Poland Phase 1 2024 | adversial attacks | FGSM, PGD (Projected Gradient Descent)    |
+| competition         | task                 | what you'll learn                         |
+| ------------------- | -------------------- | ----------------------------------------- |
+| NEOAI 2025          | underfitting cv      | hyperparam tuning + KV divergence loss    |
+| AICC Round 0        | find brain tumors    | self supervised learning (BYOL, FixMatch) |
+| IOAI Mock 2025      | grid collage         | pseudo labeling                           |
+| AICC Round 1        | the defected nuts    | anomaly detection                         |
+| CEOAI Practice 1    | star observatory     | knowledge distillation                    |
+| AICC Round 4        | extreme condensation | dataset distillation; gradient tricks     |
+| Poland Phase 1 2024 | adversial attacks    | FGSM, PGD (Projected Gradient Descent)    |
+| AICC Round 3        | drawn apart          | multi-source adaptation (M3SDA)           |
