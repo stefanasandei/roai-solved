@@ -7,17 +7,17 @@ Announcement: https://ioai-official.org/northern-eurasian-olympiad-in-artificial
 
 Percentage formula: `Norm_Score = (Submission_Score - Baseline) / (Max_Score - Baseline) * 100`
 
-| Task | Score | Baseline | Best Score | Percentage | Type |
-| ---- | ----- | -------- | ---------- | ---------- | ---- |
-| HW1  | **-** | -        | -          | **-**      | CV   |
-| HW2  | **-** | -        | -          | **-**      | NLP  |
-| HW3  | **-** | -        | -          | **-**      | NLP  |
-| 1    | **-** | -        | -          | **-**      | ML   |
-| 2    | **-** | -        | -          | **-**      | CV   |
-| 3    | **-** | -        | -          | **-**      | NLP  |
-| 4    | **-** | -        | -          | **-**      | ML   |
-| 5    | **-** | -        | -          | **-**      | NLP  |
-| 6    | **-** | -        | -          | **-**      | CV   |
+| Task | Score       | Baseline | Best Score | Percentage | Type |
+| ---- | ----------- | -------- | ---------- | ---------- | ---- |
+| HW1  | **0.24734** | 0.14908  | 0.31496    | **59%**    | ML   |
+| HW2  | **-**       | -        | -          | **-**      |      |
+| HW3  | **-**       | -        | -          | **-**      |      |
+| 1    | **-**       | -        | -          | **-**      |      |
+| 2    | **-**       | -        | -          | **-**      |      |
+| 3    | **-**       | -        | -          | **-**      |      |
+| 4    | **-**       | -        | -          | **-**      |      |
+| 5    | **-**       | -        | -          | **-**      |      |
+| 6    | **-**       | -        | -          | **-**      |      |
 
 There were 3 tasks for homework (like IOAI's at-home) and 6 actual tasks.
 
