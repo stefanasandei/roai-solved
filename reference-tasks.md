@@ -64,30 +64,30 @@ Starting from beginner with texts in tabular datasets, to working with deep lear
 
 For image processing tasks, I highly recommend solving them using *only* OpenCV. 
 
-| competition                 | task                          | what you'll learn                  |
-| --------------------------- | ----------------------------- | ---------------------------------- |
-| MLCompete                   | Real Art vs. AI-Generated Art | CNN classification                 |
-| MLCompete                   | Saving Christmas              | pretrained CNN regression          |
-| ROAI 2025                   | hotspot                       | image preprocessing (1)            |
-| ONIA 2025                   | notatie bizantina             | image processing (2)               |
-| Decebal Tech 2025           | sami                          | image processing (3)               |
-| Algolymp PreOJIA 11-12 2026 | lunar craters                 | image processing (4)               |
-| Poland Phase 2 2025         | non-normal dist               | encoder-decoder architecture       |
-| ONIA Winter Warmup 2025     | glitch hunter                 | binary segmentation using UNet (1) |
-| AICC Round 6                | nuclei reconstruction         | segmentation (2), patched UNet     |
-| IOAI At-Home 2025           | radar                         | encoder-decoder, focal loss        |
-| IOAI At-Home 2025           | weather                       | UNet (*2) + advanced modules + TTA |
-| Spooky Round 2025           | haunt me                      | object detection (1), faster rcnn  |
-| Nitro NLP 2025              | find the ducks                | object detection (2), yolo         |
-| AICC Round 2                | face matching                 | CLIP (1), embeddings retrieval     |
-| Romania National ONIA 2026  | gender biases                 | CLIP (2), embeddings debias        |
-| ONIA Winter Warmup 2025     | magic of words                | CLIP (3), finetune                 |
-| NEOAI 2025                  | cuties segmentation           | CLIP (4), CLIPSeg                  |
-| IOAI Day 2 2025             | restroom                      | CLIP (5), CLIPReID                 |
-| IOAI Day 2 2025             | pixel                         | CLIP (6), MaskCLIP                 |
-| AICC Round 5                | watermark removal             | ddpm / flow matching training      |
-| NEOAI 2025                  | hogspell challenge            | stable diffusion finetune          |
-| MLCompete                   | thousand rooms                | vqa                                |
+| competition                 | task                          | what you'll learn                   |
+| --------------------------- | ----------------------------- | ----------------------------------- |
+| MLCompete                   | Real Art vs. AI-Generated Art | CNN classification                  |
+| MLCompete                   | Saving Christmas              | pretrained CNN regression           |
+| ROAI 2025                   | hotspot                       | image preprocessing (1)             |
+| ONIA 2025                   | notatie bizantina             | image processing (2)                |
+| Decebal Tech 2025           | sami                          | image processing (3)                |
+| Algolymp PreOJIA 11-12 2026 | lunar craters                 | image processing (4)                |
+| Poland Phase 2 2025         | non-normal dist               | encoder-decoder architecture        |
+| ONIA Winter Warmup 2025     | glitch hunter                 | binary segmentation using UNet (1)  |
+| AICC Round 6                | nuclei reconstruction         | segmentation (2), patched UNet      |
+| IOAI At-Home 2025           | radar                         | encoder-decoder, focal loss         |
+| IOAI At-Home 2025           | weather                       | UNet (*2) + advanced modules + TTA  |
+| Spooky Round 2025           | haunt me                      | object detection (1), faster rcnn   |
+| Nitro NLP 2025              | find the ducks                | object detection (2), yolo          |
+| AICC Round 2                | face matching                 | CLIP (1), embeddings retrieval      |
+| Romania National ONIA 2026  | gender biases                 | CLIP (2), embeddings debias         |
+| ONIA Winter Warmup 2025     | magic of words                | CLIP (3), finetune                  |
+| NEOAI 2025                  | cuties segmentation           | CLIP (4), linear probing or CLIPSeg |
+| IOAI Day 2 2025             | restroom                      | CLIP (5), CLIPReID                  |
+| IOAI Day 2 2025             | pixel                         | CLIP (6), MaskCLIP                  |
+| AICC Round 5                | watermark removal             | ddpm / flow matching training       |
+| NEOAI 2025                  | hogspell challenge            | stable diffusion finetune           |
+| MLCompete                   | thousand rooms                | vqa                                 |
 
 ## Audio
 

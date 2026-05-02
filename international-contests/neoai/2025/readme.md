@@ -105,7 +105,7 @@ We then train a classifier model on 768*4 features to predict wheter the subject
 
 The best threshold is found by running several options over the validation dataset and computing the intersaction over union (IoU) score.
 
-In the baseline, they also computed text embeddings, using the text encoder. Then they found the target class for each image (using the dot product and choosing the greatest value), and they stored the embedding value for the class. Conver the image into patches and get the similarity scores between the image and the target class. The probabilites are the heatmap (as in imy solution), the rest is like in the above.
+In the baseline, they also computed text embeddings, using the text encoder. Then they found the target class for each image (using the dot product and choosing the greatest value), and they stored the embedding value for the class. Convert the image into patches and get the similarity scores between the image and the target class. The probabilites are the heatmap (as in imy solution), the rest is like in the above.
 
 ### Task 8: [Intent Detection and Slot Filling](https://www.kaggle.com/code/ilseyaralimova/baseline-for-nlp-task)
 

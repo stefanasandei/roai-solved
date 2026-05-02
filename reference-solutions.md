@@ -93,7 +93,7 @@ This file contains the short idea to solve all tasks I did. (wip = work in progr
 | NEOAI 2025          | cluster images                    | torch.bmm trick                                 | ML   |
 | NEOAI 2025          | broken bert                       | fix null embeddings with sub-word embeddings    | NLP  |
 | NEOAI 2025          | hogspell challenge                | stable diffusion finetune (dreambooth training) | CV   |
-| NEOAI 2025          | cuties segmentation               | classifier for CLIP activations (CLIPSeg)       | CV   |
+| NEOAI 2025          | cuties segmentation               | classifier for CLIP activations (or CLIPSeg)    | CV   |
 | NEOAI 2025          | intent detection and slot filling | wip                                             | NLP  |
 | APOAI Mock 2025     | basketball                        | MLP training                                    | ML   |
 | APOAI Mock 2025     | text                              | tfidf                                           | NLP  |
