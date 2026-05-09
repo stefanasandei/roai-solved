@@ -87,7 +87,7 @@ Summary: fine-tune stable diffusion 1.5, when it's prompted for a horse it shoul
 
 An easy method is to generate more data (more prompts + add repetitions), and during training replace `pig` with `horse` with a 50% random chance. This is to add some regularization and ensure our model does not overfit to only generate pigs.
 
-Another main idea is from the DreamBooth paper (https://arxiv.org/abs/2208.12242), mainly the loss. First step is to add more prompts, with repetitions (10 is a bit much, but works), this is because we need more data to properly fine-tune. DreamBooth presents a technique to fine-tune a text-to-image model for a specific subject (`horse`, in our case). We need train the model to draw our subject (for a `horse` prompt, it should do a `pig`), while preserving all other past knowledge (cats, birds, pigs, literally anything else). 
+Another main idea is the loss from the DreamBooth paper (https://arxiv.org/abs/2208.12242). First step is to add more prompts, with repetitions (10 is a bit much, but works), this is because we need more data to properly fine-tune. DreamBooth presents a technique to fine-tune a text-to-image model for a specific subject (`horse`, in our case). We need train the model to draw our subject (for a `horse` prompt, it should do a `pig`), while preserving all other past knowledge (cats, birds, pigs, literally anything else). 
 
 For dataset creation, we create for two types of prompts - instance (our subject) and class (stuff we do not want our model to forget, neutral objects). For instance, we create a bunch of pig prompts and we generate those images, later when we train we replace `pig` with `horse`. For class, we need a matching number of images with neutral content. 
 
