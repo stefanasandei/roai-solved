@@ -6,7 +6,7 @@ Link: https://judge.nitro-ai.org/competitions/gaia/ai-league-ii
 
 todo
 
-## Operation "Vano Papa's Heritage"
+## Operation "Vano Papa's Heritage": [82/100](./sudoku.ipynb)
 
 todo
 
